@@ -1,0 +1,6182 @@
+country_id,winner_id,name,NumMatchWon
+ALG,213972,Ines Ibbou,88
+ALG,104467,Lamine Ouahab,8
+ALG,208603,Amira Benaissa,6
+ALG,236986,Ines Bekrar,2
+ALG,215724,Lynda Benkaddour,2
+ALG,211447,Yassamine Boudjadi,1
+ALG,214867,Hanine Boudjadi,1
+AND,223286,Victoria Jimenez Kasintseva,25
+ARG,105487,Facundo Bagnis,218
+ARG,106043,Diego Schwartzman,196
+ARG,105643,Federico Delbonis,175
+ARG,105948,Federico Coria,173
+ARG,206408,Nadia Podoroska,172
+ARG,106228,Juan Ignacio Londero,165
+ARG,105819,Guido Andreozzi,161
+ARG,105477,Marco Trungelliti,151
+ARG,105550,Guido Pella,139
+ARG,105952,Renzo Olivo,139
+ARG,105223,Juan Martin del Potro,126
+ARG,105911,Andrea Collarini,123
+ARG,202440,Paula Ormaechea,122
+ARG,206345,Victoria Bosio,120
+ARG,104122,Carlos Berlocq,119
+ARG,104919,Leonardo Mayer,118
+ARG,214604,Maria Lourdes Carle,114
+ARG,106044,Nicolas Kicker,111
+ARG,206146,Catalina Pella,109
+ARG,104547,Horacio Zeballos,91
+ARG,211921,Julieta Lara Estable,84
+ARG,106398,Pedro Cachin,83
+ARG,106006,Agustin Velotti,79
+ARG,106032,Facundo Arguello,75
+ARG,144869,Tomas Martin Etcheverry,73
+ARG,202103,Francisco Cerundolo,72
+ARG,106057,Facundo Mena,68
+ARG,126663,Juan Pablo Ficovich,63
+ARG,214106,Guillermina Naya,62
+ARG,205842,Carla Lucero,60
+ARG,220446,Jazmin Ortenzi,58
+ARG,104216,Maximo Gonzalez,58
+ARG,215140,Eugenia Ganga,55
+ARG,200116,Camilo Ugo Carabelli,54
+ARG,214136,Melany Solange Krywoj,50
+ARG,206343,Stephanie Mariel Petit,48
+ARG,206410,Guadalupe Perez Rojas,42
+ARG,206147,Sofia Luini,42
+ARG,214605,Agustina Chlpac,40
+ARG,211920,Martina Capurro Taborda,39
+ARG,220699,Julia Riera,39
+ARG,202104,Sebastian Baez,36
+ARG,207678,Juan Manuel Cerundolo,36
+ARG,122536,Juan Pablo Paz,35
+ARG,106164,Tomas Lipovsek Puches,33
+ARG,202058,Thiago Agustin Tirante,32
+ARG,106380,Gonzalo Villanueva,31
+ARG,111508,Juan Ignacio Galarza,31
+ARG,144821,Genaro Alberto Olivieri,28
+ARG,106292,Hernan Casanova,28
+ARG,105120,Andres Molteni,28
+ARG,106162,Franco Agamenone,25
+ARG,105274,Patricio Heras,22
+ARG,106352,Matias Franco Descotte,21
+ARG,207680,Facundo Diaz Acosta,19
+ARG,214554,Paula Baranano,18
+ARG,105338,Maximiliano Estevez,18
+ARG,104338,Juan Monaco,17
+ARG,215989,Andrea Agostina Farulla Di Palma,16
+ARG,215717,Candela Bugnon,14
+ARG,215158,Maria Del Rosario Vazquez,14
+ARG,221333,Solana Sierra,13
+ARG,126183,Mariano Kestelboim,13
+ARG,221334,Juana Larranaga,12
+ARG,105160,Guillermo Duran,12
+ARG,215159,Victoria Ariadna Beccio,11
+ARG,211442,Daniela Farfan,10
+ARG,125825,Matias Zukas,10
+ARG,205837,Melina Ferrero,10
+ARG,222607,Betina Buris,10
+ARG,215461,Delfina Glorioso,10
+ARG,222300,Camila Antonella Neyra,10
+ARG,210256,Maria Daniela Frascini,8
+ARG,206341,Maria Constanza De Las Mercedes Vega,8
+ARG,202413,Florencia Molinero,8
+ARG,126664,Manuel Pena Lopez,8
+ARG,216572,Maria Jazmin Amicuzi,8
+ARG,214090,Maria Jose Zehnder,7
+ARG,206406,Berta Bonardi,7
+ARG,214105,Rocio Daniela Merlo,7
+ARG,219909,Dolores Molina Portela,7
+ARG,216124,Valentina Abrile,6
+ARG,202395,Maria Irigoyen,5
+ARG,224485,Lucia Peyre,5
+ARG,105607,Gabriel Alejandro Hidalgo,5
+ARG,221331,Merlina Sarno,5
+ARG,126273,Jordi Arconada,4
+ARG,106431,Francisco Bahamonde,4
+ARG,221702,Nicole Poj,4
+ARG,222688,Sofia Constanza Karlau,4
+ARG,211601,Lucia Zelenka,4
+ARG,122538,Nicolas Alberto Arreche,4
+ARG,236963,Carolina Coletti,4
+ARG,122571,Franco Emanuel Egea,4
+ARG,211680,Camila Tumosa,4
+ARG,219403,Ornella Marcela Spinetta,4
+ARG,222839,Valentina Mutilba,3
+ARG,144973,Santiago Fa Rodriguez Taverna,3
+ARG,215991,Ana Geller,3
+ARG,210365,Tatiana Carpio,3
+ARG,222644,Sol Faga,3
+ARG,222649,Martina Maria Bovio,3
+ARG,203364,Tatiana Bua,3
+ARG,220925,Constanza Cruz,3
+ARG,220698,Agostina Landa,3
+ARG,222659,Luciana Blatter,3
+ARG,106182,Dante Gennaro,3
+ARG,222647,Daiana Postay,3
+ARG,202105,Axel Geller,3
+ARG,222652,Sofia Magaly Sanchez,3
+ARG,206405,Sofia Blanco,2
+ARG,220448,Emma Erin Kiernan,2
+ARG,221447,Chiara Desia Dabarno,2
+ARG,236966,Martina Belen Roldan Santander,2
+ARG,221335,Paula Corbalan,2
+ARG,210362,Francesca Rescaldani,2
+ARG,220928,Sofia Nahiara Garcia,2
+ARG,122441,Juan Manuel Matute,2
+ARG,236972,Luisina Giovannini,2
+ARG,221444,Martina Josefina Zarza,2
+ARG,105771,Nicolas Alejandro De Gregorio,2
+ARG,236969,Valentina Urraco,2
+ARG,220700,Miyumi Milagros Saguchi,2
+ARG,222643,Aldana Dominguez,1
+ARG,221414,Chiara Di Genova,1
+ARG,211835,Macarena Asensos,1
+ARG,202305,Franco Ribero,1
+ARG,220926,Lara Rosario De Faveri,1
+ARG,221445,Maria Agostina Liccardi Sanudo,1
+ARG,208078,Tomas Farjat,1
+ARG,202106,Juan Bautista Otegui,1
+ARG,237457,Sofia Vivas,1
+ARG,106301,Mateo Nicolas Martinez,1
+ARG,222642,Renata Gregorutti,1
+ARG,220444,Agustina Rimoldi Godoy,1
+ARG,222656,Valentina Domenicone,1
+ARG,214107,Sofia Haydee Nicolini,1
+ARG,122341,Sebastian Exequiel Pini,1
+ARG,205938,Carolina Zeballos,1
+ARG,220802,Milagros Jaime,1
+ARG,110762,Alan Kohen,1
+ARG,222840,Natalia Aruj,1
+ARG,220447,Maria Florencia Urrutia,1
+ARG,133467,Tomas Gerini,1
+ARG,222655,Maria Victoria Marchesini,1
+ARG,200434,Santiago Besada,1
+ARG,214137,Lourdes Ramalle,1
+ARG,220318,Francesca M Fanchin,1
+ARG,122672,Juan Ignacio Ameal,1
+ARG,221676,Ludmila Magali Alvez,1
+ARG,206157,Nicolas Bianchi,1
+ARG,236965,Angeles Maria Cueto,1
+ARG,222640,Lucero Noeli Monsalvo,1
+ARG,236964,Tania Sfilio,1
+ARG,236968,Lourdes Ayala,1
+ARG,124206,Juan Montes,1
+ARM,206060,Ani Amiraghyan,61
+ARM,215544,Gabriella Akopian,3
+ARM,216183,Marina Davtyan,2
+ARM,215546,Arevik Tumanyan,1
+ARM,222024,Evelina Martirosyan,1
+AUS,202458,Ashleigh Barty,211
+AUS,111442,Jordan Thompson,201
+AUS,200282,Alex De Minaur,164
+AUS,105357,John Millman,157
+AUS,214191,Seone Mendez,137
+AUS,105902,James Duckworth,137
+AUS,106401,Nick Kyrgios,132
+AUS,106109,Alex Bolt,130
+AUS,200615,Alexei Popyrin,125
+AUS,201548,Ajla Tomljanovic,124
+AUS,211878,Lizette Cabrera,119
+AUS,206292,Astra Sharma,117
+AUS,105051,Matthew Ebden,116
+AUS,117361,Akira Santillan,115
+AUS,117360,Marc Polmans,114
+AUS,105441,John Patrick Smith,111
+AUS,206362,Naiktha Bains,111
+AUS,215018,Destanee Aiava,110
+AUS,201611,Daria Gavrilova,110
+AUS,126845,Max Purcell,107
+AUS,211880,Priscilla Hon,105
+AUS,213666,Maddison Inglis,105
+AUS,201542,Olivia Rogowska,104
+AUS,106071,Bernard Tomic,101
+AUS,206391,Ellen Perez,100
+AUS,201325,Samantha Stosur,98
+AUS,126846,Aleksandar Vukic,96
+AUS,206390,Isabelle Wallace,92
+AUS,215096,Jaimee Fourlis,92
+AUS,106291,Luke Saville,92
+AUS,106331,Christopher O'Connell,89
+AUS,104594,Marinko Matosevic,88
+AUS,106186,Jason Kubler,88
+AUS,205923,Abbie Myers,75
+AUS,105454,Brydan Klein,75
+AUS,211881,Olivia Tjandramulia,75
+AUS,106423,Thanasi Kokkinakis,72
+AUS,211941,Zoe Hives,68
+AUS,204411,Storm Sanders,66
+AUS,106302,Andrew Harris,62
+AUS,105974,Maverick Banes,55
+AUS,215804,Kaylah Mcphee,54
+AUS,105595,Dayne Kelly,54
+AUS,202539,Alison Bai,52
+AUS,215811,Alexandra Bozovic,52
+AUS,106225,Andrew Whittington,50
+AUS,213599,Jelena Stojanovic,48
+AUS,220735,Tina Nadine Smith,48
+AUS,216265,Olivia Gadecki,48
+AUS,213541,Alexandra Osborne,46
+AUS,105032,Sam Groth,43
+AUS,204412,Belinda Woolcock,43
+AUS,214239,Sara Tomic,43
+AUS,219940,Ivana Popovic,42
+AUS,215832,Gabriella Da Silva Fick,41
+AUS,105881,Matthew Barton,41
+AUS,111451,Bradley Mousley,40
+AUS,214040,Kimberly Birrell,39
+AUS,203526,Tammi Patterson,35
+AUS,106425,Blake Mott,34
+AUS,110757,Jacob Grills,34
+AUS,117358,Harry Bourchier,33
+AUS,215189,Alana Parnaby,31
+AUS,215440,Alicia Smith,30
+AUS,214045,Masa Jovanovic,27
+AUS,220904,Amber Marshall,27
+AUS,117357,Omar Jasika,26
+AUS,105286,Greg Jones,24
+AUS,211751,Alexandra Walters,23
+AUS,206357,Angelique Svinos,22
+AUS,134329,Blake Ellis,21
+AUS,216090,Michaela Haet,20
+AUS,126573,Thomas Fancutt,20
+AUS,216355,Giorgie Jones,18
+AUS,106093,Benjamin Mitchell,17
+AUS,105965,Gavin Van Peperzeel,17
+AUS,201487,Jessica Moore,17
+AUS,211879,Samantha Harris,16
+AUS,221046,Ramona Mataruga,13
+AUS,216397,Laura Ashley,13
+AUS,105591,Matt Reid,13
+AUS,111452,James Frawley,12
+AUS,106254,Calum Puttergill,11
+AUS,105429,Scott Puodziunas,10
+AUS,221125,Bojana Marinkov,10
+AUS,221861,Jessica Fowler,10
+AUS,221857,Miranda Poile,10
+AUS,221026,Zara Brankovic,10
+AUS,221392,Angelina Graovac,9
+AUS,200039,Matthew Christopher Romios,9
+AUS,110727,Jarryd Chaplin,9
+AUS,221860,Olivia Symons,9
+AUS,124040,Colin Sinclair,9
+AUS,122059,Steven De Waard,9
+AUS,221045,Annerly Poulos,8
+AUS,220052,Isabella Bozicevic,8
+AUS,208013,Dane Sweeny,8
+AUS,124049,Daniel Nolan,8
+AUS,105050,Michael Look,8
+AUS,220353,Lisa Mays,8
+AUS,201370,Anastasia Rodionova,7
+AUS,105765,Mark Verryth,7
+AUS,216321,Genevieve Lorbergs,7
+AUS,200003,Jeremy Beale,7
+AUS,111360,Edward Bourchier,7
+AUS,111446,Alexander Babanine,7
+AUS,221356,Caitlyn Portela,7
+AUS,221761,Charlotte Kempenaers Pocz,6
+AUS,105525,Dane Propoggia,6
+AUS,117359,Jake Delaney,6
+AUS,200466,Alexander Crnokrak,5
+AUS,220801,Noelleda Ah San,5
+AUS,221889,Chiara Di Tommaso,5
+AUS,209262,Tristan Schoolkate,5
+AUS,221859,Cyan Sun,4
+AUS,223024,Grace Schumacher,4
+AUS,117352,Oliver Anderson,4
+AUS,206361,Nicole Hoynaski,4
+AUS,221882,Taylah Lawless,4
+AUS,132137,Tomislav Edward Papac,4
+AUS,219740,Madison Frahn,4
+AUS,221300,Chloe Isabella Tsang,4
+AUS,125804,Brandon Walkin,4
+AUS,222696,Roopa Bains,4
+AUS,201410,Monique Adamczak,4
+AUS,221027,Anastasia Berezov,4
+AUS,221862,Sophia Fry,4
+AUS,221762,Olivia Ley,4
+AUS,211924,Andrea Dikosavljevic,4
+AUS,216157,Mary Liu,3
+AUS,223183,Mia Repac,3
+AUS,221881,Lexie Weir,3
+AUS,201457,Jarmila Gajdosova,3
+AUS,126498,Damian Farinola,3
+AUS,221863,Jasmine Adams,3
+AUS,214708,Georgiana Ruhrig,3
+AUS,221866,Tamara Bajagic,3
+AUS,221872,Rebecca Jones,3
+AUS,126575,Brian Tran,3
+AUS,221883,Talia Gibson,3
+AUS,200663,James Ibrahim,3
+AUS,205884,Alexandra Cannizzaro,3
+AUS,221858,Natasha Russell,3
+AUS,103782,Rameez Junaid,3
+AUS,204298,Viktorija Rajicic,3
+AUS,207854,Jayden Court,3
+AUS,223076,Elizabeth James,3
+AUS,239397,Elena Micic,3
+AUS,221884,Natasha Camer Pesci,3
+AUS,124050,Darren K Polkinghorne,3
+AUS,126574,Daniel Hobart,3
+AUS,223204,Kelsey Lewis,3
+AUS,124045,Lawrence Bataljin,3
+AUS,201607,Sally Peers,2
+AUS,222680,Darcy Parke,2
+AUS,200660,Thomas Bosancic,2
+AUS,216259,Renee McBryde,2
+AUS,223160,Catherine Aulia,2
+AUS,202354,Matthew Dellavedova,2
+AUS,222848,Helena Spiridis,2
+AUS,221865,Meeka Marshall,2
+AUS,202322,Erik Holt Crossman,2
+AUS,215889,Kaitlin Staines,2
+AUS,221873,Nakisa Djamshidi,2
+AUS,214110,Emily Burns,2
+AUS,132124,Aaron Addison,2
+AUS,221874,Angelina Subotic,2
+AUS,208014,Rinky Hijikata,2
+AUS,223188,Ella Nurkic,2
+AUS,200640,Lucas Vuradin,2
+AUS,221867,Evana Bowell,2
+AUS,221880,Crystal Mildwaters,2
+AUS,200512,Patrick Fitzgerald,1
+AUS,238076,Ana Prso,1
+AUS,105210,Zach Itzstein,1
+AUS,200029,Matthew Leffler,1
+AUS,222684,Sasha Nelson,1
+AUS,222682,Sarah Prescott,1
+AUS,103720,Lleyton Hewitt,1
+AUS,207728,Moerani Bouzige,1
+AUS,221876,Tully Richter,1
+AUS,215181,Sarina Kang,1
+AUS,223258,Cydney Crumbie,1
+AUS,223084,Milan Krish,1
+AUS,206734,Michael Shepheard,1
+AUS,105264,Isaac Frost,1
+AUS,221893,Nadia Rajan,1
+AUS,222888,Madison Schwarz,1
+AUS,221892,Maggie Pearce,1
+AUS,134318,Cameron Green,1
+AUS,223194,Taylah Preston,1
+AUS,223192,Rhea Makesar,1
+AUS,205792,Natalie Barbir,1
+AUS,220905,Tayla Whitehouse,1
+AUS,132121,Jai Corbett,1
+AUS,134333,Nathanael Consalvo,1
+AUS,216025,Ella Husrefovic,1
+AUS,215957,Andjela Reljic,1
+AUS,223144,Ellen Shanahan,1
+AUS,223191,Shanelle Iaconi,1
+AUS,222752,Charmaine Enculescu,1
+AUS,223210,Lily Fairclough,1
+AUS,223193,Jessie Culley,1
+AUS,223195,Lara Tovich,1
+AUS,202257,Nathan Eshmade,1
+AUS,221888,Lauren Nikoloski,1
+AUS,206190,Dimitri Morogiannis,1
+AUS,136461,Sam Edward Longhurst,1
+AUS,223256,Elana Nasr,1
+AUS,200614,Mislav Bosnjak,1
+AUS,221894,Luna Jokanovic,1
+AUT,106233,Dominic Thiem,244
+AUT,211814,Julia Grabher,193
+AUT,202482,Barbara Haas,186
+AUT,124116,Sebastian Ofner,130
+AUT,110602,Dennis Novak,126
+AUT,201659,Melanie Klaffner,114
+AUT,105589,Gerald Melzer,113
+AUT,200514,Jurij Rodionov,107
+AUT,111192,Lucas Miedler,94
+AUT,214818,Mira Antonitsch,87
+AUT,201481,Tamira Paszek,65
+AUT,221257,Sinja Kraus,65
+AUT,204390,Pia Konig,57
+AUT,105814,Maximilian Neuchrist,48
+AUT,103781,Jurgen Melzer,45
+AUT,211330,Marlies Szupper,44
+AUT,126634,Lenny Hampel,33
+AUT,105426,Michael Linzer,32
+AUT,204352,Yvonne Neuwirth,28
+AUT,104890,Andreas Haider Maurer,27
+AUT,211283,Karoline Kurz,26
+AUT,211408,Kerstin Peckl,25
+AUT,221345,Alina Michalitsch,24
+AUT,220591,Arabella Koller,20
+AUT,202451,Nicole Rottmann,18
+AUT,204388,Lisa Maria Moser,18
+AUT,219770,Ema Vasic,16
+AUT,126623,Alexander Erler,15
+AUT,126536,David Pichler,15
+AUT,222558,Stefanie Auer,14
+AUT,222541,Irina Dshandshgava,14
+AUT,215420,Caroline Ilowska,13
+AUT,221282,Veronika Bokor,12
+AUT,210223,Natasha Bredl,12
+AUT,105557,Gibril Diarra,11
+AUT,203965,Bettina Pirker,8
+AUT,221340,Daniela Glanzer,5
+AUT,215507,Livia Kraus,5
+AUT,240996,Tamara Kostic,4
+AUT,222538,Anna Gross,4
+AUT,105542,Bastian Trinker,4
+AUT,221005,Selina Pichler,4
+AUT,106060,Thomas Statzberger,3
+AUT,105353,Pascal Brunner,3
+AUT,105864,Tristan Samuel Weissborn,3
+AUT,221404,Emily Meyer,3
+AUT,237476,Ines Faltinger,3
+AUT,214718,Christina Wolfgruber,2
+AUT,216127,Nadja Ramskogler,2
+AUT,221013,Mavie Osterreicher,2
+AUT,214022,Elba Kasum,2
+AUT,104667,Philipp Oswald,2
+AUT,209903,Lukas Neumayer,2
+AUT,222791,Anastasia Dimitrijevic,1
+AUT,244080,Laura Pasterk,1
+AUT,222925,Viktoria Kurz,1
+AUT,216168,Anna Lena Neuwirth,1
+AUT,207491,Sandro Kopp,1
+AUT,239185,Sophia Desiree Piech,1
+AUT,239427,Lea Erenda,1
+AUT,221685,Lara Kaiser,1
+AUT,214752,Alena Weiss,1
+AUT,221378,Eva Maria Riml,1
+AUT,244074,Elena Karner,1
+AUT,239182,Sara Erenda,1
+AUT,216098,Eva Nyikos,1
+AUT,222069,Anita Gavran,1
+AUT,221704,Liz Keller,1
+AUT,239391,Jelena Ristic,1
+AUT,222537,Katarina Sopkova,1
+AUT,216144,Elena Griessner,1
+BAH,210920,Kerrie Cartwright,14
+BAH,221838,Danielle Andrea Thompson,4
+BAH,214613,Iesha Shepherd,2
+BAH,216235,Isabel Donaldson,1
+BAH,221818,Sydney Clarke,1
+BAR,105985,Darian King,123
+BAR,104656,Haydn Lewis,1
+BAR,221831,Gabrielle Leslie,1
+BAR,214637,Kiana Marshall,1
+BDI,216367,Sada Nahimana,59
+BDI,122474,Guy Orly Iradukunda,3
+BDI,221493,Aisha Niyonkuru,2
+BEL,210722,Elise Mertens,232
+BEL,105676,David Goffin,202
+BEL,213889,Greetje Minnen,168
+BEL,106293,Kimmer Coppejans,165
+BEL,213853,Eliessa Vanlangendonck,163
+BEL,211260,Marie Benoit,161
+BEL,211556,Helene Scholsen,149
+BEL,204434,Ysaline Bonaventure,143
+BEL,206251,Kimberley Zimmermann,143
+BEL,105074,Ruben Bemelmans,143
+BEL,202421,Alison Van Uytvanck,142
+BEL,201465,Kirsten Flipkens,132
+BEL,213855,Magali Kempen,126
+BEL,105963,Arthur De Greef,118
+BEL,201518,Yanina Wickmayer,110
+BEL,104327,Steve Darcis,106
+BEL,215039,Lara Salden,101
+BEL,106167,Joris De Loore,87
+BEL,211303,Deborah Kerfs,65
+BEL,213888,Britt Geukens,58
+BEL,215328,Margaux Bovy,56
+BEL,221003,Clara Vlasselaer,55
+BEL,202420,An Sophie Mestach,52
+BEL,205855,Elyne Boeykens,50
+BEL,200267,Zizou Bergs,49
+BEL,210801,Catherine Chantraine,48
+BEL,211321,Klaartje Liebens,45
+BEL,214945,Chelsea Vanhoutte,44
+BEL,105726,Yannik Reuter,42
+BEL,201550,Tamaryn Hendler,33
+BEL,220614,Vicky Van De Peer,32
+BEL,221256,Eline Audenaert,32
+BEL,104963,Yannick Mertens,31
+BEL,206250,Michaela Boev,30
+BEL,123785,Clement Geens,28
+BEL,216069,Justine Pysson,28
+BEL,221170,Victoria Kalaitzis,26
+BEL,105325,Germain Gigounon,24
+BEL,216036,Luna Meers,24
+BEL,216174,Laure Line Glaude,23
+BEL,215368,Axana Mareen,22
+BEL,126107,Michael Geerts,20
+BEL,122638,Christopher Heyman,17
+BEL,104944,Niels Desein,16
+BEL,215112,Emily Casteleyn,14
+BEL,111584,Jeroen Vanneste,13
+BEL,215246,Mathilde Devits,12
+BEL,216205,Anais Defossez,11
+BEL,210703,Steffi Distelmans,10
+BEL,203443,Sofie Oyen,10
+BEL,220025,Pauline Demel,10
+BEL,105593,Yannick Vandenbulcke,9
+BEL,228909,Amelie Van Impe,9
+BEL,104893,Maxime Authom,8
+BEL,223321,Sofia Costoulas,8
+BEL,106333,Julien Cagnina,8
+BEL,214188,Victoria Smirnova,8
+BEL,105695,Sander Gille,7
+BEL,228910,Tilwith Di Girolami,7
+BEL,213890,Morgane Michiels,6
+BEL,126091,Omar Salman,6
+BEL,105096,Julien Dubail,6
+BEL,214187,Anastasia Smirnova,5
+BEL,216237,Elisabeth Chantraine,4
+BEL,222952,Lena Delfosse,4
+BEL,215423,Vicky Geurinckx,3
+BEL,222501,Marte Lambrecht,3
+BEL,206377,Emma Janssen,1
+BEL,222443,Beau Deleu,1
+BEL,215053,Dorien Cuypers,1
+BEL,221312,Aurore Felsenhart,1
+BEL,221965,Morgane Van Den Bergh,1
+BEL,122222,Jonas Merckx,1
+BEL,215329,Juliette Bastin,1
+BEL,215779,Emilia Dejonckheere,1
+BEL,202247,Simon Beaupain,1
+BEL,245082,Cristine Tchanichev,1
+BEL,241729,Florence Fohnen,1
+BEL,237461,Emma Vanderheyden,1
+BEL,204392,Caroline Van De Wijgaart,1
+BEL,216154,Odile Maesfranckx,1
+BEL,220685,Helena Verbeeck,1
+BEL,220368,Zoi Meers,1
+BEL,126115,Joran Vliegen,1
+BIH,106000,Damir Dzumhur,187
+BIH,105806,Mirza Basic,147
+BIH,211296,Dea Herdzelas,120
+BIH,215131,Nefisa Berberovic,115
+BIH,203456,Jelena Simic,82
+BIH,105060,Aldin Setkic,76
+BIH,105493,Tomislav Brkic,52
+BIH,210271,Anita Husaric,38
+BIH,213789,Katarina Jokic,25
+BIH,123983,Nerman Fatic,21
+BIH,110618,Elmar Ejupovic,16
+BIH,202619,Ema Burgic,15
+BIH,221283,Laura Radakovic,10
+BIH,215429,Jovana Peric,2
+BIH,239395,Amila Jusufbegovic,2
+BIH,215904,Zorica Spasojevic,2
+BIH,222177,Sara Mikaca,2
+BIH,215252,Marija Jovicic,1
+BIH,245105,Jasmina Tinjic,1
+BIH,220902,Zaneta Malinovic,1
+BIH,213717,Emilija Ceranic,1
+BIH,216070,Zejda Veljacic,1
+BLR,214544,Aryna Sabalenka,225
+BLR,125802,Ilya Ivashka,198
+BLR,106078,Egor Gerasimov,153
+BLR,205925,Aliaksandra Sasnovich,150
+BLR,216013,Yuliya Hatouka,128
+BLR,214304,Vera Lapko,117
+BLR,105590,Uladzimir Ignatik,117
+BLR,201458,Victoria Azarenka,108
+BLR,216039,Shalimar Talbi,103
+BLR,201501,Olga Govortsova,103
+BLR,215707,Anna Kubareva,102
+BLR,213576,Iryna Shymanovich,94
+BLR,203441,Sviatlana Pirazhenka,78
+BLR,211426,Sadafmoh Tolibova,62
+BLR,203415,Ilona Kremen,52
+BLR,216020,Katyarina Paulenka,41
+BLR,214959,Nika Shytkouskaya,35
+BLR,105029,Sergey Betov,35
+BLR,219995,Katsiaryna Skachkova,31
+BLR,220438,Viktoriya Kanapatskaya,28
+BLR,105299,Dzmitry Zhyrmont,27
+BLR,106138,Yaraslau Shyla,26
+BLR,220159,Kseniya Yersh,19
+BLR,219638,Anhelina Kalita,19
+BLR,105781,Andrei Vasilevski,17
+BLR,205944,Lidziya Marozava,15
+BLR,221116,Jana Kolodynska,15
+BLR,220808,Kristina Dmitruk,14
+BLR,215145,Hanna Sokal,12
+BLR,105012,Alexander Bury,12
+BLR,221117,Anastasiya Komar,12
+BLR,220436,Vlada Zvereva,12
+BLR,221118,Tatsiana Sasnouskaya,11
+BLR,222183,Hanna Vinahradava,8
+BLR,222184,Evialina Laskevich,7
+BLR,205920,Darya Lebesheva,7
+BLR,201412,Anastasia Yakimova,5
+BLR,221901,Darya Shauha,5
+BLR,214381,Vera Sakalouskaya,5
+BLR,232872,Alexandra Azarko,4
+BLR,219998,Alesya Yakubovich,4
+BLR,211118,Darya Shulzhanok,3
+BLR,214645,Anastasiya Shleptsova,3
+BLR,215164,Lizaveta Hancharova,3
+BLR,221434,Aliona Falei,3
+BLR,220268,Eva Alexandrova,3
+BLR,216202,Alisa Yakimakho,2
+BLR,241020,Valeryia Vasilyeva,2
+BLR,222610,Maryia Novikava,2
+BLR,144915,Mikalai Haliak,2
+BLR,206188,Viktoryia Mun,2
+BLR,222975,Maryia Savitskaya,1
+BLR,221902,Alena Bairasheuskaya,1
+BLR,220807,Anastasiya Abramovich,1
+BLR,245099,Palina Saulevich,1
+BLR,202381,Ksenia Milevskaya,1
+BLR,211822,Darya Chernetsova,1
+BLR,220439,Aleksandra Efremova,1
+BOL,106198,Hugo Dellien,125
+BOL,210138,Noelia Zeballos,117
+BOL,105156,Federico Zeballos,24
+BOL,238065,Noelia Zeballos Melgar,9
+BOL,215340,Hortencia Birnbaumer,4
+BOL,202900,Maria Fernanda Alvarez Teran,3
+BOL,215672,Daniela Alejandra La Fuente Strassburger,3
+BOL,221978,Gabriela Cortes Flores,2
+BOL,222462,Fiorella Duran Montano,2
+BOL,106262,Boris Arias,2
+BOL,221842,Sofia Cristina Taborga Rollano,2
+BOL,123965,Rodrigo Banzer,1
+BOL,222459,Masha Alexandra Vrsalovic Gimenez,1
+BOL,220850,Isabella Ciancaglini,1
+BOL,222485,Maria Olivia Castedo,1
+BOL,105479,Alejandro Mendoza,1
+BOL,220244,Paola Cortez Vargas,1
+BOL,220849,Sofia Velarde,1
+BOL,222461,Valentina Ascarrunz,1
+BRA,106329,Thiago Monteiro,208
+BRA,206430,Carolina Meligeni Rodrigues Alves,187
+BRA,206242,Beatriz Haddad Maia,186
+BRA,104297,Rogerio Dutra Silva,143
+BRA,206194,Gabriela Ce,140
+BRA,206007,Laura Pigossi,127
+BRA,106105,Guilherme Clezar,125
+BRA,213753,Thai Sa Grana Pedretti,118
+BRA,105064,Thomaz Bellucci,111
+BRA,205848,Nathaly Kurata,104
+BRA,105154,Joao Souza,88
+BRA,110778,Joao Menezes,84
+BRA,205591,Paula Cristina Goncalves,82
+BRA,211594,Ingrid Gamarra Martins,78
+BRA,106203,Pedro Sakamoto,77
+BRA,205933,Eduarda Piai,65
+BRA,205734,Thiago Seyboth Wild,65
+BRA,202694,Teliana Pereira,64
+BRA,106252,Joao Pedro Sorgi,60
+BRA,200335,Felipe Meligeni Rodrigues Alves,48
+BRA,215721,Rebeca Pereira,47
+BRA,126197,Orlando Luz,47
+BRA,213604,Luisa Stefani,41
+BRA,104007,Andre Ghem,36
+BRA,104738,Caio Zampieri,31
+BRA,105571,Fabricio Neis,25
+BRA,121264,Oscar Jose Gutierrez,21
+BRA,105180,Daniel Dutra Da Silva,20
+BRA,214322,Karolayne Alexandre Da Rosa,18
+BRA,105262,Fernando Romboli,18
+BRA,106211,Bruno Santanna,16
+BRA,110774,Marcelo Zormann Da Silva,15
+BRA,207799,Matheus Pucinelli De Almeida,13
+BRA,106264,Karue Sell,13
+BRA,213755,Erika Drozd Pereira,13
+BRA,220578,Julia Konishi Camargo Silva,13
+BRA,220604,Alice Garcia,12
+BRA,104903,Andre Miele,11
+BRA,206011,Flavia Guimaraes Bueno,10
+BRA,122425,Rafael Matos,10
+BRA,221932,Julia Klimovicz,9
+BRA,105700,Jose Pereira,9
+BRA,105245,Fabiano De Paula,9
+BRA,203510,Nathalia Rossi,8
+BRA,206009,Giovanna Tomita,8
+BRA,239390,Sofia Da Cruz Mendonca,7
+BRA,104836,Tiago Lopes,7
+BRA,105068,Nicolas Santos,7
+BRA,105674,Carlos Eduardo Severino,6
+BRA,105998,Eduardo Dischinger,6
+BRA,104550,Ricardo Hocevar,5
+BRA,211848,Rafaela Rodrigues Dos Santos,5
+BRA,105269,Marcelo Demoliner,5
+BRA,205609,Marcela Guimaraes Bueno,5
+BRA,215835,Pamela Wu,4
+BRA,109307,Luis Faria,4
+BRA,106095,Alexandre Tsuchiya,4
+BRA,220317,Nathalia Wolf Gasparin,4
+BRA,215854,Jennifer Rosa Dourado,4
+BRA,127108,Igor Ribeiro Marcondes,4
+BRA,223284,Luana Plaza Araujo,3
+BRA,213850,Barbara Oliveira,3
+BRA,105861,Caio Silva,3
+BRA,210749,Raquel Martini,2
+BRA,105996,Alex Blumenberg,2
+BRA,211293,Juliana Silva De Carvalho,2
+BRA,126715,Fernando Yamacita,2
+BRA,223292,Helena Ramos Rocha E Silva,2
+BRA,222721,Thamyrys Nicolle Costa Araujo,2
+BRA,105381,Thales Turini,2
+BRA,214140,Mariana Borges,2
+BRA,222719,Isadora Fernanda Muller,2
+BRA,215629,Alexandra Ferreira Da Silva,2
+BRA,105530,Henrique Cunha,2
+BRA,105979,Augusto Laranja,2
+BRA,206431,Andressa Cristina Souza,2
+BRA,105754,Pedro Bernardi,2
+BRA,202183,Gabriel Decamps,1
+BRA,105868,Wilson Leite,1
+BRA,127115,Gabriel Pascotto Tumasonis,1
+BRA,200495,Eduardo Ribeiro,1
+BRA,216574,Giovanna Ferreira Caputo,1
+BRA,200522,Renato Lima,1
+BRA,215836,Alessandra Mecchi De Oliveira Silva,1
+BRA,202181,Gilbert Soares Klier Junior,1
+BRA,106339,Felipe Assuncao Garla,1
+BRA,127132,Alexandre Girotto,1
+BRA,144704,Gustavo De Oliveira Cruz Cruz,1
+BRA,206814,Joao Gabriel Velloso,1
+BRA,104574,Alessandro Damiano Ventre,1
+BRA,206307,Joao Lucas Reis Da Silva,1
+BRA,126546,Gabriel De Andrade Bendazoli,1
+BRA,222718,Isabelle Oikawa Torres,1
+BRA,206896,Luiz Eduardo Santos,1
+BRA,214157,Lara Isis Teodoro De Oliveira,1
+BRA,122081,Luis Britto,1
+BRA,105880,Filipe Brandao,1
+BRA,220833,Namie Isago,1
+BRA,138467,Marvin Bernardo Becker Spiering,1
+BRA,223028,Maria Fernanda Da Costa Dalcul,1
+BRA,220350,Ana Luiza Cruz,1
+BRA,122534,Joao Walendowsky,1
+BRA,223025,Annabela Da Assis Ferreira Brito,1
+BRA,206901,Joao Vitor Prado Festa,1
+BRA,220366,Ana Paula Melilo,1
+BRA,223291,Paola Ueno Dalmonico,1
+BUL,202688,Isabella Shinikova,213
+BUL,202600,Viktoriya Tomova,185
+BUL,105777,Grigor Dimitrov,171
+BUL,206336,Julia Stamatova,153
+BUL,202467,Elitsa Kostova,148
+BUL,201691,Dia Evtimova,133
+BUL,211456,Julia Terziyska,104
+BUL,202695,Aleksandrina Naydenova,103
+BUL,214006,Petia Arshinkova,101
+BUL,202691,Ani Vangelova,96
+BUL,106220,Dimitar Kuzmanov,90
+BUL,215566,Gergana Topalova,87
+BUL,201450,Tsvetana Pironkova,54
+BUL,220757,Lia Karatancheva,44
+BUL,211931,Gebriela Mihaylova,42
+BUL,221315,Beatris Spasova,30
+BUL,220759,Daria Shalamanova,21
+BUL,215442,Zinovia Vaneva,19
+BUL,211841,Eleonore Tchakarova,18
+BUL,105586,Alexandar Lazov,17
+BUL,223319,Ralitsa Alexandrova,15
+BUL,218289,Verginie Tchakarova,12
+BUL,202090,Adrian Andreev,12
+BUL,220692,Daniella Dimitrova,10
+BUL,222084,Aleksandra Zlatarova,9
+BUL,200247,Alexandar Lazarov,9
+BUL,144678,Vasko Mladenov,6
+BUL,214050,Elizabeth Danailova,6
+BUL,213618,Lyuboslava Peruhova,5
+BUL,222707,Nikol Ruseva,4
+BUL,222704,Mirela Shkumbova,4
+BUL,221366,Cveti Iotova,4
+BUL,216295,Nikol Dobrilova,3
+BUL,215895,Kristin Yordanova,2
+BUL,216298,Elena Trencheva,2
+BUL,223322,Katerina Dimitrova,2
+BUL,223348,Victoria Lazarova,2
+BUL,221364,Denislava Glushkova,2
+BUL,222706,Beloslava Veleva,2
+BUL,220691,Simona Georgieva,1
+BUL,214049,Nevena Georgieva,1
+BUL,211929,Aleksandra Karamanoleva,1
+BUL,220758,Elena Kraleva,1
+BUL,203393,Martina Gledacheva,1
+BUL,215568,Melody Todorova,1
+BUL,225861,Viktoria Veleva,1
+BUL,211932,Vivian Zlatanova,1
+BUL,216267,Rozalina Youseva,1
+BUL,211927,Nikol Yordanova,1
+BUL,215445,Aleksandra Draganova,1
+CAM,222784,Chhinda Som,1
+CAN,105683,Milos Raonic,167
+CAN,133430,Denis Shapovalov,164
+CAN,105166,Peter Polansky,163
+CAN,200000,Felix Auger Aliassime,162
+CAN,105577,Vasek Pospisil,158
+CAN,215370,Bianca Andreescu,146
+CAN,105731,Steven Diez,130
+CAN,111790,Brayden Schnur,121
+CAN,211796,Francoise Abanda,105
+CAN,214684,Katherine Sebov,105
+CAN,202446,Eugenie Bouchard,101
+CAN,203475,Carol Zhao,91
+CAN,201606,Rebecca Marino,79
+CAN,220367,Leylah Annie Fernandez,76
+CAN,106290,Filip Peliwo,73
+CAN,104433,Frank Dancevic,51
+CAN,213796,Petra Januskova,47
+CAN,221165,Raphaelle Lacasse,37
+CAN,214577,Stacey Fung,37
+CAN,202681,Gabriela Dabrowski,34
+CAN,201486,Aleksandra Wozniak,34
+CAN,200008,Alexis Galarneau,30
+CAN,221988,Bianca Jolie Fernandez,28
+CAN,203562,Erin Routliffe,26
+CAN,216023,Louise Kwong,20
+CAN,221223,Maria Tanasescu,17
+CAN,214697,Charlotte Robillard Millette,15
+CAN,216357,Layne Sleeth,15
+CAN,214570,Maria Patrascu,14
+CAN,221381,Noelly Longi Nsimba,14
+CAN,220502,Ariana Arseneault,13
+CAN,105229,Philip Bester,13
+CAN,106061,Pavel Krainik,11
+CAN,106285,Samuel Monette,11
+CAN,200009,Benjamin Sigouin,9
+CAN,214583,Arisha Ladhani,9
+CAN,211242,Catherine Leduc,9
+CAN,222289,Sarah Maude Fortin,8
+CAN,222377,Mia Kupres,8
+CAN,214456,Anjana Suresh,8
+CAN,214582,Ayan Broomfield,8
+CAN,215545,Alexandra Vagramov,8
+CAN,214726,Isabelle Boulais,8
+CAN,221185,Jada Bui,7
+CAN,220016,Alisia Stephanie Manolescu,7
+CAN,213804,Marie Leduc,6
+CAN,219922,Ana Maria Andreea Ileana,6
+CAN,208119,Liam Draxl,5
+CAN,221147,Alexandra Mikhailuk,5
+CAN,207993,Justin Boulais,5
+CAN,223203,Dasha Plekhanova,5
+CAN,201589,Sharon Fichman,5
+CAN,215280,Oleksandra Gorchanyuk,5
+CAN,214727,Anca Craciun,4
+CAN,223182,Melodie Collard,4
+CAN,222233,Marina Stakusic,4
+CAN,221480,Ashley Chang,3
+CAN,207220,Taha Baadi,3
+CAN,200234,Joshua Peck,3
+CAN,213885,Rosie Johanson,3
+CAN,127066,Washi Gervais,3
+CAN,205843,Sonya Latycheva,3
+CAN,200368,Jack Mingjie Lin,3
+CAN,211519,Wendy Qi Wen Zhang,3
+CAN,222846,Matea Roki,3
+CAN,215281,Daniella Silva,2
+CAN,222987,Martyna Ostrzygalo,2
+CAN,223335,Cadence Brace,2
+CAN,222332,Rita Colyer,2
+CAN,203561,Charlotte Petrick,2
+CAN,105560,Kelsey Stevenson,2
+CAN,227094,Laura Vasilescu,2
+CAN,200233,Nicaise Muamba,2
+CAN,106399,Hugo Di Feo,2
+CAN,221391,Justine Bryson,1
+CAN,200028,Maureen Drake,1
+CAN,220428,Brindtha Ramasamy,1
+CAN,200574,Alexander Donski,1
+CAN,200367,Thomas Susen,1
+CAN,239475,Victoria Mboko,1
+CAN,127064,Rached Rihani,1
+CAN,202295,Luka Vukovic,1
+CAN,214561,Lauren Chypyha,1
+CAN,220737,Nifemi Akinbiyi,1
+CAN,122252,Antoine Leduc,1
+CAN,200010,Victor Krustev,1
+CAN,122247,Andrew Ochotta,1
+CAN,208073,Razvan Baiant,1
+CAN,127050,Kooros Ghasemi,1
+CAN,215404,Vanessa Wong,1
+CAN,221130,Leena Bennetto,1
+CAN,220281,Catherine Shulman,1
+CAN,215846,Raffaela Alhach,1
+CAN,223044,Kaitlyn Ha,1
+CHI,206344,Fernanda Brito,198
+CHI,211903,Barbara Gatica,181
+CHI,106426,Cristian Garin,168
+CHI,111797,Nicolas Jarry,165
+CHI,206037,Daniela Seguel,158
+CHI,144642,Marcelo Tomas Barrios Vera,109
+CHI,126214,Alejandro Tabilo,75
+CHI,210993,Ivania Martinich,72
+CHI,106174,Gonzalo Lama,55
+CHI,105070,Hans Podlipnik Castillo,21
+CHI,109334,Bastian Malla,20
+CHI,219625,Fernanda Labrana,16
+CHI,220684,Jimar Geraldine Gerald Gonzalez,14
+CHI,211908,Daniela Macarena Lopez,13
+CHI,105635,Jorge Montero,13
+CHI,202393,Andrea Koch Benvenuto,11
+CHI,106059,Michel Vernier,8
+CHI,105288,Guillermo Rivera Aranguiz,5
+CHI,122257,Esteban Bruna,3
+CHI,105293,Ricardo Urzua Rivera,2
+CHI,105780,Victor Nunez,2
+CHI,215740,Maria Ignacia Yapur Lopez,2
+CHI,105968,David Fleming,1
+CHI,122427,Simon Navarro,1
+CHI,222774,Constanza Arancibia,1
+CHI,211909,Catalina Paz Arce Riquelme,1
+CHI,221424,Bianca Lia Antican Gonzalez,1
+CHI,215990,Alejandra Morales,1
+CHI,215741,Valentina Andrea Vasquez Pongruber,1
+CHI,222775,Alessandra Caceres,1
+CHI,206785,Nicolas Acevedo,1
+CHI,210994,Magdalena Cordero,1
+CHI,105820,Juan Carlos Saez,1
+CHI,145021,Geronimo Barrios,1
+CHI,127309,Cristopher Kohl,1
+CHN,201533,Shuai Zhang,177
+CHN,202684,Lin Zhu,174
+CHN,202492,Qiang Wang,164
+CHN,212034,Fang Ying Xun,147
+CHN,202453,Saisai Zheng,145
+CHN,203288,Jia Jing Lu,141
+CHN,203578,Fangzhou Liu,135
+CHN,206374,Yafan Wang,128
+CHN,201580,Xinyun Han,112
+CHN,214646,Xiaodi You,111
+CHN,203576,Kai Lin Zhang,109
+CHN,201397,Shuai Peng,106
+CHN,216133,Xin Yu Wang,101
+CHN,104810,Zhe Li,100
+CHN,105585,Ze Zhang,95
+CHN,216016,Xiyu Wang,90
+CHN,105842,Di Wu,89
+CHN,214608,Jia Qi Kang,86
+CHN,211719,Shilin Xu,85
+CHN,201582,Jing Jing Lu,83
+CHN,215946,Ye Xin Ma,82
+CHN,206294,Yue Yuan,81
+CHN,221012,Qinwen Zheng,81
+CHN,215250,Hanyu Guo,81
+CHN,214328,Xu Liu Sun,80
+CHN,202919,Chang Liu,79
+CHN,202508,Yuxuan Zhang,77
+CHN,214386,Xinyu Gao,75
+CHN,202504,Ying Ying Duan,74
+CHN,111190,Zhizhen Zhang,72
+CHN,215812,Shuyue Ma,62
+CHN,213821,Wushuang Zheng,60
+CHN,213947,Ying Zhang,59
+CHN,216162,Meiqi Guo,59
+CHN,206283,Ziyue Sun,55
+CHN,216062,Meiling Wang,52
+CHN,214724,Jiaxi Lu,52
+CHN,214972,Shanshan Guo,51
+CHN,213558,Ao Gai,47
+CHN,105339,Yan Bai,46
+CHN,215054,Siqi Cao,41
+CHN,210536,Dan Ni Wang,40
+CHN,215272,Zhuoma Ni Ma,38
+CHN,220497,Jiangxue Han,36
+CHN,215937,Shuo Feng,36
+CHN,215820,Yidi Yang,35
+CHN,206107,Zhaoxuan Yang,30
+CHN,215249,Shou Na Mu,30
+CHN,144696,Zihao Xia,29
+CHN,213830,Qiu Yu Ye,28
+CHN,215134,Chengyiyi Yuan,27
+CHN,200059,Yibing Wu,26
+CHN,210428,Qianqian Zhao,26
+CHN,203489,Hao Chen Tang,25
+CHN,214385,Yixuan Li,25
+CHN,202686,Di Zhao,23
+CHN,202687,Ran Tian,22
+CHN,111806,Fajing Sun,22
+CHN,216015,Ziyi Yang,22
+CHN,214288,Jiahui Chen,22
+CHN,213750,Zhanlan Wei,22
+CHN,215045,Xinyu Jiang,22
+CHN,215709,Xiaoxi Zhao,21
+CHN,215043,Qianhui Tang,20
+CHN,214674,Yuqi Sheng,19
+CHN,122606,Yecong He,19
+CHN,106321,Xin Gao,19
+CHN,212019,Yan Wang,18
+CHN,220031,Yu Shan,17
+CHN,213636,Yukun Zhang,15
+CHN,215047,Mi Zhuoma You,15
+CHN,216163,Mei Xu Wu,15
+CHN,215055,Zhima Du,13
+CHN,215248,Yanni Liu,13
+CHN,212035,Si Qi Liu,12
+CHN,221110,Zheng Hua Xiao,11
+CHN,220308,Jiaying He,10
+CHN,215947,Jia Ren,10
+CHN,201703,Yi Fan Xu,9
+CHN,144751,Rigele Te,9
+CHN,216079,Ran Meng,9
+CHN,220472,Xinyu Cai,9
+CHN,200666,Jie Cui,9
+CHN,105001,Mao Xin Gong,9
+CHN,221301,Jiayun Zhu,8
+CHN,220425,Wanning Zhu,8
+CHN,216017,Jiatian Qi,8
+CHN,132495,Runhao Hua,7
+CHN,105934,Chuhan Wang,7
+CHN,220415,Meiting Liu,7
+CHN,133684,Hao Wu,6
+CHN,122609,Yuanfeng Li,6
+CHN,133071,Xi Qi,6
+CHN,214647,Mingyang Liu,5
+CHN,222349,Cong Ying Zhao,5
+CHN,215389,Junsai Wang,5
+CHN,221903,Meng Yi Chen,4
+CHN,215010,Yijia Shao,4
+CHN,106036,Ruikai Wang,4
+CHN,110763,Aoxiong Wang,4
+CHN,214276,Yuan Xin,4
+CHN,210604,Yujia Wang,4
+CHN,220498,Yuxin Zhang,4
+CHN,221096,Sijia Wei,4
+CHN,215185,Zhou Mingjun,4
+CHN,215008,Siyu Chen,4
+CHN,105999,Bowen Ouyang,4
+CHN,221303,Yuping Wang,4
+CHN,222371,Yang Qu,3
+CHN,221885,Fangran Tian,3
+CHN,219868,Jiakang Li,3
+CHN,212021,Yuenu Li,3
+CHN,221299,Yu Yang Jin,3
+CHN,221899,Yueliang Cao,3
+CHN,127165,Sheng Hao Zhou,3
+CHN,133068,Haitong Xia,3
+CHN,216063,Tingting Pei,2
+CHN,128070,Jiaqi Duan,2
+CHN,220488,Ai Qi Chen,2
+CHN,138233,Hantao Liu,2
+CHN,221305,Hongding Dong,2
+CHN,222628,Jia Yi Dong,2
+CHN,106319,Yuqing Ning,2
+CHN,203917,Yi Liu,2
+CHN,202168,Ye Cong Mo,2
+CHN,221304,Xinrui Liu,2
+CHN,126165,Aoran Wang,2
+CHN,204342,Nan Nan Zhang,2
+CHN,222606,Jiayu Xu,2
+CHN,216194,Qianxin Kong,2
+CHN,106427,Zhuoyang Qiu,2
+CHN,216390,Jiaxue Zang,2
+CHN,106274,Zhaoyi Cao,2
+CHN,215916,Jue Wang,2
+CHN,222108,Rouli Ye,2
+CHN,214969,Qian Nan Feng,2
+CHN,204408,Zi Yang,2
+CHN,144666,Wei Qiang Zheng,2
+CHN,222296,Zhuoxuan Bai,2
+CHN,222978,Wanyi Zhang,2
+CHN,132496,Chengze Lu,1
+CHN,126324,Jianhui Li,1
+CHN,122529,Su Hao Zhong,1
+CHN,133680,Huixin Wang,1
+CHN,202634,Chen Liang,1
+CHN,215307,Wanyuanyun Jin,1
+CHN,211184,Xue Zhang,1
+CHN,200055,Rui Xuan Wang,1
+CHN,222634,Mingfang Zhu,1
+CHN,219869,Xue Cao,1
+CHN,221302,Xinlei Guan,1
+CHN,222348,Yehua Zhou,1
+CHN,222630,Shuoran Wang,1
+CHN,215044,Yu Tong Tang,1
+CHN,144831,Shi Hong Zeng,1
+CHN,213799,Yuanyi Yu,1
+CHN,215775,Jiahuan He,1
+CHN,127043,Zhicheng Zhu,1
+CHN,214840,Xiangruyi Ji,1
+CHN,221796,Xingchen Liu,1
+CHN,215137,Yifei Yang,1
+CHN,222632,Ziyu Zhang,1
+CHN,221389,Wei Zheng,1
+CHN,215046,Lingwei Kong,1
+CMR,222056,Eugenie Christine Ngo Gwodog,2
+COL,123755,Daniel Elahi Galan,172
+COL,211864,Maria Fernanda Herazo Gonzalez,142
+COL,215785,Maria Camila Osorio Serrano,110
+COL,105053,Santiago Giraldo,99
+COL,105292,Alejandro Gonzalez,93
+COL,215306,Emiliana Arango,89
+COL,202464,Yuliana Lizarazo,84
+COL,201531,Mariana Duque Marino,78
+COL,211043,Maria Paulina Perez Garcia,59
+COL,105578,Cristian Rodriguez,37
+COL,104268,Alejandro Falla,31
+COL,105826,Alejandro Gomez Gb42,29
+COL,104905,Nicolas Barrientos,25
+COL,200711,Nicolas Mejia,24
+COL,106181,Felipe Mantilla,22
+COL,216151,Jessica Plazas,21
+COL,105679,Eduardo Struvay,19
+COL,221501,Antonia Samudio,14
+COL,105944,Juan Sebastian Gomez,12
+COL,221431,Maria Juliana Parra Romero,11
+COL,214060,Yuliana Monroy,9
+COL,214058,Juliana Valero,8
+COL,216350,Angie Carolina Yepes Medina,7
+COL,104113,Carlos Salamanca,6
+COL,214059,Ana M Becerra,5
+COL,211044,Paula Andrea Perez Garcia,5
+COL,239470,Valerie Quiceno Ibarguen,5
+COL,211039,Daniela Carrillo,4
+COL,206720,Juan Manuel Lopez,4
+COL,222000,Maria Camila Torres Murcia,4
+COL,220820,Gabriela Macias,4
+COL,221999,Garbiela Carvajal Melendez,4
+COL,222002,Sofia Cardenas Galvis,4
+COL,121817,Juan Manuel Benitez Chavarriaga,3
+COL,222881,Sofia Franco Salcedo,3
+COL,211457,Arantxa Sanchez,3
+COL,220819,Mariana Carvajal,3
+COL,211988,Alejandra Gutierrez,3
+COL,214055,Sofia Munera Sanchez,3
+COL,104906,Sebastian Serrano,3
+COL,221429,Isabella Bolivar Garces,3
+COL,222447,Angela Bonilla,2
+COL,222047,Mariana Jimenez Bustillo,2
+COL,120982,Jose Daniel Bendeck,2
+COL,123747,Jose Fernando Carvajal Torres,2
+COL,222001,Maria Fernanda Padilla Jaimes,2
+COL,138758,Daniel Mora,2
+COL,222882,Laura Sofia Ruiz Ramirez,2
+COL,222880,Carol Vanesa Mora Camacho,2
+COL,214968,Laura Sofia Rico Garcia,2
+COL,221506,Gabriela Giraldo,2
+COL,222844,Valeria Carreno,1
+COL,126666,Felipe Ramirez Luna,1
+COL,222869,Ana Paula Cetina,1
+COL,221631,Ana Maria Gomez,1
+COL,125801,Luis Valero,1
+COL,216353,Nicolle Andrea Gomez Romero,1
+COL,103590,Michael Quintero,1
+COL,221503,Crissdaihanna Echavarria Laverde,1
+COL,220168,Paula Andrea Coronado,1
+COL,216349,Lina Sachica,1
+COL,221998,Shaloom Delgado Forero,1
+COL,216393,Mariana Vargas Carrascal,1
+COL,221427,Juliana Catalina Madrid Torres,1
+COL,222872,Maria Paula Rodriguez Ovalle,1
+COL,222868,Isabella Rivera Ortiz,1
+COL,215746,Manuela Hernandez,1
+COL,144848,Sergio Luis Hernandez Ramirez,1
+COL,221428,Salome Sierra,1
+COL,222903,Maraia Paula Manrique,1
+CRC,214641,Ariana Rahmanparast,4
+CRC,212268,Camila Quesada,2
+CRC,212285,Mariella Calderon,1
+CRC,221837,Sofia Perez,1
+CRC,221805,Eugenia Camacho,1
+CRO,105227,Marin Cilic,198
+CRO,202659,Tereza Mrdeza,160
+CRO,202499,Donna Vekic,158
+CRO,106432,Borna Coric,138
+CRO,201549,Petra Martic,136
+CRO,213544,Jana Fett,133
+CRO,211329,Tena Lukas,130
+CRO,211951,Ana Konjuh,109
+CRO,214521,Lea Boskovic,106
+CRO,103333,Ivo Karlovic,101
+CRO,210742,Mariana Drazic,96
+CRO,220716,Oleksandra Oliynykova,91
+CRO,127339,Borna Gojo,89
+CRO,206248,Iva Primorac,89
+CRO,201694,Silvia Njiric,82
+CRO,126120,Nino Serdarusic,76
+CRO,105015,Franko Skugor,70
+CRO,105302,Ante Pavic,69
+CRO,223087,Tara Wurth,54
+CRO,213923,Nina Alibalic,53
+CRO,200002,Mirjana Lucic,47
+CRO,201617,Ana Vrljic,43
+CRO,222045,Antonia Ruzic,41
+CRO,211405,Ena Kajevic,40
+CRO,214420,Adriana Rajkovic,39
+CRO,105254,Nikola Mektic,35
+CRO,202438,Ani Mijacika,34
+CRO,207213,Duje Ajdukovic,32
+CRO,104471,Ivan Dodig,31
+CRO,123896,Matija Pecotic,20
+CRO,215750,Ana Biskic,19
+CRO,106022,Matej Sabanov,19
+CRO,205954,Ivana Klepic,15
+CRO,202873,Ana Savic,14
+CRO,105711,Dino Marcan,13
+CRO,203400,Tea Faber,11
+CRO,105243,Antonio Sancic,10
+CRO,106243,Mate Delic,10
+CRO,220130,Lana Sipek,9
+CRO,211977,Adrijana Lekaj,8
+CRO,106374,Filip Veger,7
+CRO,214024,Tea Jandric,7
+CRO,206224,Katja Milas,6
+CRO,220431,Noa Krznaric,6
+CRO,215193,Anda Karanusic,6
+CRO,238075,Petra Marcinko,6
+CRO,221499,Iva Zelic,5
+CRO,220011,Anamarija Spoljaric,5
+CRO,215425,Ena Babic,5
+CRO,221158,Ayline Esina Samardzic,5
+CRO,215907,Laura Masic,4
+CRO,222071,Marina Pavkovic,3
+CRO,106049,Ivan Sabanov,3
+CRO,106207,Mate Pavic,3
+CRO,105775,Marin Draganja,2
+CRO,105175,Kristijan Mesaros,2
+CRO,215428,Domenika Turkovic,2
+CRO,220464,Matea Mamic,1
+CRO,222529,Monika Dedaj,1
+CRO,222528,Ana Mukic,1
+CRO,222176,Katarina Jelusic,1
+CRO,209041,Bozo Barun,1
+CRO,239107,Ema Bubalo,1
+CRO,214657,Lana Slavica,1
+CRO,131889,Fran Zvonimir Zgombic,1
+CRO,239156,Lucija Ciric Bagaric,1
+CUB,211002,Yusleydis Smith Dias,7
+CUB,221835,Yoryana Delgado Herrera,1
+CUB,221815,Isid Hernandez,1
+CYP,104571,Marcos Baghdatis,81
+CYP,133018,Michail Pervolarakis,16
+CYP,117365,Petros Chrysochos,15
+CYP,223001,Eleni Makride,1
+CZE,201662,Karolina Pliskova,244
+CZE,213631,Marie Bouzkova,194
+CZE,201520,Petra Kvitova,192
+CZE,206124,Tereza Martincova,176
+CZE,106210,Jiri Vesely,165
+CZE,211701,Katerina Siniakova,163
+CZE,206252,Barbora Krejcikova,163
+CZE,104586,Lukas Rosol,159
+CZE,214956,Miriam Kolodziejova,156
+CZE,144645,Zdenek Kolar,150
+CZE,201697,Kristyna Pliskova,149
+CZE,202702,Tereza Smitkova,142
+CZE,214954,Marketa Vondrousova,140
+CZE,214096,Karolina Muchova,140
+CZE,215437,Monika Kilnarova,139
+CZE,214148,Magdalena Pantuckova,136
+CZE,201366,Barbora Zahlavova Strycova,133
+CZE,206335,Jesika Maleckova,130
+CZE,211406,Gabriela Pantuckova,116
+CZE,215520,Johana Markova,114
+CZE,216074,Anna Siskova,110
+CZE,106361,Adam Pavlasek,109
+CZE,104607,Tomas Berdych,99
+CZE,105596,Jan Satral,88
+CZE,204267,Petra Krejsova,87
+CZE,215693,Michaela Bayerlova,82
+CZE,202653,Denisa Allertova,81
+CZE,211700,Barbora Stefkova,79
+CZE,205981,Gabriela Horackova,70
+CZE,214751,Barbora Miklova,69
+CZE,216186,Aneta Laboutkova,69
+CZE,106324,Vaclav Safranek,67
+CZE,201556,Lucie Hradecka,63
+CZE,201425,Lucie Safarova,62
+CZE,200240,Vit Kopriva,61
+CZE,207830,Tomas Machac,58
+CZE,216225,Denisa Hindova,56
+CZE,216185,Karolina Berankova,56
+CZE,209576,Barbora Matusova,56
+CZE,203284,Katerina Vankova,54
+CZE,214003,Nikola Tomanova,54
+CZE,206145,Diana Sumova,49
+CZE,216073,Nikola Breckova,49
+CZE,214004,Vendula Zovincova,43
+CZE,219965,Laetitia Pulchartova,40
+CZE,103285,Radek Stepanek,40
+CZE,215166,Aneta Kladivova,39
+CZE,220461,Karolina Kubanova,39
+CZE,221307,Darja Vidmanova,37
+CZE,222328,Linda Noskova,37
+CZE,215192,Veronika Vlkovska,37
+CZE,220740,Ivana Sebestova,36
+CZE,208103,Jiri Lehecka,35
+CZE,216256,Linda Sevcikova,32
+CZE,106377,Robin Stanek,30
+CZE,222258,Linda Fruhvirtova,27
+CZE,207797,Jonas Forejtek,26
+CZE,221219,Lucie Petruzelova,26
+CZE,202398,Michael Vrbensky,25
+CZE,126878,David Poljak,24
+CZE,214894,Tereza Prochazkova,24
+CZE,213581,Kristyna Hrabalova,24
+CZE,211698,Pernilla Mendesova,22
+CZE,126151,Pavel Nejedly,21
+CZE,220580,Ludmila Kareisova,21
+CZE,116985,Petr Michnev,21
+CZE,201599,Andrea Hlavackova,20
+CZE,202654,Martina Pradova,20
+CZE,223323,Barbora Palicova,17
+CZE,221733,Natalie Augustinova,17
+CZE,123807,Marek Jaloviec,16
+CZE,104846,Marek Michalicka,16
+CZE,103902,Jan Mertl,16
+CZE,215191,Sabina Machalova,15
+CZE,239383,Sara Bejlek,14
+CZE,103708,Jaroslav Pospisil,14
+CZE,214266,Martina Kudelova,14
+CZE,210062,Dagmar Dudlakova,14
+CZE,200309,Marek Gengel,13
+CZE,220689,Karolina Vlckova,13
+CZE,213851,Karolina Novotna,13
+CZE,103401,Jan Hernych,12
+CZE,207494,Dalibor Svrcina,12
+CZE,214816,Anna Slovakova,11
+CZE,201339,Renata Voracova,11
+CZE,221311,Petra Csabi,10
+CZE,213938,Tereza Kolarova,10
+CZE,222980,Lucie Havlickova,10
+CZE,105421,Michal Konecny,9
+CZE,221149,Justyna Malatinska,9
+CZE,233719,Denise Hrdinkova,9
+CZE,221136,Barbora Pokorna,8
+CZE,231632,Karolina Novakova,8
+CZE,105433,Roman Jebavy,8
+CZE,220690,Petra Sedlackova,8
+CZE,220434,Kristyna Lavickova,8
+CZE,202832,Katerina Kramperova,8
+CZE,215130,Natalie Kallmunzerova,8
+CZE,220671,Katerina Krizova,8
+CZE,216187,Nikola Novotna,8
+CZE,221214,Zdena Safarova,8
+CZE,216188,Klara Hajkova,8
+CZE,125806,Dominik Kellovsky,7
+CZE,221310,Katerina Mandelikova,6
+CZE,223406,Adela Moravcova,6
+CZE,214360,Natalie Cvackova,6
+CZE,223360,Nikola Bartunkova,6
+CZE,214553,Natalie Novotna,6
+CZE,202227,Petr Nouza,6
+CZE,201344,Klara Koukalova,6
+CZE,205647,Tereza Malikova,6
+CZE,214193,Simona Heinova,6
+CZE,124112,Tomas Papik,6
+CZE,214893,Sonja Krtenova,6
+CZE,223281,Veronika Kulhava,6
+CZE,200108,Matej Vocel,5
+CZE,237477,Alexandra Melnikova,5
+CZE,230122,Nelly Knezkova,5
+CZE,144924,Patrik Rikl,5
+CZE,223341,Tereza Dejnozkova,4
+CZE,222967,Kristyna Tomajkova,4
+CZE,210764,Karolina Cechova,4
+CZE,222966,Dominika Salkova,4
+CZE,220460,Alexandra Silna,4
+CZE,222072,Kristyna Bedrnova,4
+CZE,104371,Ivo Minar,4
+CZE,239438,Julie Struplova,4
+CZE,213940,Nikola Schweinerova,3
+CZE,213939,Adela Jarosova,3
+CZE,105632,Dominik Suc,3
+CZE,221626,Linda Klimovicova,3
+CZE,201400,Nicole Vaidisova,3
+CZE,215710,Tereza Koplova,2
+CZE,203448,Tereza Jankovska,2
+CZE,224481,Izabela Heinzova,2
+CZE,209338,Daniel Siniakov,2
+CZE,222474,Darina Precechtelova,2
+CZE,203547,Zuzana Zalabska,2
+CZE,221284,Monika Svobodova,2
+CZE,211696,Eva Rutarova,2
+CZE,220918,Rozalie Dohnalova,2
+CZE,214121,Petra Melounova,2
+CZE,106050,Libor Salaba,1
+CZE,220569,Tereza Polanska,1
+CZE,211423,Lenka Kuncikova,1
+CZE,238184,Tereza Valentova,1
+CZE,220848,Vanesa Nikolovova,1
+CZE,237472,Patricie Kubikova,1
+CZE,209273,Michaela Kucharova,1
+CZE,223262,Dominika Talpova,1
+CZE,222500,Andrea Nova,1
+CZE,122593,David Prokop,1
+CZE,223072,Daniela Jelinkova,1
+CZE,214895,Radka Buzkova,1
+CZE,201508,Petra Cetkovska,1
+CZE,220269,Marketa Panackova,1
+CZE,210031,Barbora Vykydalova,1
+CZE,105246,Michal Schmid,1
+CZE,222616,Nella Chiara Ondrouskova,1
+CZE,105133,Lubomir Majsajdr,1
+CZE,210455,Veronika Zavodska,1
+CZE,202366,Tadeas Paroulek,1
+CZE,222992,Petra Horakova,1
+CZE,216224,Denisa Pospisilova,1
+CZE,222737,Vivien Charvatova,1
+CZE,239126,Emma Slavikova,1
+CZE,222982,Lenka Munzarova,1
+CZE,222221,Sabina Brichackova,1
+CZE,208343,Andrew Paulson,1
+CZE,239114,Marie Svozilova,1
+CZE,222567,Tereza Vajsejtlova,1
+CZE,104160,Lukas Dlouhy,1
+DEN,201496,Caroline Wozniacki,160
+DEN,220704,Clara Tauson,124
+DEN,219983,Olga Helmi,91
+DEN,111453,Mikael Torpegaard,87
+DEN,104233,Frederik Nielsen,78
+DEN,202471,Karen Barbat,65
+DEN,214770,Emilie Francati,49
+DEN,220272,Sofia Nami Samavati,46
+DEN,208029,Holger Rune,45
+DEN,221376,Olivia Gram,28
+DEN,220048,Elena Jamshidi,27
+DEN,221804,Hannah Viller Moller,10
+DEN,241717,Johanne Christine Svendsen,7
+DEN,222708,Karoline Laursen,5
+DEN,204372,Anna Signe Rasmussen,3
+DEN,222800,Divine Dasam Nweke,3
+DEN,126526,Soren Hess Olesen,3
+DEN,241735,Sarafina Olivia Hansen,2
+DEN,144841,Christian Sigsgaard,2
+DEN,204374,Frederikke Svarre,1
+DEN,144813,Benjamin Hannestad,1
+DEN,204373,Maria Jespersen,1
+DEN,241732,Cecilie Wiche,1
+DEN,200416,August Holmgren,1
+DEU,241713,Chiara Tomasetti,3
+DEU,244075,Paula Rumpf,3
+DEU,241016,Aaliyah Hohmann,1
+DEU,241728,Annemarie Lazar,1
+DOM,105497,Jose Hernandez,108
+DOM,103607,Victor Estrella,69
+DOM,106232,Roberto Cid,65
+DOM,200572,Nick Hardt,7
+DOM,144773,Jose Olivares,6
+DOM,212308,Karla Portalatin,3
+DOM,221979,Ana Carmen Zamburek,2
+DOM,221809,Laura Lissette Quezada Martinez,1
+DOM,215789,Penelope Abreu,1
+DOM,205787,Francesca Segarelli,1
+DOM,221980,Ana Julissa De Mata,1
+DOM,212282,Michelle Marie Valdez,1
+ECU,105877,Emilio Gomez,149
+ECU,105933,Roberto Quiroz,128
+ECU,105271,Gonzalo Escobar,86
+ECU,211122,Charlotte Roemer,67
+ECU,221242,Mell Elizabeth Reasco Gonzalez,40
+ECU,105111,Ivan Endara,21
+ECU,214713,Camila Romero,19
+ECU,106165,Diego Hidalgo,11
+ECU,104117,Giovanni Lapentti,8
+ECU,202277,Mariana Correa,5
+ECU,220839,Carolina Alvarez,4
+ECU,144885,Camilo Ponce,1
+ECU,245145,Pamela Duran Vinueza,1
+ECU,201995,Cayetano March,1
+ECU,220835,Isabela Barona Estrada,1
+ECU,220837,Manuela Gomez Estrada,1
+ECU,127218,Hugo Minda,1
+ECU,219580,Ariana Chan Baratau,1
+ECU,208930,Tania Varela Alvarado,1
+ECU,238186,Isabella Pita,1
+ECU,216476,Rafaella Baquerizo,1
+EGY,211529,Sandra Samir,247
+EGY,105633,Mohamed Safwat,138
+EGY,210886,Mayar Sherif,132
+EGY,213974,Lamis Alhussein Abdel Aziz,102
+EGY,205909,Ola Abou Zekry,60
+EGY,105747,Karim Mohamed Maamoun,28
+EGY,221474,Yasmin Ezzat,26
+EGY,221083,Aya El Sayed,22
+EGY,221336,Amira Badawi,20
+EGY,221473,Merna Refaat,16
+EGY,126174,Youssef Hossam,14
+EGY,215242,Nermeen Shawky,13
+EGY,221629,Hla El Sakka,12
+EGY,221598,Norhan Hesham,12
+EGY,222028,Nada Fouad,11
+EGY,215041,Dalila Said,11
+EGY,221337,Hala Fouad,9
+EGY,221798,Ritage Faizy,8
+EGY,222697,Dareen Elleithy,8
+EGY,222614,Nathalie Mokhtar,8
+EGY,214565,Farah Yasser Abd El Wahab,8
+EGY,220240,Farah Khalil,8
+EGY,215870,Dona Abo Habaga,7
+EGY,220394,Hania Abouelsaad,7
+EGY,223677,Malak Naim,6
+EGY,221992,Mariam Samy,6
+EGY,230127,Jermine Sherif,6
+EGY,222027,Zeina Shaaban,6
+EGY,222699,Hana El Deeb,5
+EGY,223252,Shahd Habib,5
+EGY,215774,Salma Abdel Rahim,5
+EGY,213585,Hana Mortagy,4
+EGY,223067,Lama Nabil,4
+EGY,241002,Malak Arafat,4
+EGY,230874,Mai Elkamash,4
+EGY,230125,Nour Hassan Moustafa,4
+EGY,223324,Dalia Sherif,3
+EGY,215751,Mayar Eltony,3
+EGY,222698,Farida Sabra,3
+EGY,223674,Nouray Metwally,3
+EGY,213648,Ahlam Shawkat,2
+EGY,222600,Kenzy Ramy,2
+EGY,223088,Engy Abouelseoud,2
+EGY,223675,Farah Haitham Kassem,2
+EGY,206086,Mai El Kamash,2
+EGY,222973,Mariam Hatem Ibrahim,2
+EGY,230873,Jana Elgebily,2
+EGY,231626,Layla Shoukry,2
+EGY,223676,Leena Metwally,1
+EGY,225848,Jana Abdelaziz,1
+EGY,223672,Kenzy Sherif Elhamrawy,1
+EGY,222731,Hla Saber,1
+EGY,230128,Renad Ayman Maamoun,1
+EGY,221993,Caroline Fawzy,1
+EGY,242446,Dana Mousa,1
+EGY,222999,Mariam Mahmoud,1
+EGY,223265,Kenzy Abdelaal,1
+EGY,241736,Jana Elagamy,1
+EGY,237475,Login Khairy,1
+EGY,222996,Roaa Elatrebi,1
+EGY,220702,Hala Khaled,1
+EGY,231628,Rawan Abdelaziz,1
+EGY,230878,Chantal Kamel,1
+EGY,230126,Habiba Elgerby,1
+EGY,223678,Lina Sarhan,1
+EGY,230123,Hams Metwali,1
+EGY,220271,Yusra Hegy,1
+ESA,105656,Marcelo Arevalo,114
+ESP,104745,Rafael Nadal,262
+ESP,105138,Roberto Bautista Agut,220
+ESP,106148,Roberto Carballes Baena,214
+ESP,211651,Paula Badosa,197
+ESP,202469,Garbine Muguruza,196
+ESP,105807,Pablo Carreno Busta,196
+ESP,204427,Sara Sorribes Tormo,194
+ESP,203463,Nuria Parrizas Diaz,184
+ESP,206216,Olga Saez Larra,168
+ESP,105077,Albert Ramos,168
+ESP,202916,Georgina Garcia Perez,166
+ESP,206253,Ivonne Cavalle Reimers,161
+ESP,144719,Jaume Munar,156
+ESP,213706,Irene Burillo Escorihuela,154
+ESP,215453,Marina Bassols Ribera,150
+ESP,126535,Carlos Taberner,148
+ESP,104629,Adrian Menendez Maceiras,146
+ESP,124079,Pedro Martinez,143
+ESP,126523,Bernabe Zapata Miralles,132
+ESP,104719,Marcel Granollers,129
+ESP,200221,Alejandro Davidovich Fokina,128
+ESP,104198,Guillermo Garcia Lopez,127
+ESP,104269,Fernando Verdasco,126
+ESP,201521,Carla Suarez Navarro,122
+ESP,210622,Andrea Lazaro Garcia,120
+ESP,213835,Alba Carrillo Marin,119
+ESP,103852,Feliciano Lopez,119
+ESP,213557,Maria Gutierrez Carrasco,117
+ESP,214937,Eva Guerrero Alvarez,116
+ESP,202418,Lara Arruabarrena,114
+ESP,215571,Guiomar Maristany Zuleta De Reales,109
+ESP,106408,Mario Vilella Martinez,109
+ESP,105782,Enrique Lopez Perez,99
+ESP,215174,Claudia Hoste Ferrer,99
+ESP,104665,Pablo Andujar,97
+ESP,104593,Daniel Gimeno Traver,97
+ESP,215798,Rosa Vicens Mas,96
+ESP,201562,Silvia Soler Espinosa,93
+ESP,211508,Josephine Boualem,92
+ESP,214236,Angela Fita Boluda,87
+ESP,103990,Tommy Robredo,86
+ESP,103970,David Ferrer,83
+ESP,200095,Nicola Kuhn,79
+ESP,215398,Lucia Cortez Llorca,78
+ESP,214145,Julia Payola,74
+ESP,105751,Roberto Ortega Olmedo,68
+ESP,222601,Jessica Bouzas Maneiro,68
+ESP,214212,Noelia Bouzo Zanotti,68
+ESP,216078,Celia Cervino Ruiz,67
+ESP,207989,Carlos Alcaraz Garfia,66
+ESP,105438,Inigo Cervantes Huegun,65
+ESP,201640,Maria Teresa Torro Flor,63
+ESP,209945,Almudena Sanz Llaneza Fernandez,62
+ESP,213567,Maria Jose Luque Moreno,59
+ESP,216091,Ana Lantigua De La Nuez,58
+ESP,201638,Estrella Cabeza Candela,57
+ESP,105529,Carlos Gomez Herrera,54
+ESP,206339,Olga Parres Azcoitia,51
+ESP,220781,Carlota Martinez Cirez,51
+ESP,206276,Ainhoa Atucha Gomez,50
+ESP,106177,Oriol Roca Batalla,48
+ESP,103105,Ruben Ramirez Hidalgo,47
+ESP,104597,Nicolas Almagro,43
+ESP,106120,Ricardo Ojeda Lara,43
+ESP,105283,Gerard Granollers,39
+ESP,220742,Leyre Romero Gormaz,38
+ESP,105515,Jordi Samper Montana,38
+ESP,221454,Alba Rey Garcia,38
+ESP,103926,Daniel Munoz de la Nava,37
+ESP,215698,Paula Arias Manjon,34
+ESP,214444,Estela Perez Somarriba,31
+ESP,216406,Angeles Moreno Barranquero,30
+ESP,221213,Ane Mintegi Del Olmo,30
+ESP,222016,Marta Custic,27
+ESP,215699,Lucia Marzal Martinez,27
+ESP,203520,Arabela Fernandez Rabener,27
+ESP,200266,Javier Barranco Cosano,27
+ESP,103656,Albert Montanes,26
+ESP,105137,Pere Riba,25
+ESP,220999,Gemma Lairon Navarro,25
+ESP,214885,Meritxell Perera Ros,24
+ESP,106375,Pol Toledo Bague,24
+ESP,105300,Sergio Gutierrez Ferrol,23
+ESP,214189,Alicia Herrero Linana,22
+ESP,215930,Nora Ayala Serra,22
+ESP,110754,David Vega Hernandez,22
+ESP,220289,Isabel Adrover Gallego,21
+ESP,202197,Carlos Gimeno Valero,21
+ESP,213630,Valeria Koussenkova,21
+ESP,207663,Nikolas Sanchez Izquierdo,20
+ESP,202704,Rocio De La Torre Sanchez,19
+ESP,106117,Carlos Boluda Purkiss,19
+ESP,105128,Guillermo Olaso,19
+ESP,201440,Laura Pous Tio,17
+ESP,214442,Lidia Moreno Arias,16
+ESP,220564,Judith Perello Saavedra,14
+ESP,106238,Andres Artunedo Martinavarro,13
+ESP,219798,Laia Conde Monfort,12
+ESP,201452,Lourdes Dominguez Lino,11
+ESP,211028,Maria Martinez Martinez,11
+ESP,105789,Marc Giner,10
+ESP,216198,Ana Giraldi Requena,10
+ESP,215701,Esther Lopez Alcaraz,9
+ESP,106354,Eduard Esteve Lobato,9
+ESP,214693,Marta Garcia Gausi,8
+ESP,222824,Maria Dolores Lopez Martinez,8
+ESP,214216,Marta Huqi Gonzalez Encinas,8
+ESP,106322,David Perez Sanz,8
+ESP,220116,Pilar Astigarraga Harper,7
+ESP,132852,Pablo Vivero Gonzalez,7
+ESP,215457,Carlota Molina Megias,6
+ESP,221457,Claudia De Las Heras Armenteras,6
+ESP,221197,Lucia Llinares Domingo,6
+ESP,134457,Nicolas Moreno De Alboran,6
+ESP,204428,Miriam Civera Lima,6
+ESP,221001,Paula Ortega Redondo,6
+ESP,216229,Marina Benito,6
+ESP,220753,Marta Garcia Reboredo Montesdeoca,6
+ESP,223326,Raquel Gonzalez Vilar,6
+ESP,222239,Carmen Gallardo Guevara,6
+ESP,105894,Javier Marti,5
+ESP,222891,Maria Martinez Vaquero,5
+ESP,125854,Jaume Pla Malfeito,5
+ESP,123812,Jose Fco Vidal Azorin,5
+ESP,220163,Ares Teixido Garcia,5
+ESP,225847,Ksenia San Luis Kravtseva,5
+ESP,214160,Eva Martinez Regalado,5
+ESP,211956,Ariadna Marti Riembau,5
+ESP,215995,Yesica De Lucas,5
+ESP,126737,Alberto Romero De Avila Senise,5
+ESP,215354,Lucia De La Puerta Uribe,4
+ESP,126533,Alvaro Lopez San Martin,4
+ESP,223141,Sara Dols,4
+ESP,220164,Maria Aran Teixido Garcia,4
+ESP,225850,Maria Garcia Cid,4
+ESP,213860,Ana Roman Dominguez,4
+ESP,221122,Carmen Garri Murcia,4
+ESP,222908,Jordina Cegarra Ramirez,3
+ESP,225851,Claudia Martinez De Velasco,3
+ESP,221432,Ariadna Briones Ginesta,3
+ESP,205881,Lucia Martinez Gomez,3
+ESP,221458,Silvia Martinez Jimenez,3
+ESP,231629,Naroa Aranzabal,3
+ESP,216131,Marta Perez Mur,3
+ESP,105758,Juan Lizariturry,3
+ESP,202199,Carlos Sanchez Jover,3
+ESP,222238,Alba Retortillo Soiras,3
+ESP,106403,Albert Alcaraz Ivorra,3
+ESP,222281,Amanda Montes Khaghani,3
+ESP,208279,Alejandro Moro Canas,3
+ESP,207704,Alex Marti Pujolras,3
+ESP,222662,Meritxell Boix Molla,3
+ESP,223328,Claudia Sanchez Quesada,3
+ESP,201287,Maria Jose Martinez Sanchez,3
+ESP,220638,Nadja Bay Christians,3
+ESP,222345,Blanca Cortijo Parreno,2
+ESP,220565,Angela Juarez Blanco,2
+ESP,223390,Paula Sanchez Rodriguez,2
+ESP,221288,Maria Berlanga Bandera,2
+ESP,104936,Jorge Hernando Ruano,2
+ESP,126748,Juan Pablo Canas Garcia,2
+ESP,126222,Jaime Fermosell Delgado,2
+ESP,215353,Mercedes Aristegui,2
+ESP,220060,Andrea Sauco Roque,2
+ESP,223023,Bruna Casasampere Escoda,2
+ESP,231636,Raquel Caballero Chica,2
+ESP,225854,Carmen Lopez Martinez,2
+ESP,221135,Uxia Martinez Moral,2
+ESP,232881,Cristina Diaz Adrover,2
+ESP,200374,Nicolas Alvarez Varona,2
+ESP,200608,Andres Fernandez Canovas,2
+ESP,234477,Laura Garcia Astudillo,2
+ESP,104544,Ricardo Villacorta Alonso,2
+ESP,215964,Cristina Mayorova Bakhtina,2
+ESP,234226,Nataly Miroslavova Ninova,2
+ESP,215963,Tanit Lopez Lopez,2
+ESP,231634,Berta Miret Avante,2
+ESP,132331,Jorge Blanco Guadalupe,2
+ESP,225855,Vitoria Solis Urdiales,2
+ESP,220996,Gloria Alogo Piqueras,1
+ESP,223381,Carmen Juan Bru,1
+ESP,223679,Tabatha Suarez,1
+ESP,106197,Samuel Ribeiro Navarrete,1
+ESP,215128,Alexandra Alegre Ferre,1
+ESP,137573,Pedro Uribe,1
+ESP,221623,Lidia Gonzalez,1
+ESP,239409,Andrea Burguete Beltran,1
+ESP,215623,Paola Exposito Diaz Delgad,1
+ESP,221580,Marta Falceto Font,1
+ESP,223121,Natalia Mora Ballo,1
+ESP,207490,Carlos Lopez Montagud,1
+ESP,221669,Julieta Honrubia Andrino,1
+ESP,221144,Andrea Redondo Gutierrez,1
+ESP,206192,Tao Castillo Bernal,1
+ESP,223369,Simona Karlsson Hantzis,1
+ESP,223147,Paola Moreno Bautista,1
+ESP,239434,Rocio Martinez Azcarraga,1
+ESP,223681,Paula Rodriguez Gregoris,1
+ESP,208540,Inaki Montes De La Torre,1
+ESP,231635,Ines Costa,1
+ESP,222313,Irati Urbaneja Salazar,1
+ESP,223383,Jana Rovira Alier,1
+ESP,221732,Lara Marco Mas,1
+ESP,231642,Irene Fuster Hidalgo,1
+ESP,134544,Jose Antonio Dugo Reyes,1
+ESP,203406,Lucia Cervera Vazquez,1
+ESP,105314,Javier Pulgar Garcia,1
+ESP,239117,Ana Martinez Vaquero,1
+ESP,215622,Silvia Bordes Caselles,1
+ESP,121669,Sergio Martos Gornes,1
+ESP,222170,Laia Giralt,1
+ESP,220563,Maria Oliver Sanchez,1
+ESP,216274,Ines Benito,1
+ESP,241004,Lola Diaz Gonzalez,1
+ESP,222430,Laura Munoz Baroja Orallo,1
+ESP,220290,Dami Edibson Messiah,1
+ESP,214214,Alba Cortina Pou,1
+ESP,200447,Diego Garcia Dalisay,1
+ESP,223384,Jordina Font,1
+ESP,216302,Alexia Alvarez Gerochristodoulou,1
+ESP,216301,Loretto Villalba Rubio,1
+ESP,213705,Natividad Lopez Diaz,1
+ESP,200469,Iouri Sant Syromolotov Netrebin,1
+ESP,216112,Angela Diez Plagaro,1
+ESP,104043,Marc Lopez,1
+ESP,126502,Luis Diego Chavez Villalpando,1
+ESP,103924,Marc Fornell Mestres,1
+ESP,221453,Maialen Morante Oyague,1
+ESP,203490,Beatriz Leon Hernandez,1
+ESP,215369,Blanca Puig Caballero,1
+ESP,216402,Marina Alcaide Bakari,1
+ESP,222564,Ainhoa Meili Fernandez Del Moral Perier,1
+ESP,222665,Judith Hernandez Miranda,1
+ESP,239405,Lucia Conde Zalona,1
+ESP,222434,Eva Arranz,1
+ESP,239402,Maria Castano,1
+ESP,207546,Pol Martin Tiffon,1
+ESP,233724,Marina De Diego Quinones,1
+ESP,214662,Olga Esteve Mendez,1
+ESP,221286,Silvia Vargas Jimenez,1
+ESP,222364,Marta Calvo Larraz,1
+ESP,103543,David Marrero,1
+ESP,216276,Carla Girbau Romero,1
+EST,204426,Anett Kontaveit,178
+EST,201466,Kaia Kanepi,128
+EST,216116,Elena Malygina,98
+EST,105132,Jurgen Zopp,89
+EST,216118,Maria Lota Kaul,46
+EST,216119,Maileen Nuudi,25
+EST,220043,Katriin Saar,21
+EST,214176,Valeria Gorlats,20
+EST,221204,Helena Narmont,18
+EST,104901,Vladimir Ivanov,16
+EST,222350,Lissi Kubre,13
+EST,216117,Saara Orav,11
+EST,223374,Elizabeth Jurna,9
+EST,222381,Anet Angelika Koskel,7
+EST,221205,Sofiya Chekhlystova,6
+EST,222379,Polina Ramenskaja,6
+EST,223091,Karola Suviste,3
+EST,223344,Elisabeth Iila,2
+EST,144932,Kristjan Tamm,2
+EST,144807,Kenneth Raisma,2
+EST,222914,Liisa Varul,1
+EST,216115,Carol Plakk,1
+EST,206750,Daniil Glinka,1
+FIN,200325,Emil Ruusuvuori,107
+FIN,215395,Oona Orpana,77
+FIN,211288,Mia Nicole Eklund,48
+FIN,105349,Harri Heliovaara,30
+FIN,203290,Piia Suomalainen,22
+FIN,220571,Liisa Vehvilainen,19
+FIN,126609,Patrik Niklas Salminen,17
+FIN,201441,Emma Laine,11
+FIN,221222,Venla Ahti,8
+FIN,202261,Otto Virtanen,6
+FIN,216104,Alexandra Anttila,5
+FIN,214739,Mariella Minetti,5
+FIN,221523,Nikita Liebkind,4
+FIN,222397,Laura Hietaranta,4
+FIN,109520,Herkko Pollanen,4
+FIN,216300,Aino Alkio,3
+FIN,103813,Jarkko Nieminen,3
+FIN,222093,Eveliina Koivupuisto,3
+FIN,103643,Lauri Kiiski,2
+FIN,109684,Sami Huurinainen,2
+FIN,105484,Max Wennakoski,2
+FIN,216107,Ella Haavisto,2
+FIN,241719,Marissa Minetti,2
+FIN,213878,Milka Emilia Pasanen,1
+FIN,241740,Serena Hatakka,1
+FIN,221521,Emilia Hartman,1
+FIN,241741,Paula Susanna Joukanen,1
+FIN,105759,Henrik Sillanpaa,1
+FIN,223052,Eija Jaatinen,1
+FIN,126625,Pyry Hyrkkonen,1
+FIN,241738,Heta Nuutinen,1
+FIN,210439,Ella Leivo,1
+FIN,221757,Martina Minetti,1
+FIN,215723,Monica Malinen,1
+FIN,241724,Daliyah Hammoud,1
+FIN,144814,Eero Vasa,1
+FIN,241745,Clarissa Blomqvist,1
+FIN,222427,Stella Remander,1
+FRA,206219,Oceane Dodin,190
+FRA,201614,Caroline Garcia,189
+FRA,105173,Adrian Mannarino,170
+FRA,111460,Quentin Halys,165
+FRA,214219,Tessah Andrianjafitrimo,164
+FRA,106288,Mathias Bourgue,164
+FRA,106137,Tristan Lamasine,159
+FRA,214220,Margot Yerolymos,159
+FRA,104792,Gael Monfils,159
+FRA,105332,Benoit Paire,158
+FRA,201540,Kristina Mladenovic,157
+FRA,126125,Maxime Janvier,155
+FRA,105732,Pierre Hugues Herbert,152
+FRA,104871,Jeremy Chardy,149
+FRA,211552,Harmony Tan,149
+FRA,104755,Richard Gasquet,149
+FRA,211539,Fiona Ferro,147
+FRA,211316,Jessika Ponchet,146
+FRA,201427,Alize Cornet,145
+FRA,106296,Gregoire Barrere,142
+FRA,106298,Lucas Pouille,140
+FRA,203281,Amandine Hesse,139
+FRA,214254,Alice Rame,138
+FRA,214319,Sara Cakarevic,136
+FRA,202706,Manon Arcangioli,136
+FRA,203564,Chloe Paquet,134
+FRA,106005,Constant Lestienne,133
+FRA,206277,Marine Partaud,133
+FRA,200005,Ugo Humbert,132
+FRA,144895,Corentin Moutet,131
+FRA,104468,Gilles Simon,131
+FRA,104542,Jo-Wilfried Tsonga,125
+FRA,202656,Estelle Cascino,122
+FRA,126156,Antoine Hoang,119
+FRA,203558,Lou Brouleau,118
+FRA,201426,Pauline Parmentier,117
+FRA,126127,Benjamin Bonzi,115
+FRA,211019,Audrey Albie,114
+FRA,211382,Caroline Romeo,113
+FRA,202707,Myrtille Georges,112
+FRA,220733,Carole Monnet,110
+FRA,104932,Kenny De Schepper,106
+FRA,204366,Victoria Muntean,100
+FRA,206166,Jade Suvrijn,100
+FRA,124186,Alexandre Muller,97
+FRA,126409,Hugo Grenier,92
+FRA,103565,Stephane Robert,91
+FRA,111505,Enzo Couacaud,90
+FRA,202640,Irina Ramialison,90
+FRA,200611,Elliot Benchetrit,90
+FRA,104672,Vincent Millot,85
+FRA,126239,Arthur Rinderknech,84
+FRA,205714,Julie Gervais,84
+FRA,214317,Mallaurie Noel,84
+FRA,103917,Nicolas Mahut,84
+FRA,214312,Sherazad Reix,82
+FRA,123921,Calvin Hemery,80
+FRA,215806,Alice Robbe,77
+FRA,105163,Gleb Sakharov,75
+FRA,202430,Alize Lim,74
+FRA,202621,Elixane Lechemia,73
+FRA,103898,Julien Benneteau,73
+FRA,120775,Sadio Doumbia,73
+FRA,210865,Marie Temin,70
+FRA,215778,Emma Lene,68
+FRA,220348,Diane Parry,65
+FRA,220305,Salma Djoubri,65
+FRA,203487,Andrea Ka,64
+FRA,216262,Clara Burel,63
+FRA,211484,Lou Adler,61
+FRA,210056,Priscilla Heise,61
+FRA,203559,Clothilde De Bernardi,60
+FRA,215657,Kelia Le Bihan,59
+FRA,214299,Lucie Wargnier,59
+FRA,213555,Theo Gravouil,59
+FRA,220554,Alice Tubello,58
+FRA,144972,Geoffrey Blancaneaux,57
+FRA,206417,Leolia Jeanjean,57
+FRA,215802,Emeline Dartron,56
+FRA,105938,Antoine Escoffier,56
+FRA,105860,Tak Khunn Wang,56
+FRA,215588,Yasmine Mansouri,55
+FRA,211537,Mathilde Armitano,52
+FRA,202703,Constance Sibille,50
+FRA,211021,Lea Tholey,50
+FRA,213909,Clemence Fayol,50
+FRA,219979,Marie Villet,49
+FRA,215726,Tiphanie Fiquet,49
+FRA,220330,Margaux Orange,48
+FRA,131905,Manuel Guinard,47
+FRA,221157,Diana Martynov,46
+FRA,105678,Axel Michon,45
+FRA,103908,Paul Henri Mathieu,44
+FRA,200384,Hugo Gaston,44
+FRA,210584,Fiona Codino,44
+FRA,215855,Irys Ekani,44
+FRA,215776,Emmanuelle Girard,43
+FRA,221191,Margaux Rouvroy,43
+FRA,145001,Evan Furness,42
+FRA,220512,Maelys Bougrat,42
+FRA,221052,Aubane Droguet,40
+FRA,210702,Pauline Payet,38
+FRA,105874,Albano Olivetti,37
+FRA,221911,Selena Janicijevic,37
+FRA,203317,Amandine Cazeaux,37
+FRA,221018,Julie Belgraver,36
+FRA,105559,Jonathan Eysseric,35
+FRA,111512,Johan Sebastien Tatlot,34
+FRA,214257,Vinciane Remy,34
+FRA,111506,Maxime Hamou,32
+FRA,126512,Fabien Reboul,31
+FRA,221192,Sophia Biolay,30
+FRA,213554,Louise Lampla,30
+FRA,104095,David Guez,30
+FRA,216099,Loudmilla Bencheikh,29
+FRA,220349,Ines Nicault,28
+FRA,211486,Manon Peral,28
+FRA,222602,Nina Radovanovic,28
+FRA,144675,Baptiste Crepatte,28
+FRA,221496,Jade Bornay,27
+FRA,123920,Gregoire Jacq,27
+FRA,221039,Elsa Jacquemot,27
+FRA,144656,Corentin Denolly,26
+FRA,125796,Remi Boutillier,26
+FRA,106172,Maxime Chazal,25
+FRA,222391,Lois Boisson,24
+FRA,215831,Mylene Halemai,24
+FRA,200043,Virginie Razzano,23
+FRA,215807,Manon Leonard,23
+FRA,206171,Alice Bacquie,23
+FRA,205125,Gaelle Desperrier,23
+FRA,200188,Matteo Martineau,23
+FRA,221468,Lucie Nguyen Tan,23
+FRA,215633,Ambre Feder,22
+FRA,106362,Laurent Lokoli,22
+FRA,221522,Evita Ramirez,21
+FRA,221486,Amandine Monnot,21
+FRA,220687,Olympe Lancelot,21
+FRA,222171,Nahia Berecoechea,21
+FRA,216252,Giulia Morlet,20
+FRA,105098,Alexandre Sidorenko,20
+FRA,211538,Carla Touly,20
+FRA,221321,Karen Marthiens,20
+FRA,211543,Jennifer Zerbone,20
+FRA,202449,Victoria Larriere,19
+FRA,221524,Margaux Komano,19
+FRA,236980,Astrid Cirotte,18
+FRA,222347,Marine Szostak,18
+FRA,221740,Helena Stevic,18
+FRA,105917,Gianni Mina,18
+FRA,221549,Mathilde Dury,17
+FRA,221682,Jenifer Anger,17
+FRA,215050,Schena Benamar,17
+FRA,105415,Maxime Tabatruong,16
+FRA,104852,Yannick Jankovits,16
+FRA,211961,Emmanuelle Salas,16
+FRA,221193,Rania Azziz,15
+FRA,208021,Kyrian Jacquet,14
+FRA,201561,Claire Feuerstein,14
+FRA,104273,Edouard Roger Vasselin,14
+FRA,219976,Pauline Courcoux,14
+FRA,222393,Celia Belle Mohr,13
+FRA,104579,Romain Jouan,13
+FRA,206274,Agathe Timsit,13
+FRA,144946,Rayane Roumane,12
+FRA,223402,Chloe Noel,12
+FRA,220709,Maneva Rakotomalala,12
+FRA,231638,Helena Mohamed,11
+FRA,106191,Mick Lescure,11
+FRA,221746,Oceane Babel,11
+FRA,215416,Kassandra Davesne,11
+FRA,209070,Arthur Cazaux,11
+FRA,208004,Harold Mayot,10
+FRA,221390,Coralie Garrigues,10
+FRA,223340,Caroline Vernet,10
+FRA,221194,Flavie Brugnone,10
+FRA,221717,Juline Fayard,10
+FRA,223197,Joanna Tomera,9
+FRA,221443,Mathilde Lollia,9
+FRA,219929,Zoe Richard,9
+FRA,214318,Eleonore Barrere,9
+FRA,215438,Cindy Castille,9
+FRA,105716,Tom Jomby,9
+FRA,215557,Julia Vulpio,9
+FRA,221483,Juliette Loliee,9
+FRA,206758,Antoine Cornut Chauvinc,9
+FRA,106033,Romain Arneodo,9
+FRA,205964,Laetitia Sarrazin,8
+FRA,134792,Jules Okala,8
+FRA,221388,Aminata Sall,8
+FRA,105088,Laurent Rochette,8
+FRA,105178,Alexis Musialek,8
+FRA,105270,Maxime Teixeira,8
+FRA,211290,Sybille Gauvain,8
+FRA,200773,Stephanie Foretz Gacon,8
+FRA,230872,Jade Marie,7
+FRA,215935,Zoe Bourbotte,7
+FRA,223285,Anaelle Leclercq,7
+FRA,223437,Cosima Trinity Calinescu,7
+FRA,210583,Brandy Mina,6
+FRA,228107,Selya Rakki,6
+FRA,220790,Emma Mazzoni,6
+FRA,214320,Valentine Bacher,6
+FRA,106355,Jonathan Kanar,6
+FRA,208169,Titouan Droguet,6
+FRA,104802,Fabrice Martin,5
+FRA,105844,Joffrey De Schepper,5
+FRA,221907,Zoe Billon,5
+FRA,144701,Mathieu Perchicot,5
+FRA,215638,Chloe Cirotte,5
+FRA,221016,Esther Bataille,5
+FRA,230121,Hanna Bougouffa,5
+FRA,215805,Marie Mattel,5
+FRA,221491,Sariaka Veronika Rachelle Radilofe,5
+FRA,213553,Camille Sireix,5
+FRA,144787,Gabriel Petit,5
+FRA,225858,Sarah Iliev,5
+FRA,104924,Alexandre Penaud,5
+FRA,211341,Sarah Finck,4
+FRA,222346,Laia Petretic,4
+FRA,200385,Dan Added,4
+FRA,134794,Alexis Gautier,4
+FRA,234474,Alyssa Reguer,4
+FRA,215754,Lea Romain,4
+FRA,216227,Lola Marandel,4
+FRA,215725,Sihem Bellahouel,4
+FRA,214233,Julie Razafindranaly,4
+FRA,106156,Sebastien Boltz,4
+FRA,201428,Mathilde Johansson,4
+FRA,133014,Enzo Wallart,4
+FRA,127606,Quentin Gueydan,4
+FRA,144788,Louis Tessa,4
+FRA,220934,Juliette Mazzoni,4
+FRA,111427,Adrien Puget,3
+FRA,221917,Helene Kereselidze,3
+FRA,105836,Jules Marie,3
+FRA,215051,Juliette Colard,3
+FRA,105118,Dorian Descloix,3
+FRA,214878,Sophie Muntean,2
+FRA,123827,Samuel Bensoussan,2
+FRA,104993,Martin Vaisse,2
+FRA,133857,Maxime Mora,2
+FRA,220734,Maissane Aik Haymoz,2
+FRA,131912,Ronan Joncour,2
+FRA,223330,Maelie Monfils,2
+FRA,222757,Savine Erler,2
+FRA,223400,Leire De Ezcurra,2
+FRA,222392,Lou Anne Guerbert,2
+FRA,138652,Hugo Voljacques,2
+FRA,106337,Loic Perret,2
+FRA,215528,Anna Maria Jovanovic,2
+FRA,211143,Julie Tringa,2
+FRA,110600,Robert Quentin,2
+FRA,200643,Jurgen Briand,2
+FRA,206275,Maud Vigne,1
+FRA,215364,Catherine Roche,1
+FRA,238333,Laure Razet,1
+FRA,215737,Clara Froget,1
+FRA,130550,Victor Ouvrard,1
+FRA,222735,Justine Lespes,1
+FRA,222418,Tara Zoppas,1
+FRA,234489,Clarisse Aussert,1
+FRA,223296,Marion Deloziere,1
+FRA,209950,Arthur Fils,1
+FRA,134786,Pierre Faivre,1
+FRA,104720,Florian Reynet,1
+FRA,238331,Camilia Samel Druz,1
+FRA,131904,Louis Chaix,1
+FRA,105875,Thomas Giraudeau,1
+FRA,145014,Thomas Laurent,1
+FRA,230871,Souhila Aouni,1
+FRA,216003,Anita Hutellier,1
+FRA,122520,Paul Cayre,1
+FRA,232446,Noemie Oliveras,1
+FRA,222552,Diane Flament,1
+FRA,208316,Valentin Royer,1
+FRA,213013,Anais Van Cauter,1
+FRA,222151,Angele Devaux,1
+FRA,221317,Ana Conde Vendrell,1
+FRA,200312,Noe Khlif,1
+FRA,144970,Constantin Bittoun Kouzmine,1
+FRA,234479,Shanice Roignot,1
+FRA,208421,Lilian Marmousez,1
+FRA,105414,Matthieu Roy,1
+FRA,216255,Pauline Dore,1
+FRA,208659,Giovanni Mpetshi Perricard,1
+FRA,202125,Benjamin Pietri,1
+FRA,127239,Tony Bourcet,1
+FRA,221025,Karine Marion Job,1
+FRA,104390,Jonathan Hilaire,1
+FRA,200006,Hugo Pontico,1
+FRA,234490,Thessy Ntondele Zinga,1
+FRA,223040,Philippine Gabalda,1
+FRA,202127,Clement Tabur,1
+FRA,202126,Jaimee Floyd Angele,1
+FRA,215388,Sandra Bozinovic,1
+FRA,239456,Tiantsoa Sarah Rakotomanga Rajaonah,1
+FRA,234484,Constance Levivier,1
+FRA,202324,Maxence Broville,1
+FRA,216004,Vanessa Ridolfo,1
+FRA,106280,Maxime Tchoutakian,1
+FRA,220994,Tina Ronel,1
+FRA,126276,Thomas Brechemier,1
+FRA,220993,Lauren Pastor,1
+FRA,208147,Alexandre Aubriot,1
+FRA,222970,Juliette Daries,1
+FRA,220385,Ysabel Gonzalez Rico,1
+FRA,221485,Marie Lou Faoro,1
+GAB,220683,Celestine Avomo Ella,12
+GAB,221494,Manuella Maria Lisa Nyonda,1
+GBR,105554,Daniel Evans,178
+GBR,111815,Cameron Norrie,176
+GBR,202427,Johanna Konta,175
+GBR,106281,Liam Broady,160
+GBR,106378,Kyle Edmund,149
+GBR,211107,Katie Boulter,143
+GBR,211279,Harriet Dart,140
+GBR,104918,Andy Murray,139
+GBR,201586,Heather Watson,137
+GBR,203465,Amanda Carreras,131
+GBR,214839,Jodie Anna Burrage,125
+GBR,215936,Francesca Jones,123
+GBR,215042,Katie Swan,118
+GBR,213602,Gabriella Taylor,108
+GBR,203591,Katy Dunne,106
+GBR,201648,Naomi Broady,99
+GBR,211887,Maia Lumsden,94
+GBR,202478,Tara Moore,93
+GBR,202425,Samantha Murray,93
+GBR,215431,Emily Appleton,92
+GBR,211432,Eden Silva,85
+GBR,126652,Jay Clarke,83
+GBR,212043,Freya Christie,77
+GBR,104868,James Ward,70
+GBR,201399,Emily Webley Smith,69
+GBR,211031,Sarah Beth Askew,65
+GBR,206230,Alicia Barnett,65
+GBR,106266,Lloyd Glasspool,63
+GBR,220354,Emilie Lindh Gallagher,62
+GBR,213600,Emily Arbuthnott,61
+GBR,221054,Emma Raducanu,57
+GBR,201573,Laura Robson,53
+GBR,105100,Edward Corrie,48
+GBR,216268,Alice Gillan,42
+GBR,214762,Mirabelle Njoze,41
+GBR,215962,Suzy Larkin,39
+GBR,216340,Eliz Maloney,36
+GBR,105528,Alexander Ward,33
+GBR,106382,Luke Bambridge,31
+GBR,215902,Aleksandra Pitak,31
+GBR,211477,Tiffany William,27
+GBR,126106,Ryan Peniston,27
+GBR,215873,Tanysha Dissanayake,19
+GBR,222989,Matilda Mutavdzic,17
+GBR,215822,Ali Collins,17
+GBR,216249,Anna Popescu,17
+GBR,211598,Anna Brogan,16
+GBR,207733,Jack Draper,16
+GBR,221495,Destinee Martins,15
+GBR,215549,Laura Sainsbury,15
+GBR,205998,Manisha Foster,14
+GBR,210734,Laura Deigman,14
+GBR,223198,Jasmine Conway,13
+GBR,105638,Daniel Cox,13
+GBR,222675,Amarni Banks,12
+GBR,215912,Katarzyna Pitak,12
+GBR,215098,Emma Hurst,12
+GBR,202925,Francesca Stephenson,10
+GBR,215432,Olivia Nicholls,10
+GBR,105422,Joshua Milton,9
+GBR,202651,Lisa Whybourn,9
+GBR,216066,Ella Taylor,9
+GBR,110749,Joe Salisbury,9
+GBR,222470,Amelia Bissett,9
+GBR,221044,Danielle Daley,8
+GBR,221228,Sasha Hill,8
+GBR,216253,Victoria Allen,8
+GBR,105650,Marcus Willis,8
+GBR,222661,Sonay Kartal,7
+GBR,216057,Soumeya Anane,7
+GBR,222716,Sashi Kempster,7
+GBR,215795,Lauryn John Baptiste,7
+GBR,110779,Jonny Omara,6
+GBR,111775,Evan Hoyt,6
+GBR,245100,Aidan Mchugh,6
+GBR,215012,Nell Miller,6
+GBR,105926,Tom Farquharson,6
+GBR,105510,Neil Pauffley,5
+GBR,206703,Paul Jubb,5
+GBR,210593,Jazzamay Drew,5
+GBR,219784,Camille Verden Anderson,5
+GBR,214143,Jasmine Amber Asghar,5
+GBR,214926,Ema Lazic,5
+GBR,220796,Emily Morton,5
+GBR,105651,Daniel Smethurst,4
+GBR,222150,Anoushka Wooller,4
+GBR,220938,Holly Staff,4
+GBR,207760,Anton Matusevich,4
+GBR,105924,Richard Gabb,3
+GBR,208286,Matteo Arnaldi,3
+GBR,216254,Gemma Heath,3
+GBR,105969,James Marsalek,3
+GBR,221959,Esther Adeshina,3
+GBR,215103,Yasmina El Sayed,3
+GBR,206073,Eleanor Dean,3
+GBR,239165,Annali Olivelle,2
+GBR,215791,Eden Richardson,2
+GBR,217993,Alicia Robinson,2
+GBR,126193,Mark Whitehouse,2
+GBR,134545,Alexis Canter,2
+GBR,221691,Jizel Matos Sequeira Fernandes,2
+GBR,209259,Arthur Fery,2
+GBR,220766,Erin Richardson,2
+GBR,215430,Holly Hutchinson,2
+GBR,230875,Oriana Parkins Godwin,2
+GBR,223142,Cheri Darley,2
+GBR,206849,Jack Molloy,2
+GBR,216248,Hannah Mccolgan,2
+GBR,220147,Olivia Peet,2
+GBR,126971,Marcus Walters,2
+GBR,220973,Graziella Barrett,2
+GBR,221960,Grace Piper,2
+GBR,216405,Summer Yardley,2
+GBR,206912,Stuart Parker,1
+GBR,211520,Sabrina Federici,1
+GBR,215433,Francesca Wilkes,1
+GBR,221961,Katie Morton,1
+GBR,105439,Neal Skupski,1
+GBR,126129,Billy Harris,1
+GBR,237483,Isabella Lynch,1
+GBR,245141,George Houghton,1
+GBR,209957,Jack Pinnington Jones,1
+GBR,202400,Alastair Gray,1
+GBR,219636,Anna Loughlan,1
+GBR,245132,Barnaby Smith,1
+GBR,215022,Amelia Stuart,1
+GBR,123854,Luke Johnson,1
+GBR,221570,Freia Lawrence,1
+GBR,216251,Megan Davies,1
+GBR,126144,Scott Duncan,1
+GBR,204438,Sabrina Bamburac,1
+GBR,144650,Rhett Purcell,1
+GBR,144874,Ryan James Storrie,1
+GBR,200164,Jonathan Gray,1
+GBR,222473,Morgan Cross,1
+GBR,222587,Madeleine Brooks,1
+GBR,200050,Finn Bass,1
+GBR,232876,Lojan Shaker,1
+GBR,208269,Felix Gill,1
+GBR,134376,Andrew Watson,1
+GBR,219097,Taro Keens,1
+GBR,222315,Eleanor Baglow,1
+GBR,221945,Amelia Rajecki,1
+GBR,223682,Hannah Read,1
+GBR,126108,Julian Cash,1
+GBR,220615,Olivia Sonnekus Williams,1
+GBR,223680,Hannah Rylatt,1
+GBR,211030,Dominique Covington,1
+GBR,223370,Iman Khan,1
+GBR,222747,Rapelang Danielle Sebata,1
+GBR,126130,Joshua Sapwell,1
+GBR,222850,Kiana Mokhtari,1
+GBR,126219,Joshua Paris,1
+GBR,222472,Abigail Amos,1
+GBR,125800,Jack Findel Hawkins,1
+GBR,222367,Angelica Blake,1
+GBR,223208,Eva Shaw,1
+GBR,132213,Jonathan Binding,1
+GBR,123944,Max Andrews,1
+GEO,202493,Ekaterine Gorgodze,178
+GEO,105932,Nikoloz Basilashvili,163
+GEO,213734,Mariam Bolkvadze,155
+GEO,202410,Sofia Shapatava,125
+GEO,216181,Mariam Dalakishvili,44
+GEO,201588,Anna Tatishvili,27
+GEO,204391,Sofia Kvatsabaia,26
+GEO,202789,Salome Devidze,17
+GEO,232873,Sopiko Tsitskishvili,13
+GEO,220365,Elene Mchedlidze,13
+GEO,106223,Aleksandre Metreveli,11
+GEO,222019,Nino Natsvlishvili,9
+GEO,222507,Tamari Gagoshidze,8
+GEO,215285,Ana Shanidze,7
+GEO,215292,Lana Kentchiashvili,5
+GEO,206059,Barbare Eristavi,5
+GEO,202442,Tatia Mikadze,5
+GEO,216203,Ana Makatsaria,4
+GEO,202611,Oksana Kalashnikova,3
+GEO,222794,Anamaria Kurtsikashvili,2
+GEO,239120,Lizi Dolidze,2
+GEO,106106,George Tsivadze,1
+GEO,239119,Kristine Nanava,1
+GER,100644,Alexander Zverev,267
+GER,201493,Angelique Kerber,197
+GER,105526,Jan Lennard Struff,189
+GER,214081,Katharina Hobgarski,172
+GER,106214,Oscar Otte,167
+GER,109739,Maximilian Marterer,160
+GER,201504,Julia Goerges,156
+GER,211285,Tayisiya Morderger,155
+GER,211337,Tamara Korpatsch,154
+GER,104735,Tobias Kamke,154
+GER,105870,Yannick Hanfmann,151
+GER,105376,Peter Gojowczyk,148
+GER,120424,Yannick Maden,148
+GER,104897,Matthias Bachinger,144
+GER,136440,Dominik Koepfer,142
+GER,201696,Laura Siegemund,142
+GER,104259,Philipp Kohlschreiber,136
+GER,213583,Tatjana Maria,136
+GER,109054,Daniel Masur,134
+GER,205723,Anna Zaja,133
+GER,212044,Katharina Gerlach,133
+GER,214810,Julyette Maria Josephine Steur,131
+GER,104999,Mischa Zverev,124
+GER,201492,Andrea Petkovic,122
+GER,206003,Laura Schaeder,117
+GER,104460,Dustin Brown,117
+GER,211779,Yana Morderger,112
+GER,105649,Cedrik Marcel Stebe,112
+GER,121531,Mats Moraing,108
+GER,203449,Sarah Rebecca Sekulic,107
+GER,206030,Julia Wachaczyk,105
+GER,204430,Antonia Lottner,105
+GER,201621,Mona Barthel,102
+GER,105906,Kevin Krawietz,101
+GER,216138,Romy Koelzer,100
+GER,211344,Caroline Uebelhoer,97
+GER,127157,Daniel Altmaier,96
+GER,215898,Jule Niemeier,94
+GER,213694,Lisa Matviyenko,93
+GER,211338,Katharina Hering,86
+GER,214270,Lisa Ponomar,85
+GER,214247,Lena Rueffer,85
+GER,204431,Anna Lena Friedsam,85
+GER,104978,Daniel Brands,83
+GER,204309,Stephanie Wagner,78
+GER,202489,Carina Witthoeft,75
+GER,221172,Jantje Tilbuerger,70
+GER,105514,Jeremy Jahn,68
+GER,210754,Vivian Heisen,66
+GER,215002,Anna Gabric,60
+GER,215459,Emily Seibold,60
+GER,222668,Anja Wildgruber,58
+GER,123828,Jan Choinski,58
+GER,221055,Sina Herrmann,57
+GER,202858,Anne Schaefer,56
+GER,133975,Benjamin Hassan,56
+GER,104252,Florian Mayer,56
+GER,109699,Julian Lenz,55
+GER,110751,Sebastian Fanselow,54
+GER,222156,Silvia Ambrosio,54
+GER,105091,Peter Torebko,54
+GER,203485,Julia Kimmelmann,53
+GER,122351,Johannes Haerteis,52
+GER,200484,Rudolf Molleker,50
+GER,214706,Dana Kremer,49
+GER,105778,Tobias Simon,49
+GER,214743,Lena Ruppert,47
+GER,201513,Sabine Lisicki,45
+GER,216095,Mina Hodzic,44
+GER,103794,Benjamin Becker,43
+GER,105047,Tim Puetz,43
+GER,206211,Anna Klasen,40
+GER,221768,Nastasja Mariana Schunk,39
+GER,220513,Antonia Schmidt,38
+GER,206032,Lisa Marie Maetschke,37
+GER,220266,Kathleen Kanev,37
+GER,202470,Annika Beck,36
+GER,105109,Marc Sieber,36
+GER,220492,Chantal Sauvant,35
+GER,214717,Sabrina Rittberger,34
+GER,213934,Nora Niedmers,34
+GER,220592,Emily Welker,34
+GER,215386,Vivian Wolff,34
+GER,215001,Carmen Schultheiss,31
+GER,105472,Nils Langer,30
+GER,215647,Lara Schmidt,29
+GER,220645,Franziska Sziedat,28
+GER,221377,Fabienne Gettwart,28
+GER,206424,Katharina Lehnert,28
+GER,211965,Jasmin Jebawy,25
+GER,103582,Michael Berrer,24
+GER,215601,Franziska Kommer,23
+GER,215075,Laura Heinrichs,23
+GER,220332,Eva Lys,21
+GER,220053,Luisa Meyer Auf Der Heide,21
+GER,204268,Natalie Proese,20
+GER,220054,Alexandra Vecic,20
+GER,104676,Andreas Beck,19
+GER,215551,Irina Cantos Siemers,19
+GER,205984,Linda Prenkovic,18
+GER,221137,Juliane Triebe,18
+GER,123993,Lucas Gerch,18
+GER,211172,Lena Lutzeier,17
+GER,105503,George Von Massow,17
+GER,211813,Luisa Marie Huber,17
+GER,223333,Noma Noha Akugue,16
+GER,203566,Christina Shakovets,15
+GER,212054,Amelie Intert,15
+GER,245102,Marvin Moeller,14
+GER,220493,Angelina Wirges,14
+GER,106040,Peter Heller,13
+GER,106246,Robin Kern,13
+GER,222326,Tea Lukic,13
+GER,220335,Sophia Intert,13
+GER,215887,Shaline Doreen Pipa,12
+GER,216331,Eva Marie Voracek,12
+GER,105797,Marvin Netuschil,12
+GER,105612,Jonas Luetjen,11
+GER,221498,Adelina Krueger,11
+GER,104714,Julian Reister,10
+GER,222401,Lola Mireille Glantz,10
+GER,123893,Lukas Ruepke,9
+GER,144923,Louis Wessels,9
+GER,214396,Anastasia Reimchen,9
+GER,221258,Laura Boehner,9
+GER,200346,Mats Rosenkranz,9
+GER,221190,Julia Middendorf,8
+GER,222416,Mia Mack,7
+GER,223065,Yvette Schmucker,7
+GER,211772,Ina Kaufinger,7
+GER,215552,Ruxandra Schech,7
+GER,221259,Joelle Lilly Sophie Steur,7
+GER,223398,Anastasiya Kuparev,7
+GER,213684,Julia Mikulski,7
+GER,216178,Celine Fritsch,7
+GER,210751,Hanna Landener,7
+GER,221948,Annika Chiara Rittberger,6
+GER,215262,Constanze Stepan,6
+GER,211346,Jil Nora Engelmann,6
+GER,106011,Sami Reinwein,6
+GER,222273,Gina Marie Dittmann,6
+GER,216140,Vivien Sandberg,6
+GER,103163,Tommy Haas,6
+GER,222760,Michaela Niedermeier,6
+GER,105617,Andreas Mies,6
+GER,221318,Stella Wiesemann,6
+GER,223097,Sophie Greiner,5
+GER,236990,Dimitra Tsatsa,5
+GER,202668,Sina Haas,5
+GER,239183,Emma Kette,5
+GER,216050,Lena Greiner,5
+GER,104398,Andre Begemann,5
+GER,216176,Anne Knuettel,5
+GER,203427,Lena Marie Hofmann,5
+GER,102864,Frank Moser,5
+GER,220553,Linda Puppendahl,5
+GER,220495,Alicia Melosch,5
+GER,205927,Alina Wessel,4
+GER,239132,Meryem Alexandra Guener,4
+GER,230870,Ella Seidel,4
+GER,219972,Estella Jaeger,4
+GER,213935,Patricia Boentgen,4
+GER,222666,Sarah Mueller,4
+GER,210804,Carolin Schmidt,4
+GER,222623,Pia Praefke,4
+GER,221897,Erika Reinhardt,3
+GER,220772,Julia Victoria Rennert,3
+GER,134384,Sebastian Prechtel,3
+GER,106196,Pascal Meis,3
+GER,122392,Rene Schulte,3
+GER,215608,Jennifer Wacker,3
+GER,105786,Tom Schonenberg,3
+GER,219295,Rachel Zipfel,3
+GER,214786,Lea Gasparovic,3
+GER,214246,Julia Thiem,3
+GER,222710,Maxima Ellenberg,3
+GER,105788,Jakob Sude,3
+GER,223447,Kim Michaela Zahraj,3
+GER,230880,Mara Guth,3
+GER,216121,Yasmine Wagner,3
+GER,121823,Julian Onken,3
+GER,203181,Vanessa Pinto,2
+GER,105889,Nico Matic,2
+GER,239432,Emily Castillo,2
+GER,222359,Jana Vanik,2
+GER,122352,Christoph Negritu,2
+GER,123835,Leon Schutt,2
+GER,216048,Laura Bente,2
+GER,220771,Isabella Pfennig,2
+GER,215888,Anastazja Rosnowska,2
+GER,221351,Ivonne Juric,2
+GER,131866,Hendrik Jebens,2
+GER,221353,Julia Traub,2
+GER,221107,Marie Charlot Lonnemann,2
+GER,223108,Cora Stefanie Barber,2
+GER,104332,Philipp Petzschner,2
+GER,200687,Kai Breitbach,2
+GER,234481,Carolin Raschdorf,2
+GER,138821,Timo Stodder,2
+GER,220132,Vivien Klein,2
+GER,210002,Verena Gantschnig,2
+GER,222360,Laura Isabel Putz,2
+GER,216103,Eden Sophie Schlagenhauf,1
+GER,207408,Niklas Guttau,1
+GER,105236,Pirmin Haenle,1
+GER,216128,Maria Schneider,1
+GER,202350,Fabian Penzkofer,1
+GER,214823,Ribana Roth,1
+GER,121779,Lukas Ollert,1
+GER,202477,Dinah Pfizenmaier,1
+GER,222423,Pia Schwarz,1
+GER,126891,Joel Vincent Link,1
+GER,106008,Florian Fallert,1
+GER,207669,Robert Strombachs,1
+GER,209510,Nino Ehrenschneider,1
+GER,144907,Adrian Oetzbach,1
+GER,131867,Dominik Boehler,1
+GER,230882,Carolina Kuhl,1
+GER,220149,Maja Issler,1
+GER,223101,Marisa Schmidt,1
+GER,211334,Charlotte Klasen,1
+GER,208819,Max Hans Rehberg,1
+GER,200459,Tillmann Erdbories,1
+GER,207535,Marlon Vankan,1
+GER,127158,Tim Sandkaulen,1
+GER,216296,Karolina Kowall,1
+GER,216047,Vivienne Kulicke,1
+GER,214771,Johanna Silva,1
+GER,230881,Nicole Rivkin,1
+GER,222212,Sibel Demirbaga,1
+GER,210024,Marlen Hacke,1
+GER,200365,Christian Seraphim,1
+GER,222715,Vanessa Langes,1
+GER,220480,Xenia De Luna,1
+GER,202894,Justine Ozga,1
+GER,245121,Kai Lemstra,1
+GER,210314,Dominique Wahl,1
+GER,215078,Emelie Luisa Schwarte,1
+GER,122171,Alexander Mannapov,1
+GER,122353,Christian Hirschmueller,1
+GER,215517,Amelie Carolin Kurpiers,1
+GER,222560,Sara Yigin,1
+GER,206214,Franziska Koenig,1
+GER,206222,Madeline Bosnjak,1
+GER,104510,Stefan Seifert,1
+GRC,240166,Marianna Argyrokastriti,3
+GRE,126774,Stefanos Tsitsipas,254
+GRE,202604,Despina Papamichail,207
+GRE,204394,Valentini Grammatikopoulou,189
+GRE,206289,Maria Sakkari,179
+GRE,220364,Sapfo Sakellaridi,128
+GRE,202551,Eleni Kordolaimi,126
+GRE,213657,Martha Matoula,33
+GRE,201305,Eleni Daniilidou,19
+GRE,221385,Galateia Mesochoritou,19
+GRE,109737,Markos Kalovelonis,15
+GRE,221034,Anna Arkadianou,10
+GRE,215092,Magdalini Adaloglou,8
+GRE,223129,Michaela Laki,8
+GRE,216425,Vasiliki Karvouni,7
+GRE,211968,Elpida Malamou,5
+GRE,223407,Ellie Logotheti,5
+GRE,214958,Natalia Nikolopoulou,4
+GRE,202065,Petros Tsitsipas,4
+GRE,213644,Eleni Christofi,4
+GRE,223166,Nefeli Zafeiri,3
+GRE,216330,Vanesa Pappa,3
+GRE,221195,Marianne Argyrokastriti,3
+GRE,215149,Emmanouela Antonakis,3
+GRE,219853,Danai Petroula,3
+GRE,222137,Dimitra Pavlou,2
+GRE,222946,Maria Kallistrou,2
+GRE,239411,Rafaela Platsiota,1
+GRE,220333,Nikoleta Antoniou Karademitrou,1
+GRE,221737,Kyriaki Mitsou,1
+GRE,103077,Konstantinos Economidis,1
+GRE,222984,Chara Meidani,1
+GRE,220703,Eleni Kampantai,1
+GRE,216375,Eleftheria Gkogkou,1
+GRE,222942,Eleni Fasoula,1
+GRE,239127,Anna Novratidou,1
+GRE,202553,Stamatia Fafaliou,1
+GRE,223083,Athina Pitta,1
+GRN,216122,Akilah James,45
+GUA,208531,Kirsten Andrea Weedon,81
+GUA,205462,Melisa Morales,40
+GUA,221235,Maria Gabriela Rivera Corado,14
+GUA,105499,Christopher Diaz Figueroa,10
+GUA,108739,Wilfredo Gonzalez,5
+GUA,222220,Janika Kusy Alzugaray,2
+GUA,211246,Daniela Schippers,1
+GUA,222904,Mariajose Hernandez Coronado,1
+GUA,220157,Rut Galindo,1
+GUD,221198,Anne Sophie Morandais,25
+GUD,220992,Melissa Landres,1
+GUM,223133,Katrina Lai,2
+GUM,223134,Nadine Del Carmen,2
+HAI,108767,Gonzales Austin,12
+HKG,201667,Ling Zhang,83
+HKG,211269,Eudice Wong Chong,66
+HKG,211208,Ho Ching Wu,50
+HKG,212026,Kwan Yau Ng,24
+HKG,214229,Man Ying Maggie Ng,23
+HKG,216587,Hong Yi Cody Wong,8
+HKG,211326,Katherine Ip,7
+HKG,138846,Hong Kit Jack Wong,2
+HKG,134217,Skyler Butts,2
+HKG,212028,Ka Man Carina Ma,2
+HKG,220019,Venia Yeung,1
+HKG,138845,Anthony Jackie Tang,1
+HON,215165,Daniela Obando,4
+HON,221232,Natalie Gabriela Espinal Sanchez,3
+HUN,105916,Marton Fucsovics,197
+HUN,214388,Anna Bondar,167
+HUN,202436,Reka Luca Jani,155
+HUN,213646,Dalma Galfi,155
+HUN,202435,Vanda Lukacs,136
+HUN,201693,Timea Babos,127
+HUN,215910,Panna Udvardy,125
+HUN,214541,Fanny Stollar,99
+HUN,204384,Agnes Bukta,93
+HUN,105226,Attila Balazs,81
+HUN,220701,Dorka Drahota Szabo,52
+HUN,200436,Zsombor Piros,47
+HUN,211464,Naomi Totka,46
+HUN,201086,Greta Arn,41
+HUN,215909,Adrienn Nagy,41
+HUN,211781,Alexa Pirok,34
+HUN,214041,Bianka Bekefi,34
+HUN,211722,Szabina Szlavikovics,29
+HUN,214118,Luca Nagymihaly,24
+HUN,204249,Csilla Argyelan,22
+HUN,200218,Mate Valkusz,14
+HUN,105954,Peter Nagy,13
+HUN,220404,Reka Farbas,10
+HUN,121896,Gabor Borsos,8
+HUN,216236,Adrienn Horvath,7
+HUN,221087,Zita Kovacs,6
+HUN,213832,Rebeka Stolmar,6
+HUN,211960,Lilla Barzo,5
+HUN,220411,Anastasia Petrova,5
+HUN,221004,Amarissa Kiara Toth,5
+HUN,222259,Natalia Szabanin,4
+HUN,220100,Nikoletta Muller,3
+HUN,220719,Csilla Fodor,3
+HUN,232444,Erika Weil,1
+HUN,124001,Gergely Madarasz,1
+HUN,220044,Fanni Gecsek,1
+HUN,216096,Csenge Furak,1
+HUN,222635,Laura Szabo,1
+HUN,222638,Lilla Plasek,1
+HUN,220397,Reka Zadori,1
+HUN,102737,Gergely Kisgyorgy,1
+HUN,223036,Nora Gaal,1
+HUN,221199,Luca Janosi,1
+HUN,200343,David Szintai,1
+INA,210738,Aldila Sutjiadi,93
+INA,205344,Beatrice Gumulya,34
+INA,202645,Jessy Rompies,18
+INA,105464,Christopher Rungkat,12
+INA,202365,Lavinia Tananta,12
+INA,211234,Deria Nur Haliza,11
+INA,221189,Fitriani Sabatini,11
+INA,221187,Priska Madelyn Nugroho,10
+INA,212022,Rifanty Kahfiani,9
+INA,221188,Fitriana Sabrina,3
+INA,105812,David Agung Susanto,3
+INA,215212,Oxi Gravitas Putri,2
+INA,215203,Joleta Budiman,2
+INA,210421,Nadia Ravita,2
+INA,219693,Putri Sanjungan Insani,2
+INA,215581,Fadona Titalyana Kusumawati,1
+INA,209870,Gunawan Trismuwantara,1
+INA,206320,Vita Taher,1
+INA,222145,Janice Tjen,1
+INA,219800,Samantha Nanere,1
+INA,223026,Justmin Da Costa,1
+INA,209188,Ari Fahresi,1
+IND,206102,Ankita Raina,165
+IND,106368,Ramkumar Ramanathan,152
+IND,105432,Prajnesh Gunneswaran,136
+IND,214694,Karman Thandi,118
+IND,111576,Sumit Nagal,113
+IND,211668,Riya Bhatia,105
+IND,215163,Zeel Desai,87
+IND,206105,Rutuja Bhosale,86
+IND,106026,Yuki Bhambri,81
+IND,213944,Pranjala Yadlapalli,73
+IND,105031,Saketh Myneni,73
+IND,124154,Sasi Kumar Mukund,69
+IND,210370,Sowjanya Bavisetti,51
+IND,106168,Sidharth Rawat,45
+IND,214225,Snehadevi S Reddy,44
+IND,202676,Prerna Bhambri,38
+IND,215755,Mahak Jain,38
+IND,211080,Sai Samhitha Chamarthi,37
+IND,212008,Dhruthi Tatachar Venugopal,36
+IND,210888,Kanika Vaidya,33
+IND,214787,Jennifer Luikham,29
+IND,105502,N Sriram Balaji,28
+IND,211437,Bhuvana Kalva,28
+IND,216238,Ramya Natarajan,27
+IND,205492,Ashmitha Easwaramurthi,26
+IND,206298,Nidhi Chilumula,26
+IND,104822,N Vijay Sundar Prashanth,25
+IND,211049,Sri Vaishnavi Peddi Reddy,24
+IND,211033,Natasha Palha,23
+IND,214983,Mihika Yadav,23
+IND,202384,Kyra Shroff,21
+IND,220843,Sathwika Sama,21
+IND,111459,Arjun Kadhe,21
+IND,104986,Vishnu Vardhan,21
+IND,220841,Humera Begum Shaik,20
+IND,214418,Vaidehi Chaudhari,19
+IND,221275,Sravya Shivani Chilakalapudi,18
+IND,203433,Rishika Sunkara,17
+IND,215222,Saumya Vig,15
+IND,215161,Soha Sadiq,14
+IND,206104,Sharmada Balu,12
+IND,200176,Manish Sureshkumar,11
+IND,105233,Jeevan Nedunchezhiyan,9
+IND,224482,Smriti Bhasin,9
+IND,210192,Shweta Rana,8
+IND,216354,Snehal Mane,8
+IND,200036,Abhinav Sanjeev Shanmugam,8
+IND,211200,Eetee Maheta,8
+IND,221329,Likhitha Kalava,7
+IND,214367,Arthi M,6
+IND,220842,Shrivalli Rashmikaa Bhamidipaty,6
+IND,202637,Shivika Burman,6
+IND,221794,Farhat Aleen Qamar,6
+IND,206106,Prarthana G Thombare,6
+IND,105072,Sanam Singh,6
+IND,214226,Vasanti Shinde,5
+IND,215089,Nandini Sharma,5
+IND,105737,Kaza Vinayak Sharma,5
+IND,221089,Annika Kannan,5
+IND,215225,Pareen Shivekar,4
+IND,240167,Vineetha Mummadi,4
+IND,216228,Kaaviya Balasubramanian,4
+IND,222499,Shreya Tatavarthy,4
+IND,222161,Prathyusha Rachapudi,3
+IND,234228,Bela Tamhankar,3
+IND,215896,Niditra Rajmohan,3
+IND,222615,Sharannya Gaware,3
+IND,220825,Akanksha Dileep Nitture,3
+IND,106012,Kunal Anand,3
+IND,144935,Dalwinder Singh,3
+IND,104615,Ranjeet Virali Murugesan,3
+IND,221339,Sonashe Bhatnagar,3
+IND,234504,Yashika Venu,2
+IND,110775,Tejas Chaukulkar,2
+IND,221038,Muskan Gupta,2
+IND,234232,Ayushi Singh,2
+IND,200127,Aryan Goveas,2
+IND,211663,Amrita Mukherjee,2
+IND,200015,Jayesh Pungliya,2
+IND,220316,Radhika Yadav,2
+IND,104690,Divij Sharan,2
+IND,105721,Chandril Sood,2
+IND,104646,Purav Raja,2
+IND,104500,Somdev Devvarman,2
+IND,234241,Renne Singla,2
+IND,220423,Tejasvi Kate,2
+IND,144681,Niki Kaliyanda Poonacha,2
+IND,202328,Dhruv Sunish,2
+IND,200562,Anirudh Chandrasekar,2
+IND,223006,Pooja Ingale,2
+IND,122617,Suraj R Prabodh,2
+IND,144927,Siddharth Vishwakarma,2
+IND,222673,Aaliya Ebrahim,2
+IND,214240,Akshara Iska,2
+IND,234230,Prapti Soni,2
+IND,234246,Kashish Bhatia,2
+IND,121581,Lakshit Sood,2
+IND,211661,Avika Sagwal,2
+IND,220314,Yubarani Banerjee,2
+IND,215659,Sai Dedeepya Yeddula,2
+IND,223038,Geetaarthi Sunaina Gaba,1
+IND,103523,Rohan Bopanna,1
+IND,234236,Priyanshi Bhandari,1
+IND,215542,Shrishti Daas,1
+IND,215729,Deeksha Manju Prasad,1
+IND,215224,Aastha Dargude,1
+IND,234493,Ariana Dharmadhikari,1
+IND,213608,Vasavi Ganesan,1
+IND,110725,Shahbaaz Khan,1
+IND,220409,Sitara Prabhu,1
+IND,122055,Haadin Bava,1
+IND,124155,Suraj Beniwal,1
+IND,223201,Jigyasa Narsinghani,1
+IND,221793,Aayushi Tanwar,1
+IND,215728,Dakshata Girishkumar Patel,1
+IND,222926,Lakshmi Sahithi Reddy Vutukuru,1
+IND,214416,Sindhu Janagam,1
+IND,214820,Moulika Ram,1
+IND,215827,Tanasha Khandpur,1
+IND,214244,Isha Budwal,1
+IND,105042,Vignesh Peranamallur,1
+IND,234237,Sanya Yadav,1
+IND,125815,Anvit Bendre,1
+IND,144925,Nitin Kumar Sinha,1
+IND,104816,Karan Rastogi,1
+IND,234497,Himadri Kashyap,1
+IND,202349,Rushmi Chakravarthi,1
+IND,126792,Medhir Goyal,1
+IND,221701,Anaam Almas,1
+IND,223050,Sanskruti Jaangle,1
+IND,234242,Ananya Yadav,1
+IND,234499,Sudipta Kumar,1
+IND,221037,Vanshita Pathania,1
+IND,222930,Rashi Malviya,1
+IND,214242,Teertha Iska,1
+IND,221949,Saisha Khanna,1
+IRI,222309,Sana Garakani,2
+IRI,214621,Sadaf Sadeghvaziri,2
+IRI,221844,Shahrzad Banisaeid,1
+IRI,106085,Hamid Reza Nadaf,1
+IRI,214632,Ghazal Pakbaten,1
+IRI,105566,Shahin Khaledan,1
+IRL,104945,James Mcgee,53
+IRL,212045,Sinead Lohan,40
+IRL,105909,Sam Barry,22
+IRL,220574,Georgia Drummy,21
+IRL,215866,Jennifer Timotin,9
+IRL,215066,Jenny Claffey,9
+IRL,215865,Anna Bowtell,6
+IRL,126530,Peter Bothwell,4
+IRL,220572,Ruth Copas,4
+IRL,110474,David O'Hare,4
+IRL,215127,Julie Byrne,4
+IRL,206213,Amy Bowtell,3
+IRL,222399,Alison Odea,2
+IRL,126528,Julian Bradley,2
+IRL,222400,Sarah Oconnor,2
+IRL,200278,Simon Carr,2
+IRL,221226,Aisling Oconnor,1
+IRL,220575,Ellie Murphy,1
+IRL,223371,Celine Simunyu,1
+IRL,221225,Georgia Lily Lynn Browne,1
+IRL,222442,Beatrice Laura Pirtac,1
+IRL,105239,Daniel Glancy,1
+IRL,221599,Juliana Carton,1
+ISR,104534,Dudi Sela,117
+ISR,202498,Julia Glushko,110
+ISR,206136,Deniz Khazaniuk,109
+ISR,215151,Lina Glushko,81
+ISR,122548,Edan Leshem,53
+ISR,215627,Nicole Khirin,49
+ISR,220174,Shavit Kimchi,48
+ISR,214465,Maya Tahan,44
+ISR,215196,Nicole Nadel,44
+ISR,215260,Shelly Bereznyak,37
+ISR,215152,Tamara Barad Itzhaki,35
+ISR,214987,Shahar Biran,30
+ISR,104804,Amir Weintraub,24
+ISR,221077,Mika Dagan Fruchtman,22
+ISR,214479,Yarden Akler,22
+ISR,214463,Yuval Keren,17
+ISR,221383,Darya Shvartsmann,17
+ISR,127326,Ben Patael,16
+ISR,215153,Kristin Younes,15
+ISR,212046,Shiran Arol Wiegand,13
+ISR,216011,Koral Koldobski,12
+ISR,203431,Keren Shlomo,11
+ISR,211916,Valeria Nikolaev,11
+ISR,206245,Ofri Lankri,11
+ISR,215523,Adva Dabah,8
+ISR,220117,Adi Gavish,7
+ISR,222226,Stefani Sandoiu Shtein,7
+ISR,214464,Shir Azran,7
+ISR,200075,Yshai Oliel,7
+ISR,215150,Shelly Krolitzky,6
+ISR,106299,Bar Tzuf Botzer,5
+ISR,219815,Hili Kronzon,5
+ISR,205651,Ester Masuri,5
+ISR,221928,Sabrina Kalandarov,5
+ISR,222207,Ofer Kivity,4
+ISR,221546,Neta Tamir,4
+ISR,221384,Shachf Lieberman,4
+ISR,214984,Noya Ohana,4
+ISR,213723,Sean Lodzki,3
+ISR,131951,Daniel Cukierman,3
+ISR,238183,Liam Oved,3
+ISR,213727,Inbar Cohen,3
+ISR,106143,Dekel Bar,3
+ISR,211915,Talya Zandberg,3
+ISR,222206,Diana Smelansky,3
+ISR,238182,Karin Altori,3
+ISR,221359,Emmy Yaron,2
+ISR,238196,Alian Zack,2
+ISR,221668,Lorin Tilipman,2
+ISR,222512,Tali Malykhin,2
+ISR,201424,Shahar Peer,2
+ISR,214095,Avital Vulf,2
+ISR,213726,May Kimhi,2
+ISR,221731,Tali Krasnopolski,2
+ISR,215522,Ilana Tetruashvili,1
+ISR,211917,Alona Puskkarevsky,1
+ISR,238193,Shay Fadlon,1
+ISR,222242,May Baranes,1
+ISR,219817,Mika Misgav,1
+ISR,238200,Chen Ezra,1
+ISR,126432,Yankel Zemel,1
+ISR,106384,Or Ram Harel,1
+ISR,238191,Aya Bychenko,1
+ISR,238329,Noa Major,1
+ISR,215170,Yara Abed,1
+ISR,238202,Shira Chiche,1
+ISR,222596,Maya Betzalel,1
+ITA,106065,Marco Cecchinato,184
+ITA,126610,Matteo Berrettini,178
+ITA,105943,Federico Gaio,178
+ITA,132283,Lorenzo Sonego,178
+ITA,202579,Giulia Gatto Monticone,175
+ITA,126149,Gianluca Mager,173
+ITA,105561,Alessandro Giannessi,166
+ITA,104926,Fabio Fognini,166
+ITA,106099,Salvatore Caruso,166
+ITA,211148,Jasmine Paolini,164
+ITA,103893,Paolo Lorenzi,162
+ITA,105882,Stefano Travaglia,157
+ITA,206027,Angelica Moratelli,156
+ITA,214459,Lucia Bronzetti,151
+ITA,105341,Thomas Fabbiano,151
+ITA,214593,Lucrezia Stefanini,149
+ITA,202437,Anastasia Grymalska,145
+ITA,202429,Camila Giorgi,142
+ITA,203354,Martina Trevisan,141
+ITA,104312,Andreas Seppi,140
+ITA,105063,Andrea Arnaboldi,139
+ITA,201506,Sara Errani,136
+ITA,202662,Camilla Rosatello,135
+ITA,203325,Martina Di Giuseppe,134
+ITA,202580,Federica Di Sarra,132
+ITA,105406,Roberto Marcora,130
+ITA,213620,Jessica Pieri,130
+ITA,211328,Deborah Chiesa,129
+ITA,105634,Viktor Galovic,128
+ITA,211820,Martina Colmegna,128
+ITA,109303,Stefano Napolitano,128
+ITA,105841,Lorenzo Giustino,126
+ITA,211216,Cristiana Ferrando,126
+ITA,214919,Dalila Spiteri,122
+ITA,104563,Luca Vanni,116
+ITA,210657,Federica Arcidiacono,115
+ITA,206338,Stefania Rubini,112
+ITA,213926,Bianca Turati,109
+ITA,213690,Camilla Scala,106
+ITA,202606,Claudia Giovine,106
+ITA,206302,Gaia Sanesi,105
+ITA,215572,Nuria Brancaccio,97
+ITA,201699,Martina Caregaro,96
+ITA,206173,Jannik Sinner,95
+ITA,126237,Gian Marco Moroni,95
+ITA,104970,Matteo Viola,94
+ITA,206400,Martina Spigarelli,92
+ITA,214746,Federica Bilardo,92
+ITA,211333,Georgia Brescia,89
+ITA,220714,Elisabetta Cocciaretto,88
+ITA,126504,Andrea Pellegrino,87
+ITA,214238,Verena Meliss,86
+ITA,214654,Anna Turati,85
+ITA,106420,Gianluigi Quinzi,85
+ITA,214301,Tatiana Pieri,84
+ITA,106390,Matteo Donati,81
+ITA,216051,Angelica Raggi,81
+ITA,109686,Riccardo Bonadio,80
+ITA,214152,Federica Prati,77
+ITA,207518,Lorenzo Musetti,76
+ITA,203507,Giorgia Marchetti,76
+ITA,213849,Nicole Fossa Huergo,75
+ITA,104620,Simone Bolelli,75
+ITA,111795,Filippo Baldi,74
+ITA,215878,Aurora Zantedeschi,69
+ITA,201557,Corinna Dentoni,69
+ITA,131934,Andrea Vavassori,67
+ITA,202433,Anna Giulia Remondina,67
+ITA,213822,Verena Hofer,62
+ITA,214426,Giulia Crescenzi,60
+ITA,210847,Miriana Tona,58
+ITA,105692,Alessandro Bega,56
+ITA,202487,Nastassja Burnett,56
+ITA,220715,Federica Rossi,54
+ITA,221354,Lisa Pigato,53
+ITA,211885,Alice Matteucci,51
+ITA,206748,Giulio Zeppieri,47
+ITA,201311,Roberta Vinci,47
+ITA,215093,Chiara Catini,44
+ITA,134840,Raul Brancaccio,43
+ITA,201212,Francesca Schiavone,42
+ITA,106248,Edoardo Eremin,41
+ITA,220496,Enola Chiesa,41
+ITA,205123,Alice Balducci,40
+ITA,215301,Irene Lavino,40
+ITA,220828,Melania Delai,38
+ITA,220413,Sara Gambogi,33
+ITA,221097,Anastasia Piangerelli,33
+ITA,209506,Francesco Forti,32
+ITA,109640,Andrea Basso,32
+ITA,219331,Valentina Losciale,31
+ITA,220286,Gloria Ceschi,31
+ITA,222395,Anita Bertoloni,30
+ITA,211059,Giorgia Pinto,29
+ITA,206209,Maria Masini,26
+ITA,105534,Erik Crepaldi,26
+ITA,214883,Francesca Bullani,26
+ITA,221000,Diletta Cherubini,26
+ITA,206399,Francesca Sella,25
+ITA,223179,Marion Viertler,25
+ITA,104473,Walter Trusendi,25
+ITA,220567,Elisa Andrea Camerano,25
+ITA,215109,Costanza Traversi,25
+ITA,245103,Beatrice Lombardo,25
+ITA,121816,Gianluca Di Nicola,25
+ITA,105697,Marco Bortolotti,24
+ITA,105821,Riccardo Bellotti,24
+ITA,213698,Maria Vittoria Viviani,24
+ITA,132842,Julian Ocleppo,23
+ITA,104644,Riccardo Ghedin,23
+ITA,213959,Natasha Piludu,23
+ITA,201462,Alberta Brianti,22
+ITA,213927,Veronica Napolitano,21
+ITA,207925,Flavio Cobolli,20
+ITA,222369,Arianna Zucchini,20
+ITA,103835,Filippo Volandri,20
+ITA,221465,Sofia Rocchetti,20
+ITA,219444,Giuliana Bestetti,19
+ITA,122058,Fabrizio Ornago,18
+ITA,215799,Giulia Carbonaro,18
+ITA,105452,Francesco Vilardo,18
+ITA,206273,Claudia Coppola,18
+ITA,215560,Monica Cappelletti,17
+ITA,210823,Giada Clerici,17
+ITA,216343,Martina Biagianti,16
+ITA,216381,Barbara Dessolis,16
+ITA,202235,Jacopo Berrettini,16
+ITA,221467,Alessandra Simone,15
+ITA,220283,Valentina Gaggini,15
+ITA,104262,Flavio Cipolla,15
+ITA,214901,Gaia Squarcialupi,14
+ITA,230124,Adele Burato,13
+ITA,105494,Adelchi Virgili,13
+ITA,221514,Flaminia Scara,13
+ITA,214944,Claudia Franze,13
+ITA,221411,Jennifer Ruggeri,13
+ITA,222396,Matilde Paoletti,13
+ITA,214974,Francesca Delledera,12
+ITA,201498,Karin Knapp,12
+ITA,220133,Ilaria Sposetti,12
+ITA,220576,Andreina Pino,12
+ITA,133872,Enrico Dalla Valle,12
+ITA,200216,Giovanni Fonio,12
+ITA,209901,Marianna Natali,12
+ITA,215100,Anna Maria Procacci,12
+ITA,216342,Alice Amendola,11
+ITA,222895,Lara Pfeifer,11
+ITA,220730,Chiara Bordo,11
+ITA,216075,Jessica Bertoldo,11
+ITA,220306,Alessandra Mazzola,11
+ITA,221472,Chiara Girelli,11
+ITA,105895,Omar Giacalone,11
+ITA,105296,Lorenzo Frigerio,10
+ITA,211774,Beatrice Torelli,10
+ITA,222134,Linda Salvi,10
+ITA,221469,Beatrice Ricci,10
+ITA,220695,Beatrice Stagno,9
+ITA,220972,Carola Cavelli,9
+ITA,221355,Asya Colombo,9
+ITA,202642,Gioia Barbieri,9
+ITA,220596,Clarissa Gai,9
+ITA,216408,Alice Viglianisi,8
+ITA,216189,Isabella Tcherkes Zade,8
+ITA,132837,Luca Giacomini,8
+ITA,211743,Sveva Mazzari,8
+ITA,211580,Alessandra Gisonna,8
+ITA,123858,Antonio Massara,7
+ITA,104851,Gianluca Naso,7
+ITA,105682,Alessandro Petrone,7
+ITA,204330,Alice Savoretti,7
+ITA,220081,Federica Trevisan,7
+ITA,133045,Riccardo Balzerani,7
+ITA,211732,Alessia Piran,7
+ITA,219540,Ginevra Peiretti,7
+ITA,220811,Linda Cagnazzo,6
+ITA,210644,Jasmin Ladurner,6
+ITA,214900,Martina Zerulo,6
+ITA,216410,Alessia Tagliente,6
+ITA,220072,Valentina Giavazzi,6
+ITA,221864,Federica Sacco,6
+ITA,220827,Laura Mair,6
+ITA,221657,Camilla Zanolini,6
+ITA,216169,Silvia Saccani,6
+ITA,123855,Daniele Capecchi,6
+ITA,206426,Giulia Pairone,6
+ITA,222291,Greta Medeghini,6
+ITA,220343,Matilde Mariani,6
+ITA,221327,Giulia Brighi,6
+ITA,239435,Virginia Ferrara,5
+ITA,126886,Daniele Spinnato,5
+ITA,210758,Francesca Fusinato,5
+ITA,214595,Giorgia Testa,5
+ITA,222990,Nicole Teodosescu,5
+ITA,221010,Cristina Elena Tiglea,5
+ITA,208134,Luca Nardi,5
+ITA,233744,Sara Donnini,5
+ITA,123851,Davide Galoppini,5
+ITA,216415,Giulia Tedesco,5
+ITA,220478,Benedetta Ivaldi,5
+ITA,133224,Francesco Ferrari,5
+ITA,222133,Giuseppina Miccio,4
+ITA,231625,Noemi Basiletti,4
+ITA,209263,Matteo Gigante,4
+ITA,216167,Chiara De Vito,4
+ITA,214955,Camilla Abbate,4
+ITA,222040,Elena Covi,4
+ITA,106260,Pietro Rondoni,4
+ITA,126450,Nicolo Turchetti,4
+ITA,121584,Luca Pancaldi,4
+ITA,200438,Corrado Summaria,4
+ITA,214596,Susanna Giovanardi,4
+ITA,220976,Vickie Trocker,4
+ITA,238071,Chiara Fornasieri,4
+ITA,208859,Francesco Passaro,4
+ITA,213691,Cecilia Pattacini,3
+ITA,221040,Giulia Paterno,3
+ITA,111450,Pietro Licciardi,3
+ITA,200462,Andrea Guerrieri,3
+ITA,211419,Giulia Guidetti,3
+ITA,215435,Alessia Dario,3
+ITA,211361,Sara Castellano,3
+ITA,214457,Rosanna Maffei,3
+ITA,123843,Davide Pontoglio,3
+ITA,215049,Michela Xibilia,3
+ITA,219441,Vittoria Avvantaggiati,3
+ITA,222083,Syria La Cerra,3
+ITA,220658,Lisa Vallone,3
+ITA,222061,Benedetta Ortenzi,3
+ITA,220936,Francesca Rumi,3
+ITA,216143,Alessia Di Pietro,3
+ITA,105627,Giorgio Portaluri,3
+ITA,220082,Sara Ziodato,3
+ITA,210848,Valeria Prosperi,3
+ITA,220334,Valentina Lia,3
+ITA,239453,Camilla Gennaro,3
+ITA,222983,Emma Belluomini,3
+ITA,104334,Alberto Brizzi,3
+ITA,213954,Sara Marcionni,3
+ITA,127334,Mirko Cutuli,3
+ITA,221572,Rubina Marta De Ponti,2
+ITA,220663,Alice Zapolla,2
+ITA,206926,Erwin Troebinger,2
+ITA,214458,Virginia Ciccone,2
+ITA,211221,Chiara Quattrone,2
+ITA,200255,Alexander Weis,2
+ITA,210042,Gabriele Piraino,2
+ITA,237473,Matilde Magrini,2
+ITA,105401,Matteo Trevisan,2
+ITA,207601,Manuel Mazza,2
+ITA,223417,Greta Schieroni,2
+ITA,220616,Maria Aurelia Scotti,2
+ITA,215400,Anna Turco,2
+ITA,221032,Alessia Truden,2
+ITA,222394,Carlotta Gabrielli,2
+ITA,222059,Francesca Covi,2
+ITA,126154,Jacopo Stefanini,2
+ITA,200607,Samuele Ramazzotti,2
+ITA,221636,Francesca Falleni,2
+ITA,222907,Fabrizia Cambria,2
+ITA,213836,Federica Joe Gardella,2
+ITA,202623,Valentine Confalonieri,2
+ITA,215877,Lisa Piccinetti,2
+ITA,222954,Irene Verzin,2
+ITA,127090,Augusto Virgili,1
+ITA,222974,Giulia Martinelli,1
+ITA,215922,Camilla Ceppellini,1
+ITA,239458,Milena Jevtovic,1
+ITA,222935,Noemi La Cagnina,1
+ITA,221550,Micol Sanna,1
+ITA,216383,Anna Stefani,1
+ITA,206207,Francesca Palmigiano,1
+ITA,220694,Beatrice La Cava,1
+ITA,127798,Cristian Carli,1
+ITA,219548,Serena Gugnali,1
+ITA,220782,Sophie Walzl,1
+ITA,230876,Viola Turini,1
+ITA,126141,Filippo Giorgetti,1
+ITA,222700,Sonia Cassani,1
+ITA,213681,Chiara Pusceddu,1
+ITA,237481,Ginevra Parentini Vallega Montebruno,1
+ITA,222894,Alessia Piccoliori,1
+ITA,223403,Emma Penne,1
+ITA,219487,Giulia Porzio,1
+ITA,231624,Anna Paradisi,1
+ITA,127554,Mattia Mannocci,1
+ITA,222368,Chiara Alesiani,1
+ITA,230884,Ottavia Massetti,1
+ITA,216412,Eleonora Liga,1
+ITA,237480,Rebecca Amerio,1
+ITA,213695,Costanza Pera,1
+ITA,214603,Silvia Mattiolo,1
+ITA,239466,Carolina Piferi,1
+ITA,190030,Enrico Becuzzi,1
+ITA,214321,Arianna Capogrosso,1
+ITA,104883,Matteo Marfia,1
+ITA,214146,Marianna Petrei,1
+ITA,221635,Ireni Lucia,1
+ITA,128008,Edoardo Lamberti,1
+ITA,206553,Luca Potenza,1
+ITA,223034,Grazia Fabbrizi,1
+ITA,207982,Giuseppe Tresca,1
+ITA,103327,Alessandro Motti,1
+ITA,210152,Marcella Cucca,1
+ITA,222921,Desideria Damico,1
+ITA,121520,Ettore Zito,1
+ITA,223410,Georgia Pedone,1
+ITA,216085,Elisa Visentin,1
+ITA,210465,Carlotta Ripa,1
+ITA,223094,Cristina Pescucci,1
+ITA,206467,Federico Arnaboldi,1
+ITA,221017,Annalisa Calandra,1
+ITA,223416,Denise Valente,1
+ITA,221471,Asia Serafini,1
+ITA,209260,Luciano Darderi,1
+ITA,215399,Camilla Fabbri,1
+ITA,105225,Nicola Ghedin,1
+ITA,222920,Maria Nuova Covato,1
+ITA,222147,Antonia Aragosa,1
+ITA,215114,Teodora Djordjevic,1
+ITA,208209,Giacomo Dambrosi,1
+ITA,221962,Alessandra Pezzulla,1
+ITA,206624,Francesco Paschetto,1
+ITA,123792,Fabio Mercuri,1
+ITA,126464,Giorgio Ricca,1
+ITA,126449,Marco Mosciatti,1
+ITA,221490,Martina Forcisi,1
+ITA,209752,Sara Guglielminotti,1
+ITA,221138,Alice Vicini,1
+ITA,240165,Elisa Cesarina Vincenti,1
+ITA,221772,Federica Costa,1
+ITA,206875,Erik De Santis,1
+ITA,222953,Pervinca Curci,1
+ITA,238087,Alessia Camerano,1
+ITA,221069,Eleonora Alvisi,1
+ITA,222253,Martina Muzzolon,1
+ITA,214884,Martina Pratesi,1
+ITA,221681,Eleonora Canovi,1
+ITA,214594,Giulia Sartori,1
+ITA,105523,Claudio Fortuna,1
+ITA,202599,Alice Moroni,1
+ITA,200713,Federico Iannaccone,1
+ITA,222746,Roberta Lodi Pasini,1
+ITA,121872,Alessandro Luisi,1
+ITA,214323,Marta Bellucco,1
+JPN,105453,Kei Nishikori,191
+JPN,106121,Taro Daniel,183
+JPN,211768,Naomi Osaka,180
+JPN,106415,Yoshihito Nishioka,167
+JPN,104424,Go Soeda,160
+JPN,105216,Yuichi Sugita,158
+JPN,206349,Mayo Hibi,150
+JPN,211702,Nao Hibino,144
+JPN,201597,Kurumi Nara,144
+JPN,105147,Tatsuma Ito,143
+JPN,106034,Yasutaka Uchiyama,137
+JPN,201595,Misaki Doi,137
+JPN,215550,Ayano Shimizu,133
+JPN,206077,Miharu Imanishi,128
+JPN,105655,Hiroki Moriya,124
+JPN,205815,Eri Hozumi,121
+JPN,206075,Hiroko Kuwata,118
+JPN,202454,Erika Sema,117
+JPN,214540,Chihiro Muramatsu,113
+JPN,211846,Kyoka Okamura,111
+JPN,201612,Junri Namigata,108
+JPN,203552,Risa Ozaki,105
+JPN,202639,Akiko Omae,102
+JPN,213908,Yuriko Miyazaki,102
+JPN,216160,Ayumi Koshiishi,102
+JPN,211844,Haruka Kaji,100
+JPN,202921,Shiho Akita,97
+JPN,215988,Mai Hontama,96
+JPN,215468,Momoko Kobori,94
+JPN,203504,Miyu Kato,88
+JPN,133297,Yosuke Watanuki,88
+JPN,203555,Mai Minokoshi,87
+JPN,211390,Mari Osaka,86
+JPN,214505,Haruna Arakawa,80
+JPN,202908,Miyabi Inoue,79
+JPN,216044,Yuki Naito,78
+JPN,220718,Sakura Hosogi,78
+JPN,203553,Riko Sawayanagi,77
+JPN,211544,Nagi Hanatani,75
+JPN,105810,Shuichi Sekiguchi,73
+JPN,210537,Michika Ozeki,73
+JPN,111187,Kaichi Uchida,72
+JPN,221124,Himeno Sakatsume,72
+JPN,203557,Mana Ayukawa,72
+JPN,213572,Risa Ushijima,70
+JPN,211351,Ayaka Okuno,69
+JPN,203556,Yuuki Tanaka,66
+JPN,215489,Ramu Ueda,66
+JPN,214805,Satsuki Takamura,62
+JPN,215614,Mei Yamaguchi,60
+JPN,104771,Yuuya Kibi,57
+JPN,220416,Moyuka Uchijima,55
+JPN,216324,Misaki Matsuda,55
+JPN,215833,Erina Hayashi,53
+JPN,213802,Aiko Yoshitomi,52
+JPN,221099,Rina Saigo,48
+JPN,213661,Yukina Saigo,48
+JPN,221773,Honoka Kobayashi,45
+JPN,220545,Sakura Hondo,43
+JPN,219892,Mayuka Aikawa,43
+JPN,126208,Yusuke Takahashi,43
+JPN,216158,Mana Kawamura,42
+JPN,202685,Misa Eguchi,41
+JPN,206402,Kanako Morisaki,40
+JPN,215592,Eri Shimizu,39
+JPN,202422,Shuko Aoyama,39
+JPN,216320,Ange Oby Kajuru,38
+JPN,216260,Funa Kozaki,37
+JPN,220997,Naho Sato,36
+JPN,126337,Renta Tokuda,34
+JPN,200024,Makoto Ochi,33
+JPN,216156,Himari Sato,31
+JPN,210533,Haine Ogata,30
+JPN,221771,Nana Kawagishi,29
+JPN,220469,Yui Chikaraishi,29
+JPN,219887,Saki Imamura,29
+JPN,105059,Kento Takeuchi,28
+JPN,105026,Takuto Niki,27
+JPN,202939,Makoto Ninomiya,27
+JPN,206271,Chisa Hosonuma,24
+JPN,215956,Yuka Hosoki,23
+JPN,215492,Lisa Marie Rioux,23
+JPN,214278,Mizuno Kijima,23
+JPN,219893,Ari Matsumoto,20
+JPN,122495,Shintaro Imai,20
+JPN,103175,Toshihide Matsui,20
+JPN,201429,Rika Fujiwara,19
+JPN,221229,Natsumi Kawaguchi,18
+JPN,206351,Rio Kitagawa,17
+JPN,213801,Shiori Fukuda,17
+JPN,216323,Michiru Furuya,17
+JPN,202122,Yuta Shimizu,17
+JPN,202928,Kotomi Takahata,16
+JPN,215636,Kumi So,16
+JPN,216316,Ayumi Miyamoto,15
+JPN,221079,Satsuki Koike,14
+JPN,221362,Hiromi Abe,14
+JPN,213965,Minami Akiyama,13
+JPN,210412,Robu Kajitani,13
+JPN,214398,Natsuho Arakawa,13
+JPN,126135,Jumpei Yamasaki,13
+JPN,206000,Kana Daniel,12
+JPN,202608,Akari Inoue,12
+JPN,144682,Kaito Uesugi,12
+JPN,221481,Utaka Kishigami,12
+JPN,203386,Miki Miyamura,12
+JPN,105787,Hiroyasu Ehara,12
+JPN,203517,Chihiro Takayama,12
+JPN,200647,Sho Shimabukuro,11
+JPN,222986,Mio Mushika,11
+JPN,211721,Akiho Kakuya,10
+JPN,208730,Mitsumi Kawasaki,10
+JPN,215616,Kisa Yoshioka,10
+JPN,210694,Sari Baba,9
+JPN,213573,Megumi Nishimoto,9
+JPN,201503,Ayumi Morita,9
+JPN,221265,Ikumi Yamazaki,9
+JPN,202610,Aki Yamasoto,8
+JPN,205562,Naoko Eto,8
+JPN,200677,Rio Noguchi,7
+JPN,211548,Minami Shuto,7
+JPN,111788,Naoki Nakagawa,7
+JPN,202936,Kanae Hisami,7
+JPN,133291,Ryota Tanuma,7
+JPN,216315,Anri Nagata,7
+JPN,110773,Issei Okamura,6
+JPN,206923,Shinji Hazawa,6
+JPN,105552,Yusuke Watanuki,6
+JPN,208278,Shintaro Mochizuki,6
+JPN,215059,Reina Takahashi,6
+JPN,211137,Yukako Noi,6
+JPN,214733,Suzuho Oshino,5
+JPN,126335,Sora Fukuda,5
+JPN,204353,Chihiro Nunome,5
+JPN,239446,Mao Mushika,5
+JPN,216356,Chinatsu Shimizu,5
+JPN,214734,Eimi Friant,5
+JPN,200661,Yuki Mochiduki,5
+JPN,221900,Mio Kozaki,5
+JPN,221361,Honoka Uchiyama,5
+JPN,211365,Nozomi Fujioka,4
+JPN,105335,Sho Katayama,4
+JPN,221036,Ayumi Hirata,4
+JPN,221264,Chie Kezuka,4
+JPN,215180,Seira Shimizu,4
+JPN,210404,Mami Hasegawa,4
+JPN,104082,Hiroki Kondo,4
+JPN,222101,Ai Yamaguchi,4
+JPN,201987,Masamichi Imamura,3
+JPN,121004,Shunrou Takeshima,3
+JPN,120545,Ko Suzuki,3
+JPN,207248,Naoki Tajima,3
+JPN,221938,Erika Matsuda,3
+JPN,202896,Yurina Koshino,3
+JPN,111462,Ken Onishi,3
+JPN,202231,Shiho Hisamatsu,3
+JPN,222140,Mua Shigeta,3
+JPN,211969,Natsumi Chimura,3
+JPN,105869,Gengo Kikuchi,3
+JPN,104781,Yuichi Ito,3
+JPN,105142,Arata Onozawa,3
+JPN,207383,Taisei Ichikawa,3
+JPN,214843,Kanako Osafune,3
+JPN,144744,Kazuki Nishiwaki,2
+JPN,222527,Nalu Himeno,2
+JPN,211546,Mihoki Miyahara,2
+JPN,221372,Asuka Yoshida,2
+JPN,105242,Shinta Fujii,2
+JPN,204410,Kanami Tsuji,2
+JPN,239477,Rinon Okuwaki,2
+JPN,215318,Nagisa Morimoto,2
+JPN,214314,Karin Terami,2
+JPN,105823,Masato Shiga,2
+JPN,208389,James Trotter,2
+JPN,215617,Kei Kato,2
+JPN,203493,Hirono Watanabe,2
+JPN,219697,Nagomi Higashitani,2
+JPN,203195,Tomoko Dokei,2
+JPN,219900,Nao Shimoji,2
+JPN,201982,Kaito Itsusaki,1
+JPN,211720,Ai Kamiyoshihara,1
+JPN,222334,Moka Ito,1
+JPN,209765,Risa Hasegawa,1
+JPN,200665,Yuta Kawahashi,1
+JPN,133149,Nasa Hatakeyama,1
+JPN,222141,Shiori Ito,1
+JPN,105391,Hiromasa Oku,1
+JPN,144955,Yuichiro Inui,1
+JPN,111447,Takashi Saito,1
+JPN,124051,Yuya Ito,1
+JPN,222244,Mai Kandori,1
+JPN,221736,Miyu Nakashima,1
+JPN,221035,Marina Kurosu,1
+JPN,122620,Soichiro Moritani,1
+JPN,222808,Haruka Tominaga,1
+JPN,200648,Masaya Kobayashi,1
+JPN,215615,Akari Kakizawa,1
+JPN,219899,Mako Ganaha,1
+JPN,223271,Karen Tsutsumi,1
+JPN,200646,Yuto Sakai,1
+JPN,106205,Ryota Kishi,1
+JPN,124074,Kazuma Kawachi,1
+JPN,215834,Natsuho Nakazawa,1
+JPN,222333,Asuka Kawai,1
+JPN,215060,Aya Tanaka,1
+JPN,121621,Ken Onoda,1
+JPN,223272,Satomi Hirano,1
+JPN,208736,Yasunori Hashikawa,1
+JPN,222521,Nanami Saito,1
+JPN,206822,Yuga Tashiro,1
+KAZ,122330,Alexander Bublik,186
+KAZ,214981,Elena Rybakina,170
+KAZ,201709,Yulia Putintseva,155
+KAZ,201610,Zarina Diyas,149
+KAZ,105062,Mikhail Kukushkin,149
+KAZ,213793,Gozal Ainitdinova,134
+KAZ,122078,Dmitry Popko,126
+KAZ,104873,Aleksandr Nedovyesov,112
+KAZ,214992,Zhibek Kulambayeva,105
+KAZ,206162,Kamila Kerimbayeva,83
+KAZ,201402,Sesil Karatantcheva,81
+KAZ,206363,Anna Danilina,63
+KAZ,216243,Yekaterina Dmitrichenko,51
+KAZ,106187,Denis Yevseyev,48
+KAZ,201468,Yaroslava Shvedova,31
+KAZ,104979,Andrey Golubev,28
+KAZ,201448,Galina Voskoboeva,19
+KAZ,214964,Dariya Detkovskaya,18
+KAZ,121920,Timur Khabibulin,17
+KAZ,203468,Alexandra Grinchishina,14
+KAZ,221060,Yelizaveta Karlova,11
+KAZ,221951,Sofiya Chursina,10
+KAZ,122236,Roman Hassanov,8
+KAZ,214644,Arina Taluenko,5
+KAZ,221878,Diyora Alzhanova,4
+KAZ,202677,Ekaterina Klyueva,4
+KAZ,200441,Grigoriy Lomakin,4
+KAZ,221180,Mariya Sinitsyna,4
+KAZ,221877,Zhanel Rustemova,3
+KAZ,221879,Stefanya Shalakhova,3
+KAZ,232869,Aiya Nupbay,3
+KAZ,216201,Polina Goloputova,3
+KAZ,221956,Adel Ismagulova,3
+KAZ,221954,Karina Rizvanova,3
+KAZ,237455,Dana Baidaulet,3
+KAZ,202320,Beibit Zhukayev,3
+KAZ,232892,Adel Ismagylova,3
+KAZ,232870,Ademi Amankeldi,3
+KAZ,232888,Yuliya Klimova,2
+KAZ,219627,Anna Ustinoff,2
+KAZ,213791,Kamilla Bolatova,2
+KAZ,222660,Tatyana Nikolenko,2
+KAZ,221326,Sofia Sokhetskaya,1
+KAZ,215594,Anastasiya Zaharova,1
+KAZ,237465,Asylzhan Arystanbekova,1
+KAZ,237463,Janel Ospanova,1
+KAZ,214865,Darya Shevchenko,1
+KAZ,221176,Kamilia Shailina,1
+KAZ,200442,Dostanbek Tashbulatov,1
+KAZ,237462,Adel Malgonusova,1
+KAZ,221177,Takhmina Zhanatova,1
+KAZ,232887,Erkezhan Arystanbekova,1
+KAZ,239157,Sandugash Kenzhibayeva,1
+KAZ,105095,Evgeny Korolev,1
+KAZ,211596,Karina Kalkenova,1
+KAZ,201584,Ksenia Pervak,1
+KAZ,232868,Aruzhan Sagandikova,1
+KAZ,216245,Tamara Cherkassova,1
+KAZ,103612,Alexey Kedryuk,1
+KEN,222453,Judith Muraa,2
+KEN,222454,Angella Okutoyi,2
+KEN,220247,Shufaa Changawa Ruwa,1
+KEN,222480,Cynthia Wanjala,1
+KEN,222455,Faith Nyabera Omurunga,1
+KGZ,201652,Ksenia Palkina,71
+KGZ,106073,Daniiar Duldaev,5
+KGZ,203570,Bermet Duvanaeva,1
+KGZ,216462,Nelli Buyuklianova,1
+KGZ,215125,Saara Kunakunova,1
+KGZ,220274,Emma Nurgazieva,1
+KOR,126952,Soon Woo Kwon,157
+KOR,204291,Na Lae Han,155
+KOR,204294,Su Jeong Jang,154
+KOR,117353,Duck Hee Lee,113
+KOR,111202,Hyeon Chung,110
+KOR,126283,Yunseong Chung,82
+KOR,216213,Sohyun Park,79
+KOR,214679,Sunam Jeong,79
+KOR,202502,So Ra Lee,74
+KOR,213948,Dabin Kim,74
+KOR,204288,Ji Hee Choi,70
+KOR,205789,Na Ri Kim,56
+KOR,215501,Eunhye Lee,46
+KOR,204286,Seung Yeon Hong,37
+KOR,106227,Ji Sung Nam,36
+KOR,105507,Cheong Eui Kim,35
+KOR,220454,Yeon Woo Ku,33
+KOR,202386,Sung Hee Han,30
+KOR,206396,Da Hye Kim,28
+KOR,213773,Yeong Won Jeong,25
+KOR,214607,Sang Hee Park,25
+KOR,213775,Yu Jin Ahn,23
+KOR,204292,Hyojung Yea,21
+KOR,220432,Dayeon Back,21
+KOR,211008,Se Hyun Kim,16
+KOR,215410,Eun Se Jang,15
+KOR,222215,Jiho Shin,14
+KOR,221133,Da Ye Kim,13
+KOR,238207,Hwiwon Wi,13
+KOR,105790,Yong Kyu Lim,11
+KOR,220470,Cherry Kim,11
+KOR,241000,Sujeong Jang,10
+KOR,211838,You Na Sul,9
+KOR,215320,Soo Bin Oh,9
+KOR,221248,Hwui Won Wi,8
+KOR,125816,Ji Hoon Son,8
+KOR,221269,Eunji Lee,8
+KOR,106184,Hong Chung,7
+KOR,220667,Subin Park,7
+KOR,222112,Eunyeong Park,6
+KOR,216040,Su Yeon Chun,6
+KOR,215323,Jeongyun Lee,6
+KOR,204290,Min Hwa Yu,5
+KOR,105621,Min Kyu Song,5
+KOR,214678,Eunji Lim,5
+KOR,111805,Seong Chan Hong,5
+KOR,215324,Do Hee Bae,5
+KOR,106074,Jung Woong Na,5
+KOR,221273,Ha Yeong Ryu,4
+KOR,106206,Jea Moon Lee,4
+KOR,205946,Se Jin Lee,4
+KOR,222546,Eun Ji Lee,4
+KOR,215500,Hoyeon Nor,4
+KOR,215325,Seon Young Um,4
+KOR,104612,Daniel Yoo,4
+KOR,111792,Young Seok Kim,4
+KOR,210073,Jin Yoo,3
+KOR,216041,Seohyeon Kim,3
+KOR,204404,Ah Song,3
+KOR,216215,Dami Lee,3
+KOR,204293,Seo Kyung Kang,3
+KOR,211362,So Hee Jung,3
+KOR,216042,Sunae Ji,3
+KOR,213675,Sung Hee Kim,3
+KOR,213946,Jin Ju Lee,3
+KOR,219926,Hyeran Yun,3
+KOR,220669,Ye Jin Kim,3
+KOR,221109,Boyoung Jeong,2
+KOR,211363,Sol Hee Sim,2
+KOR,104478,Hyun Woo Nam,2
+KOR,220476,Ryeong Gyeong Park,2
+KOR,206126,Ju Eun Kim,2
+KOR,126953,Chan Yeong Oh,2
+KOR,221244,Heejin Han,2
+KOR,105984,Seong Gook Oh,2
+KOR,203222,Hae Sung Kim,2
+KOR,128096,Woo Hyeok Jang,2
+KOR,215849,Sinhee Kim,2
+KOR,222498,Hee Rae Im,2
+KOR,200321,San Hui Sin,1
+KOR,201676,Ye Ra Lee,1
+KOR,222216,Ji Young Seo,1
+KOR,132895,Tae Woo Lee,1
+KOR,203110,Mi Ok Kim,1
+KOR,221250,Sun Bin Kim,1
+KOR,221249,Yubean Lee,1
+KOR,222549,Hyeri Kim,1
+KOR,239428,Gio Jang,1
+KOR,202501,Hyun Hui Hong,1
+KOR,221267,Eunseo Yun,1
+KOR,223042,Gayoung Ha,1
+KOR,222214,Sihyeong Cho,1
+KOR,216216,Mijeong Park,1
+KOR,222180,Na Hyun Kang,1
+KOR,127376,Hyeong Don Kim,1
+KOR,223046,Sun Min Ha,1
+KOR,221095,So Hee Yoon,1
+KOR,222217,Mi Jin Kim,1
+KUW,103600,Mohammad Ghareeb,1
+LAT,201545,Anastasija Sevastova,173
+LAT,211533,Jelena Ostapenko,157
+LAT,203509,Diana Marcinkevica,153
+LAT,215144,Daniela Vismane,98
+LAT,105208,Ernests Gulbis,96
+LAT,221886,Kamilla Bartone,50
+LAT,221207,Margarita Ignatjeva,33
+LAT,223404,Sabine Rutlauka,33
+LAT,221985,Darja Semenistaja,31
+LAT,216030,Anna Ozerova,26
+LAT,222669,Patricija Spaka,13
+LAT,219639,Alise Cernecka,12
+LAT,108761,Mikelis Libietis,11
+LAT,202273,Liga Dekmeijere,10
+LAT,106342,Martins Podzus,9
+LAT,211755,Laura Gulbe,8
+LAT,222916,Marija Semenistaja,7
+LAT,216288,Irina Lapustina,6
+LAT,223080,Elza Tomase,5
+LAT,215850,Rebeka Margareta Mertena,3
+LAT,221206,Stefanija Polischuk,3
+LAT,215477,Deniza Marcinkevica,2
+LAT,202545,Irina Kuzmina,2
+LAT,222380,Darta Dalecka,1
+LAT,211918,Anastasija Homutova,1
+LAT,206062,Adrija Runcha,1
+LIB,216195,Yasmeen Ghaoui,8
+LIB,200273,Hady Habib,5
+LIB,220257,Nour Dib,1
+LIE,210303,Kathinka Von Deichmann,185
+LIE,222225,Sylvie Zund,37
+LIE,202626,Stephanie Vogt,8
+LTU,105575,Ricardas Berankis,162
+LTU,212303,Justina Mikulskyte,84
+LTU,105827,Laurynas Grigelis,65
+LTU,210158,Iveta Dapkute,36
+LTU,221497,Andre Lukosiute,27
+LTU,211105,Akvile Parazinskaite,20
+LTU,206177,Joana Eidukonyte,15
+LTU,220395,Iveta Daujotaite,11
+LTU,108748,Lukas Mugevicius,5
+LTU,223014,Nika Novikova,3
+LTU,215869,Paulina Bakaite,2
+LTU,239172,Emilija Tverijonaite,2
+LTU,223397,Klaudija Bubelyte,2
+LTU,237468,Emilija Pranyte,1
+LTU,239131,Tia Kaukenas,1
+LTU,239387,Patricija Paukstyte,1
+LUX,215016,Eleonora Molinaro,130
+LUX,201605,Mandy Minella,129
+LUX,104180,Gilles Muller,78
+LUX,220946,Marie Weckerle,2
+LUX,223175,Liz Badde,1
+LUX,223032,Leila Fabbri,1
+LUX,111167,Ugo Nastasi,1
+MAD,200272,Jean Jacques Rakotohasy,1
+MAD,105182,Antso Rakotondramanga,1
+MAR,223671,Aya El Aouni,21
+MAR,213634,Rita Atik,20
+MAR,206354,Lina Qostal,13
+MAR,105149,Reda El Amrani,9
+MAR,220785,Sara Akid,6
+MAR,214941,Salma Ziouti,4
+MAR,215417,Abir El Fahimi,3
+MAR,215696,Diae El Jardi,3
+MAR,144760,Amine Ahouda,2
+MAR,208154,Zineb El Ouazzani,2
+MAR,236956,Yasmine Kabbaj,2
+MAR,216372,Ikram Rassif,2
+MAR,220784,Salma Loudili,1
+MAR,209119,Aissa Benchakroun,1
+MAR,216369,Oumaima Aziz,1
+MAR,223048,Meryem Jaaidan,1
+MAR,144958,Simohamed Hirs,1
+MAR,105832,Reda Karakhi,1
+MAR,122601,Ayoub Benamar,1
+MAR,216580,Salma Charif,1
+MAS,204304,Jawairiah Noordin,15
+MAS,204362,Theiviya Selvarajoo,9
+MAS,235155,Elsa Wan,8
+MAS,220339,Suhana Sofia Mohd Adam Das,2
+MAS,235157,Elysia Wan,2
+MAS,212318,Aslina Chua,2
+MAS,216475,Nurin Nabilah Roslan,1
+MAS,108741,Mohd Assri Merzuki,1
+MDA,105430,Radu Albot,175
+MDA,213710,Cristina Bucsa,141
+MDA,214624,Anastasia Detiuc,120
+MDA,210958,Alexandra Perper,113
+MDA,211901,Aliona Bolsova,98
+MDA,210786,Anastasia Vdovenco,89
+MDA,215862,Vitalia Stamat,51
+MDA,214014,Adriana Sosnovschi,20
+MDA,214880,Iana Tishchenko,15
+MDA,211267,Daniela Ciobanu,10
+MDA,106201,Maxim Dubarenco,6
+MDA,209331,Julia Helbet,4
+MDA,221741,Abigail Rencheli,3
+MDA,216271,Alexandra Zaicenco,2
+MDA,126612,Alexander Cozbinov,2
+MDA,219968,Mariami Akhalaia,2
+MDA,214953,Vlada Medvedcova,1
+MEX,213887,Renata Zarazua,174
+MEX,204419,Ana Sofia Sanchez,152
+MEX,211874,Victoria Rodriguez,113
+MEX,204420,Marcela Zacarias,107
+MEX,205892,Giuliana Olmos,76
+MEX,215019,Maria Jose Portillo Ramirez,59
+MEX,214782,Fernanda Contreras Gomez,57
+MEX,210568,Andrea Renee Villarreal,48
+MEX,214800,Sabastiani Leon,28
+MEX,106412,Lucas Gomez,25
+MEX,105688,Manuel Sanchez,25
+MEX,223367,Maria Fernanda Navarro,15
+MEX,126204,Gerardo Lopez Villasenor,11
+MEX,221933,Marian Gomez Pezuela Cano,10
+MEX,120798,Hans Hach Verdugo,10
+MEX,221611,Katya Ramirez,8
+MEX,106250,Luis Patino,8
+MEX,222351,Gala Arangio,7
+MEX,213739,Jessica Hinojosa Gomez,5
+MEX,219528,Brenda Sarahi Baez,4
+MEX,223368,Amelie Claire Montalvo Lundy,4
+MEX,105791,Mauricio Astorga,3
+MEX,222158,Amanda Carolina Nava Elkin,3
+MEX,204338,Nazari Urbina,3
+MEX,221927,Maria Fernanda Martinez Hernandez,3
+MEX,104431,Antonio Ruiz Rosales,3
+MEX,222049,Julia Garcia,3
+MEX,122487,Carlos Ramirez Utermann,3
+MEX,222048,Romary Cardenas Rifka,3
+MEX,222235,Maria Del Mar Gabriela Sanchez Ramirez,3
+MEX,105853,Tigre Hank,2
+MEX,221418,Maria Fernanda Carvajal Altamirano,2
+MEX,214528,Paulina Rotaeche,2
+MEX,104136,Santiago Gonzalez,2
+MEX,104960,Miguel Angel Reyes Varela,2
+MEX,125808,Jose Antonio Rodriguez Rodriguez,2
+MEX,220156,Fernanda Castillo Huerta,2
+MEX,118337,Carlos De La Pena,2
+MEX,205770,Adriana Guzman,1
+MEX,245117,Ricardo Ortiz,1
+MEX,221995,Renata Castillo,1
+MEX,215247,Daniela Morales Beckmann,1
+MEX,221420,Dianela Rodriguez,1
+MEX,210808,Beatriz Magdalena Flores,1
+MEX,216306,Yunuen Elizarraras Bahena,1
+MEX,216308,Lucianna Piedra,1
+MEX,216313,Haina Franco,1
+MEX,222988,Maria Jimena Krite Castellanos,1
+MEX,215838,Paulina Cota,1
+MEX,126375,Aitor Aramburu,1
+MEX,105330,Raul Isaias Rosas Zarur,1
+MEX,215839,Zanya Manola Sanchez,1
+MEX,213741,Alexia Coutino Castillo,1
+MEX,101339,Agustin Moreno,1
+MEX,127139,Miguel Diaz,1
+MEX,216311,Ingrid Carolina Millan,1
+MEX,207967,Juan Ignacio Batalla,1
+MEX,205869,Isaac Arturo Arevalo,1
+MEX,106394,Ricky Medinilla,1
+MEX,124015,Pablo Landa Catan,1
+MEX,221417,Ana Paula Martinez Mora,1
+MGL,223132,Jargal Altansarnai,1
+MGL,223131,Erdenesuren Erdenebat,1
+MKD,211227,Lina Gjorcheska,143
+MKD,213827,Magdalena Stoilkovska,32
+MKD,105662,Tomislav Jotovski,1
+MLT,220532,Helene Pellicano,47
+MLT,221014,Francesca Curmi,33
+MLT,209712,Elaine Genovese,21
+MNE,203575,Danka Kovinic,144
+MNE,211562,Vladica Babic,36
+MNE,215864,Anja Draskovic,10
+MNE,105843,Ljubomir Celebic,7
+MNE,200437,Rrezart Cungu,1
+MON,105714,Hugo Nys,55
+MON,200031,Lucas Catarina,16
+MON,104112,Benjamin Balleret,5
+MON,103531,Thomas Oger,1
+MRI,216366,Amelie Boy,3
+MRI,211858,Emmanuelle De Beer,1
+NAM,210640,Liniques Theron,4
+NED,201551,Arantxa Rus,249
+NED,202428,Kiki Bertens,201
+NED,204246,Lesley Kerkhove,172
+NED,202480,Richel Hogenkamp,151
+NED,104898,Robin Haase,136
+NED,202457,Bibiane Schoofs,129
+NED,206183,Cindy Burger,129
+NED,215480,Suzan Lamens,127
+NED,206045,Quirine Lemoine,118
+NED,134868,Tallon Griekspoor,110
+NED,215996,Arianne Hartono,97
+NED,220770,Eva Vedder,90
+NED,204377,Indy De Vroome,88
+NED,122298,Botic van de Zandschulp,82
+NED,220613,Stephanie Judith Visscher,75
+NED,220732,Lexie Stevens,71
+NED,220491,Merel Hoedt,68
+NED,126646,Tim Van Rijthoven,60
+NED,104997,Igor Sijsling,59
+NED,125847,Jelle Sels,53
+NED,216170,Noa Liauw A Fong,50
+NED,215031,Dominique Karregat,48
+NED,202874,Chayenne Ewijk,48
+NED,105217,Thiemo De Bakker,45
+NED,220560,Lian Tran,43
+NED,215349,Nina Kruijer,37
+NED,105691,Scott Griekspoor,36
+NED,221994,Demi Tran,33
+NED,220304,Lara Panfilov,29
+NED,222276,Jasmijn Gimbrere,28
+NED,206184,Kelly Versteeg,25
+NED,215654,Diana Chehoudi,25
+NED,207411,Jesper De Jong,25
+NED,201414,Michaella Krajicek,24
+NED,105172,Miliaan Niesten,24
+NED,200465,Sem Verbeek,22
+NED,219831,Sem Wensveen,22
+NED,216054,Perla Nieuwboer,21
+NED,216191,Gabriella Mujan,20
+NED,216395,Annick Melgers,20
+NED,215658,Phillis Vanenburg,18
+NED,221019,Isabelle Haverlag,17
+NED,211159,Nikki Luttikhuis,15
+NED,133835,Gijs Brouwer,14
+NED,211775,Erika Vogelsang,12
+NED,215705,Dewi Dijkman,12
+NED,104235,Matwe Middelkoop,11
+NED,222017,Anouk Koevermans,11
+NED,211160,Mandy Wagemaker,9
+NED,210336,Rosalie Van Der Hoek,9
+NED,222748,Emma Van Poppel,8
+NED,216226,Chanel Janssen,7
+NED,221568,Madelief Hageman,6
+NED,105388,Lennert Van Der Linden,6
+NED,223425,Eloise De Mooij,6
+NED,210335,Gabriela Van De Graaf,6
+NED,222340,Reza Timmerman,6
+NED,216028,Donnaroza Gouvernante,6
+NED,105690,Kevin Griekspoor,5
+NED,105014,Antal Van Der Duim,5
+NED,104619,Jesse Huta Galung,4
+NED,216284,Annelou Nab,4
+NED,222275,Bente Spee,4
+NED,222906,Noesjka Brink,4
+NED,228109,Dilara Okur,4
+NED,104627,Boy Westerhof,4
+NED,216031,Dainah Cameron,4
+NED,215350,Liza Lebedzeva,3
+NED,223380,Clarine Lerby,3
+NED,215703,Anastasiya Mulder Syrovatskaia,3
+NED,105323,Wesley Koolhof,3
+NED,122644,Sander Arends,3
+NED,223309,Renee Van Bommel,3
+NED,215478,Claire Verwerda,2
+NED,221730,Bo Luttikhuis,2
+NED,222274,Melissa Boyden,2
+NED,105801,David Pel,2
+NED,215254,Liv Geurts,2
+NED,208334,Deney Wassermann,2
+NED,222482,Elysia Pool,2
+NED,236989,Vanja Gudelj,2
+NED,215392,Judith Van Kessel,2
+NED,200242,Mick Veldheer,2
+NED,105646,Mark Vervoort,1
+NED,233745,Michelle Dzjachangirova,1
+NED,209742,Regina Husak,1
+NED,207764,Ryan Nijboer,1
+NED,105986,Colin Van Beem,1
+NED,215261,Iris Julia Antje Verweij,1
+NED,222550,Min Chae Kim,1
+NED,127038,Robert Willekes Macdonald,1
+NED,125848,Niels Lootsma,1
+NED,221400,Margriet Timmermans,1
+NED,241721,Gigi Sy A Foek,1
+NED,122667,Cedric Willems,1
+NED,210775,Jaimy Gayle Van De Wal,1
+NED,239412,Rachelle Starreveld,1
+NED,223422,Annika Barth,1
+NED,127037,Roy Sarut De Valk,1
+NED,223418,Klara Veldman,1
+NED,223421,Coco Bosman,1
+NED,214201,Jocelijn Cavero Roeper,1
+NED,220459,Jamie Jillissen,1
+NED,231645,Sem Hazes,1
+NED,105470,Tim Van Terheijden,1
+NGA,238201,Oluchukwu Jennifer Nkili,1
+NGR,220736,Barakat Oyinlomo Quadre,10
+NGR,205356,Blessing Samuel,4
+NGR,215761,Aanu Ayegbusi,3
+NGR,206299,Sarah Adegoke,3
+NGR,222799,Omolade Aderemi,2
+NGR,222801,Ozi Oiza Josephine Yakubu,1
+NGR,211888,Osariemen Airhunmwunde,1
+NGR,205192,Sabath Ibrahim,1
+NGR,205658,Ronke Akingbade,1
+NGR,215759,Patience Onebamhoin,1
+NLD,239166,Dunya Charalampopoulos,2
+NOR,134770,Casper Ruud,189
+NOR,205918,Ulrikke Eikeri,149
+NOR,213628,Melanie Stokke,133
+NOR,214935,Malene Helgo,105
+NOR,126340,Viktor Durasovic,58
+NOR,214934,Astrid Wanja Brune Olsen,42
+NOR,215684,Lilly Elida Haseth,33
+NOR,214520,Andrea Raaholdt,7
+NOR,216376,Emilie Elde,3
+NOR,214952,Dorthea Faa Hviding,3
+NOR,221575,Beatrice Henriette Faureng,2
+NOR,108734,Fredrik Ask,2
+NOR,222873,Anna Sofia Haseth,2
+NOR,215683,Lillian Gabrielsen,2
+NOR,127832,Nils Ellefsen,1
+NOR,220793,Ine Soltveit Stange,1
+NOR,220955,Emely Kahrs,1
+NOR,216377,Hedda Gurholt,1
+NOR,221200,Lene Mari Bolkesjo Hovda,1
+NOR,206716,Lukas Hellum Lilleengen,1
+NOR,215689,Mina Adelin Pedersen,1
+NOR,202382,Simen Sunde Bratholm,1
+NOR,215686,Helene Heiberg,1
+NZL,212805,Paige Mary Hourigan,73
+NZL,104907,Jose Rubin Statham,55
+NZL,201523,Marina Erakovic,46
+NZL,204356,Emily Fanning,33
+NZL,221173,Valentina Ivanov,16
+NZL,208577,Joanna Carswell,10
+NZL,213674,Jade Lewis,9
+NZL,110686,Finn Tearney,9
+NZL,222667,Monique Barry,6
+NZL,206358,Claudia Williams,4
+NZL,105030,Michael Venus,3
+NZL,223158,Shona Nakano,2
+NZL,223159,Vivian Yang,2
+NZL,208055,Ajeet Rai,1
+NZL,223162,Sarah Weekley,1
+NZL,110758,Ben Mclachlan,1
+OMA,201618,Fatma Al Nabhani,102
+PAK,103499,Aqeel Khan,6
+PAK,210173,Ushna Suhail,6
+PAK,103529,Aisam Ul Haq Qureshi,4
+PAK,210166,Sara Mansoor,2
+PAK,210174,Sarah Mahboob Khan,2
+PAK,221823,Mahin Qureshi,1
+PAK,223054,Farkhanda Jabeen,1
+PAK,120792,M Abid Ali Khan Akbar,1
+PAN,212260,Rosaline Zafir Chavez Tello,2
+PAN,221975,Zulay Castaneda,1
+PAN,221819,Karen Esther Contreras,1
+PAR,202705,Veronica Cepede Royg,148
+PAR,206329,Montserrat Gonzalez,96
+PAR,206332,Camila Giangreco Campiz,84
+PAR,216150,Lara Escauriza,49
+PAR,220845,Heydi Doldan,14
+PAR,220844,Susan Doldan,13
+PAR,220579,Tatiana Terwindt,4
+PAR,220804,Liz Carolina Chileno,3
+PAR,205831,Isabella Robbiani,3
+PAR,206579,Sarah Tami Masi,2
+PAR,211947,Camila Recalde,2
+PAR,209226,Adolfo Daniel Vallejo,2
+PAR,137018,Ayed Zatar,1
+PAR,221289,Paulina Franco Martinessi,1
+PAR,209225,Martin Antonio Vergara Del Puerto,1
+PAR,200621,Bruno Britez,1
+PAR,220826,Camila Ruiz Diaz,1
+PER,122669,Juan Pablo Varillas,99
+PER,215375,Dominique Schaefer,38
+PER,126190,Nicolas Alvarez,29
+PER,105273,Mauricio Echazu,16
+PER,222305,Romina Ccuno,11
+PER,215784,Anastasia Iamachkine,9
+PER,105456,Sergio Galdos,6
+PER,221834,Dana Guzman,5
+PER,106410,Jorge Brian Panta Herreros,5
+PER,221836,Camila Soares,3
+PER,222304,Alessia Martinez,3
+PER,222352,Daniela Rubio,2
+PER,222303,Michela Montori Rodriguez,2
+PER,138485,Conner Huertas Del Pino,2
+PER,222301,Valeria Lloclla,2
+PER,222302,Micaela Ode,2
+PER,221332,Daianne Hayashida,2
+PER,210947,Ferny Angeles Paz,2
+PER,201683,Bianca Botto,1
+PER,222336,Valeria Castro,1
+PER,219469,Samantha Echevarria,1
+PER,105935,Duilio Beretta,1
+PER,214369,Leslie Espinoza,1
+PER,222389,Valeria Vinces,1
+PER,222386,Gia Posito,1
+PER,222342,Manuela Zegarra Ballon,1
+PER,122635,Alexander Merino,1
+PHI,104604,Ruben Gonzales,12
+PHI,210951,Marian Jade Capadocia,7
+PHI,215857,Khim Iglupas,5
+PHI,106150,Jeson Patrombon,3
+PHI,202165,Alberto Lim,3
+PHI,210046,Anna Clarice Patrimonio,3
+PHI,108717,Francis Casey Alcantara,2
+PHI,200460,John Bryan Decasa Otico,2
+PHI,223135,Shaira Hope Rivera,1
+PHL,223253,Alexandra Eala,18
+PNG,214905,Abigail Tere Apisah,74
+POC,221803,Carol Young Suh Lee,3
+POC,221811,Ayana Rengiil,1
+POC,215859,Mayka Zima,1
+POL,211684,Magdalena Frech,193
+POL,128034,Hubert Hurkacz,189
+POL,111794,Kamil Majchrzak,158
+POL,202663,Magda Linette,156
+POL,216347,Iga Swiatek,131
+POL,203514,Katarzyna Kawa,109
+POL,201565,Katarzyna Piter,102
+POL,201474,Agnieszka Radwanska,93
+POL,201524,Urszula Radwanska,88
+POL,216081,Maja Chwalinska,79
+POL,216579,Weronika Falkowska,74
+POL,210870,Natalia Siedliska,62
+POL,205056,Marta Lesniak,59
+POL,105668,Jerzy Janowicz,49
+POL,104308,Michal Przysiezny,47
+POL,203518,Paula Kania,46
+POL,200390,Kacper Zuk,43
+POL,215110,Joanna Zawadzka,41
+POL,221243,Martyna Kubka,39
+POL,215971,Ania Hertel,31
+POL,202483,Sandra Zaniewska,27
+POL,215970,Stefania Rogozinska Dzik,21
+POL,214784,Daria Kuczer,20
+POL,105399,Andriej Kapas,19
+POL,215999,Julia Oczachowska,17
+POL,214074,Weronika Jasmina Forys,16
+POL,215424,Patrycja Polanska,15
+POL,215645,Paulina Jastrzebska,15
+POL,202616,Justyna Jegiolka,13
+POL,211682,Paulina Czarnik,12
+POL,207415,Daniel Michalski,11
+POL,205138,Anna Powaska,11
+POL,214985,Wiktoria Kulik,10
+POL,222163,Aleksandra Julia Jelen,9
+POL,109318,Pawel Cias,8
+POL,215013,Marcelina Podlinska,8
+POL,105152,Marcin Gawron,8
+POL,126166,Szymon Walkow,7
+POL,214882,Oliwia Szymczuch,7
+POL,223336,Weronika Baszak,7
+POL,120922,Maciej Rajski,6
+POL,105066,Grzegorz Panfil,5
+POL,222940,Zofia Podbiol,5
+POL,126591,Jan Zielinski,5
+POL,215973,Katarzyna Kubicz,5
+POL,239413,Aleksandra Wierzbowska,4
+POL,211683,Aleksandra Buczynska,4
+POL,221795,Magdalena Hedrzak,4
+POL,222508,Urszula Nebelska,4
+POL,223436,Xenia Lipiec,4
+POL,215848,Karolina Jaskiewicz,4
+POL,214433,Katarzyna Wysoczanska,4
+POL,126590,Karol Drzewiecki,3
+POL,215619,Klaudia Wira,3
+POL,144742,Michal Dembek,3
+POL,208733,Magdalena Ekert,2
+POL,103997,Lukasz Kubot,2
+POL,202560,Olga Brozda,2
+POL,209852,Agata Bachanek,2
+POL,220966,Wiktoria Saska,2
+POL,239482,Wiktoria Rutkowska,1
+POL,106149,Maciej Smola,1
+POL,126372,Adrian Andrzejczuk,1
+POL,237459,Alicja Formella,1
+POL,126158,Piotr Lomacki,1
+POL,209910,Szymon Kielan,1
+POL,214435,Agata Jadwiga Bienkowska,1
+POL,126200,Piotr Grynkowski,1
+POL,202841,Alicja Rosolska,1
+POL,213663,Paulina Lewandowska,1
+POL,209019,Joanna Dobrowolska,1
+POL,215972,Julia Przybylska,1
+POL,239484,Daria Gorska,1
+POL,215792,Alicja Zduniak,1
+POL,215167,Adrianna Sosnowska,1
+POL,208491,Filip Kolasinski,1
+POL,202559,Anna Korzeniak,1
+POL,103876,Tomasz Bednarek,1
+POL,221710,Emma Zakordoniec,1
+POL,209874,Maks Kasnikowski,1
+POL,215168,Elzbieta Iwaniuk,1
+POL,206893,Piotr Galus,1
+POR,105155,Pedro Sousa,171
+POR,105671,Gastao Elias,148
+POR,105311,Joao Sousa,127
+POR,216055,Francisca Jorge,102
+POR,106393,Frederico Ferreira Silva,100
+POR,213721,Ines Murta,94
+POR,106249,Joao Domingues,91
+POR,123819,Goncalo Oliveira,84
+POR,201646,Maria Joao Koehler,47
+POR,201547,Michelle Larcher De Brito,42
+POR,220361,Maria Ines Fonte,30
+POR,215735,Sara Lanca,23
+POR,210913,Ana Filipa Santos,19
+POR,132686,Nuno Borges,17
+POR,216294,Lucia Quiterio,9
+POR,132310,Tiago Cacao,8
+POR,221950,Ines Oliveira,7
+POR,110468,Romain Barbosa,7
+POR,214311,Ines Mesquita,6
+POR,221164,Matilde Jorge,6
+POR,221393,Mariana Campino,5
+POR,122368,Joao Monteiro,5
+POR,210821,Claudia Cianci,5
+POR,221675,Carolina Azadinho,5
+POR,210914,Claudia Gaspar,5
+POR,104523,Frederico Gil,4
+POR,220362,Leonor Oliveira,3
+POR,222717,Matilde Morais,3
+POR,222344,Alexandra Silva,3
+POR,216293,Rita Maria Bentes De Oliveira Pinto,2
+POR,204320,Maria Palhoto,2
+POR,109694,Pedro Araujo,2
+POR,206447,Daniel Batista,2
+POR,215800,Marta Oliveira,2
+POR,218313,Carolina Likhatcheva,2
+POR,210660,Joana Vale Costa,2
+POR,144909,Francisco Cabral,2
+POR,221111,Joana Baptista,1
+POR,221718,Barbara Balancho,1
+POR,206425,Martim Leote Prata,1
+POR,221285,Camila Garcia,1
+POR,202419,Barbara Luz,1
+POR,122369,Bernardo Saraiva,1
+POR,105102,Goncalo Falcao,1
+POR,210661,Raquel Mateus,1
+POR,221541,Beatriz Neves,1
+POR,208426,Tiago Torres,1
+POR,222192,Mafalda Guedes,1
+POR,219461,Ines Teixeira,1
+POR,219730,Luisa Pelayo,1
+POR,206448,Daniel Rodrigues,1
+POR,220806,Beatriz Paciletti Duarte Da Costa,1
+POR,216212,Ema Gil Pires,1
+POR,222729,Carolina Caetano Reis,1
+PUR,201620,Monica Puig,136
+PUR,212281,Monica Matias,3
+PUR,223433,Debora Madile,2
+PUR,215786,Julieanne Bou,2
+PUR,200620,Ignacio Garcia,1
+PUR,200619,Sebastian Arcila,1
+REU,215363,Camille Corenthy,1
+ROU,201594,Simona Halep,217
+ROU,211646,Oana Georgeta Simion,178
+ROU,210705,Irina Maria Bara,176
+ROU,211713,Jaqueline Adina Cristian,174
+ROU,211817,Elena Gabriela Ruse,170
+ROU,213780,Andreea Amalia Rosca,170
+ROU,202669,Cristina Dinu,165
+ROU,213779,Raluca Georgiana Serban,153
+ROU,201514,Sorana Cirstea,151
+ROU,105657,Marius Copil,149
+ROU,214691,Ylona Georgiana Ghioroaie,149
+ROU,202536,Ana Bogdan,147
+ROU,213584,Irina Fetecau,144
+ROU,203586,Ioana Loredana Rosca,143
+ROU,202596,Mihaela Buzarnescu,140
+ROU,202578,Laura Ioana Andrei,140
+ROU,214600,Georgia Andreea Craciun,138
+ROU,201593,Irina Camelia Begu,137
+ROU,202456,Alexandra Cadantu,134
+ROU,214480,Miriam Bianca Bulgaru,130
+ROU,210645,Elena Teodora Cadar,122
+ROU,201512,Monica Niculescu,119
+ROU,214599,Oana Gavrila,108
+ROU,211342,Gabriela Talaba,108
+ROU,211098,Cristina Ene,107
+ROU,206255,Patricia Maria Tig,107
+ROU,211099,Nicoleta Catalina Dascalu,103
+ROU,214653,Andreea Prisacariu,97
+ROU,220494,Arina Gabriela Vasilescu,91
+ROU,203095,Ioana Gaspar,87
+ROU,214860,Karola Patricia Bejenaru,83
+ROU,201567,Alexandra Dulgheru,80
+ROU,211654,Ana Bianca Mihaila,68
+ROU,210658,Michele Alexandra Zmau,62
+ROU,202671,Cristina Andreea Mitu,59
+ROU,206427,Daiana Negreanu,58
+ROU,210776,Gabriela Duca,57
+ROU,211898,Andreea Ghitescu,54
+ROU,203588,Cristina Adamescu,52
+ROU,214598,Gabriela Nicole Tatarus,51
+ROU,214821,Ioana Diana Pietroiu,50
+ROU,221542,Simona Ogescu,48
+ROU,216559,Izabela Gabriela Novac,34
+ROU,202262,Filip Cristian Jianu,31
+ROU,202595,Alexandra Damaschin,31
+ROU,104494,Adrian Ungur,31
+ROU,106021,Dragos Dima,28
+ROU,222703,Ioana Zvonaru,26
+ROU,221714,Stefana Lazar,26
+ROU,222859,Maria Sara Popa,23
+ROU,202594,Elena Bogdan,22
+ROU,220562,Andreea Velcea,22
+ROU,220555,Oana Smaranda Corneanu,21
+ROU,215966,Maria Toma,20
+ROU,221182,Alexandra Iordache,20
+ROU,221168,Ilinca Dalina Amariei,20
+ROU,215448,Denise Antonela Stoica,18
+ROU,223120,Briana Szabo,16
+ROU,211930,Teodora Stinga,15
+ROU,215239,Diana Maria Mihail,12
+ROU,213806,Gabriela Aura Zarnoveanu,12
+ROU,222579,Andra Cristina Captan,11
+ROU,203589,Camelia Elena Hristea,11
+ROU,220484,Alessia Beatrice Ciuca,10
+ROU,202593,Diana Buzean,9
+ROU,205556,Ioana Ivan,8
+ROU,239393,Bianca Elena Barbulescu,8
+ROU,214487,Ioana Minca,8
+ROU,215215,Mihaela Lorena Marculescu,8
+ROU,222504,Daria Maria Munteanu,7
+ROU,215026,Andra Maria Nitescu,5
+ROU,106129,Dragos Constantin Ignat,5
+ROU,220485,Alexandra Maria Staiculescu,5
+ROU,223349,Andreea Alexandra Lila,5
+ROU,221713,Tania Munteanu,4
+ROU,213785,Iulia Maria Ivascu,4
+ROU,214822,Selma Stefania Cadar,4
+ROU,215338,Ioana Gheorghita,4
+ROU,215450,Tania Andrada Mare,4
+ROU,216101,Luminita Tutunaru,4
+ROU,220518,Carmen Roxana Manu,4
+ROU,126102,Nicolae Frunza,4
+ROU,222847,Vanessa Ioana Georgiana Popa Teiusanu,4
+ROU,222603,Alexandra Raluca Botin,3
+ROU,220869,Isabela Ioana Dima,3
+ROU,206057,Simona Ionescu,3
+ROU,200263,Vlad Andrei Dancu,3
+ROU,222578,Ioana Dumitrescu,3
+ROU,222574,Maria Alexandra Medeea Popescu,3
+ROU,105331,Petru Alexandru Luncanu,3
+ROU,221363,Iulia Marko,3
+ROU,223081,Stefania Pantaia,2
+ROU,202150,Dan Alexandru Tomescu,2
+ROU,121497,Mircea Alexandru Jecan,2
+ROU,126613,Bogdan Borza,2
+ROU,103812,Victor Hanescu,2
+ROU,220657,Andreea Elena Iordachi,2
+ROU,219833,Maria Victoria Negoita,2
+ROU,240997,Maria Aldea Wesselly,2
+ROU,132958,George Botezan,2
+ROU,222745,Silvia Maria Costache,2
+ROU,209418,Diana Popescu,2
+ROU,200096,Dragos Nicolae Madaras,2
+ROU,214125,Andreia Beberechi,2
+ROU,133946,Vlad Andrei Dumitru,2
+ROU,111163,Vlad Victor Cornea,2
+ROU,221167,Maria Alexia Gandac,2
+ROU,214918,Evelyne Christelle Atticia Tiron,2
+ROU,223331,Anca Alexia Todoni,2
+ROU,220067,Lorena Maria Danaila,1
+ROU,138353,Sergiu Ioan Bucur,1
+ROU,106389,Andrei Stefan Apostol,1
+ROU,221368,Ioana Alexandra Negoitescu,1
+ROU,206470,Cezar Cretu,1
+ROU,220035,Iulia Bianca Ilinca,1
+ROU,221547,Ana Maria Gabriela Taranu,1
+ROU,221251,Iulia Vlaiculescu,1
+ROU,220529,Iulia Savescu,1
+ROU,222572,Bianca Maria Dascalu,1
+ROU,214707,Cristiana Miruna Tudor,1
+ROU,221169,Raluca Maria Tudorache,1
+ROU,215569,Gabriela Ana Maria Davidescu,1
+ROU,202210,Edris Fetisleam,1
+ROU,133945,Calin Manda,1
+ROU,106278,Vasile Alexandru Ghilea,1
+ROU,105508,Vasile Antonescu,1
+ROU,105734,Patrick Grigoriu,1
+ROU,220635,Anda Ghinga,1
+ROU,207660,Nicholas David Ionel,1
+ROU,216132,Anamaria Kiszner Luca,1
+ROU,222936,Maria Bianca Andrei,1
+ROU,222323,Fatima Ingrid Amartha Keita,1
+ROU,213716,Oana Irimescu,1
+ROU,222576,Denisa Elena Plesa,1
+ROU,245094,Lavinia Tanasie,1
+ROU,213807,Cristina Moroi,1
+ROU,200703,Bogdan Pavel,1
+ROU,221183,Alexandra Petric,1
+RSA,144750,Lloyd Harris,160
+RSA,202581,Chanel Simmonds,140
+RSA,104731,Kevin Anderson,136
+RSA,105434,Ruan Roelofse,47
+RSA,216373,Zoe Kruger,34
+RSA,221996,Isabella Kruger,28
+RSA,214503,Warona Mdlulwa,18
+RSA,210629,Ilze Hattingh,12
+RSA,120401,Tucker Vorster,9
+RSA,104765,Damon Gooch,8
+RSA,105707,Nicolaas Scholtz,7
+RSA,202647,Madrie Le Roux,7
+RSA,221476,Marne Dercksen,7
+RSA,202615,Natasha Fourouclas,7
+RSA,216419,Megan Basson,5
+RSA,222709,Ntokozo Zungu,4
+RSA,222712,Mikayla Faure,4
+RSA,211129,Shannon Cox,3
+RSA,222750,Amy Bloch,2
+RSA,222725,Georgia Hosking,2
+RSA,222722,Cayline Le Grange,2
+RSA,239469,Christine Gouws,2
+RSA,214501,Zani Barnard,2
+RSA,105547,Dean Obrien,2
+RSA,220814,Delien Kleinhans,2
+RSA,205652,Eden Doliveira,2
+RSA,216418,Sari Stegmann,1
+RSA,221479,Mbali Langa,1
+RSA,105251,Keith Patrick Crowley,1
+RSA,211135,Amy Olivier,1
+RSA,220817,Rochelle Pienaar,1
+RSA,216362,Margo Landmann,1
+RSA,209278,Alec Beckley,1
+RSA,214496,Lee Barnard,1
+RSA,206776,Pierre Malan,1
+RSA,202475,Philip Henning,1
+RSA,223279,Sinazo Solani,1
+RSA,207809,Khololwam Montsi,1
+RSA,222711,Nicole Viljoen,1
+RSA,233723,Anna Wise,1
+RSA,222751,Amonette Theron,1
+RSA,221451,Maretha Burger,1
+RSA,221477,Tamsin Hart,1
+RSA,209880,Carl Roothman,1
+RSA,239468,Tayla Wilmot,1
+RUS,106421,Daniil Medvedev,267
+RUS,126094,Andrey Rublev,242
+RUS,111575,Karen Khachanov,199
+RUS,206368,Veronika Kudermetova,190
+RUS,206420,Ekaterina Alexandrova,189
+RUS,215020,Anna Blinkova,180
+RUS,214082,Darya Kasatkina,176
+RUS,214939,Anna Kalinskaya,166
+RUS,201613,Arina Rodionova,160
+RUS,105539,Evgeny Donskoy,160
+RUS,214643,Ludmilla Samsonova,155
+RUS,205873,Anna Morgina,149
+RUS,214020,Amina Anshba,148
+RUS,201499,Anastasia Pavlyuchenkova,146
+RUS,213737,Anastasia Evgenyevna Nefedova,143
+RUS,202443,Valeria Savinykh,143
+RUS,203537,Victoria Kan,142
+RUS,202701,Irina Khromacheva,138
+RUS,212053,Anastasia Pribylova,138
+RUS,106234,Aslan Karatsev,136
+RUS,214181,Anastasia Gasanova,135
+RUS,201554,Vitalia Diatchenko,132
+RUS,214546,Ekaterina Kazionova,132
+RUS,212001,Natalia Vikhlyantseva,130
+RUS,214741,Anastasia Kulikova,129
+RUS,219875,Varvara Gracheva,129
+RUS,203379,Marina Melnikova,129
+RUS,202491,Varvara Flink,128
+RUS,211856,Anastasiya Komardina,128
+RUS,106072,Alexey Vatutin,127
+RUS,203569,Olga Doroshina,123
+RUS,201320,Svetlana Kuznetsova,118
+RUS,104559,Teymuraz Gabashvili,115
+RUS,210672,Polina Leykina,110
+RUS,203572,Polina Monova,110
+RUS,202672,Ekaterina Yashina,107
+RUS,201505,Ekaterina Makarova,106
+RUS,216134,Vlada Koval,105
+RUS,106348,Evgeny Karlovskiy,105
+RUS,215713,Anastasia Potapova,104
+RUS,213533,Maria Marfutina,104
+RUS,215234,Daria Kruzhkova,104
+RUS,201516,Evgeniya Rodina,102
+RUS,221178,Darya Astakhova,102
+RUS,214863,Sofya Zhuk,101
+RUS,220435,Anastasia Zakharova,101
+RUS,211809,Daria Lodikova,101
+RUS,215872,Kamilla Rakhimova,100
+RUS,126128,Roman Safiullin,96
+RUS,201329,Vera Zvonareva,95
+RUS,203542,Daria Mironova,95
+RUS,215218,Anna Ukolova,91
+RUS,104022,Mikhail Youzhny,90
+RUS,205969,Yana Sizikova,89
+RUS,104505,Konstantin Kravchuk,82
+RUS,205759,Margarita Lazareva,80
+RUS,215177,Polina Bakhmutkina,80
+RUS,221073,Anastasia Tikhonova,80
+RUS,214343,Marta Paigina,79
+RUS,211876,Angelina Zhuravleva,79
+RUS,201455,Elena Vesnina,78
+RUS,214812,Aleksandra Pospelova,77
+RUS,105723,Andrey Kuznetsov,77
+RUS,213976,Diana Demidova,76
+RUS,214868,Valeriya Yushchenko,76
+RUS,206371,Alina Silich,75
+RUS,203474,Nika Kukharchuk,73
+RUS,220391,Anna Ureke,72
+RUS,202506,Margarita Gasparyan,71
+RUS,205606,Viktoria Kamenskaya,69
+RUS,200303,Pavel Kotov,69
+RUS,221237,Maria Timofeeva,68
+RUS,214975,Anhzelika Isaeva,67
+RUS,214962,Anna Pribylova,66
+RUS,220589,Elina Avanesyan,66
+RUS,221209,Anastasia Zolotareva,65
+RUS,216179,Valeriya Olyanovskaya,64
+RUS,221407,Oksana Selekhmeteva,64
+RUS,216299,Ekaterina Vishnevskaya,63
+RUS,216287,Ekaterina Shalimova,63
+RUS,216139,Sofya Lansere,62
+RUS,201671,Ksenia Lykina,59
+RUS,203540,Anastasia Frolova,58
+RUS,221059,Noel Saidenova,58
+RUS,202529,Natalia Orlova,56
+RUS,219792,Anastasia Sukhotina,55
+RUS,215372,Ksenia Laskutova,55
+RUS,214047,Vasilisa Aponasenko,54
+RUS,203236,Angelina Gabueva,53
+RUS,201345,Maria Sharapova,49
+RUS,221247,Ekaterina Makarova 1996,49
+RUS,221210,Daria Kudashova,48
+RUS,202445,Valeria Solovieva,47
+RUS,220276,Evgeniya Burdina,47
+RUS,221406,Alina Charaeva,46
+RUS,215733,Ekaterina Ovcharenko,43
+RUS,220259,Daria Nazarkina,43
+RUS,201532,Anastasia Pivovarova,43
+RUS,222919,Julia Avdeeva,43
+RUS,201668,Alexandra Panova,42
+RUS,222965,Erika Andreeva,40
+RUS,206404,Elizaveta Kulichkova,40
+RUS,221557,Taisya Pachkaleva,40
+RUS,123809,Ivan Gakhov,40
+RUS,221395,Ekaterina Reyngold,39
+RUS,215976,Valeriya Zeleva,39
+RUS,211524,Ulyana Ayzatulina,39
+RUS,201485,Alla Kudryavtseva,38
+RUS,206116,Sofia Dmitrieva,37
+RUS,213896,Elina Nepliy,37
+RUS,214766,Margarita Skryabina,36
+RUS,214504,Valeriya Urzhumova,36
+RUS,211266,Yulia Kulikova,36
+RUS,104628,Alexander Kudryavtsev,36
+RUS,214517,Polina Golubovskaya,35
+RUS,221324,Maria Shusharina,34
+RUS,221348,Eva Garkusha,34
+RUS,214804,Evgeniya Levashova,33
+RUS,221688,Anastasia Sysoeva,33
+RUS,216180,Zoziya Kardava,32
+RUS,104729,Ivan Nedelko,31
+RUS,214180,Anna Makhorkina,30
+RUS,221086,Mariia Tkacheva,30
+RUS,202667,Natela Dzalamidze,30
+RUS,211925,Yana Mogilnitskaya,29
+RUS,105897,Alexander Zhurbin,29
+RUS,215155,Olesya Pervushina,29
+RUS,220175,Maria Manilova,28
+RUS,221236,Polina Kudermetova,28
+RUS,215071,Viktoriia Kalinina,28
+RUS,126185,Evgenii Tiurnev,28
+RUS,221074,Veronika Pepelyaeva,27
+RUS,103863,Mikhail Elgin,27
+RUS,221325,Iuliia Nikitina,26
+RUS,201479,Olga Puchkova,26
+RUS,221203,Alexandra Vasilyeva,25
+RUS,144984,Artem Dubrivnyy,25
+RUS,206028,Alena Tarasova,25
+RUS,215978,Victoria Mikhaylova,24
+RUS,213857,Nonna Kurginyan,23
+RUS,221043,Daria Krasnova,23
+RUS,214182,Veronica Miroshnichenko,23
+RUS,220644,Arina Solomatina,22
+RUS,207608,Timofey Skatov,22
+RUS,220697,Anfisa Danilchenko,21
+RUS,221119,Maria Titova,21
+RUS,214543,Anastasia Shaulskaya,20
+RUS,214809,Aleksandra Vostrikova,19
+RUS,200553,Alen Avidzba,19
+RUS,106330,Vitaly Kozyukov,19
+RUS,221856,Darya Lavrichenko,19
+RUS,223164,Maria Bondarenko,19
+RUS,206002,Tamara Bizhukova,19
+RUS,222599,Angelika Shapovalova,19
+RUS,203538,Polina Vinogradova,19
+RUS,214995,Sofya Golubovskaya,18
+RUS,215232,Elina Vikhryanova,18
+RUS,220672,Milana Zhabrailova,17
+RUS,214185,Diana Krasnova,16
+RUS,214514,Anastasia Chikalkina,16
+RUS,212005,Valeriya Pogrebnyak,16
+RUS,216105,Alisa Axyanova,16
+RUS,221216,Maria Krupenina,16
+RUS,223018,Anastasia Kovaleva,15
+RUS,215291,Adelina Baravi,15
+RUS,220390,Nina Rudiukova,15
+RUS,201515,Alisa Kleybanova,15
+RUS,221058,Maria Daniels Sierra,14
+RUS,215245,Svetlana Iansitova,14
+RUS,216136,Anastasia Kharitonova,13
+RUS,215015,Karine Sarkisova,13
+RUS,213870,Alija Merdeeva,13
+RUS,111193,Alexander Vasilenko,12
+RUS,221352,Polina Kozyreva,12
+RUS,221952,Ekaterina Maklakova,12
+RUS,104707,Denis Matsukevitch,12
+RUS,106051,Shalva Dzhanashia,12
+RUS,239158,Daria Zelinskaya,12
+RUS,211430,Ksenia Kolesnikova,12
+RUS,104098,Dmitry Tursunov,11
+RUS,222297,Maria Kozyreva,11
+RUS,214340,Maria Zotova,11
+RUS,106273,Ronald Slobodchikov,11
+RUS,211959,Ksenija Sharifova,11
+RUS,104980,Anton Zaitsev,11
+RUS,216371,Daria Solovyeva,11
+RUS,123847,Bogdan Bobrov,11
+RUS,215176,Anastasia Veselova,11
+RUS,222598,Vladislava Petrovskaia,11
+RUS,216089,Aleksandra Kulik,10
+RUS,221350,Vilena Petrova,10
+RUS,220590,Avelina Sayfetdinova,10
+RUS,223289,Anastasiya Apalikhina,10
+RUS,222924,Anna Chekanskaya,10
+RUS,214511,Anastasia Bursa,10
+RUS,223307,Elizaveta Morozova,9
+RUS,221375,Alisa Kummel,9
+RUS,214273,Ksenia Kuznetsova,9
+RUS,222961,Alina Mukhortova,9
+RUS,222155,Ekaterina Nikiforova,9
+RUS,200764,Elena Bovina,9
+RUS,221346,Anastasia Mozgaleva,8
+RUS,214515,Anna Iakovleva,8
+RUS,221721,Elizaveta Kuznetsova,8
+RUS,207686,Alexander Shevchenko,8
+RUS,221462,Mariya Krasakova,8
+RUS,202526,Marina Shamayko,8
+RUS,222044,Victoria Borodulina,8
+RUS,244077,Aglaya Fedorova,7
+RUS,105892,Alexandr Igoshin,7
+RUS,220953,Anastasia Mironova,7
+RUS,221278,Alina Shcherbinina,7
+RUS,211584,Diana Shevchenko,7
+RUS,214938,Alana Tuayeva,7
+RUS,105958,Richard Muzaev,7
+RUS,222481,Elena Korokozidi,7
+RUS,206187,Varvara Kuznetsova,7
+RUS,211376,Sofia Vaynberg,7
+RUS,219862,Daniella Medvedeva,6
+RUS,223302,Kira Pavlova,6
+RUS,220810,Ksenia Tarasova,6
+RUS,233718,Maria Sholokhova,6
+RUS,220775,Sofia Sharonova,6
+RUS,126169,Ilya Vasilyev,6
+RUS,200070,Kirill Kivattsev,6
+RUS,217897,Anna Davydova,6
+RUS,222316,Irina Shchetinina,6
+RUS,207609,Alexey Zakharov,6
+RUS,222829,Mayya Gorbunova,6
+RUS,223153,Maria Mikhailova,6
+RUS,223145,Maria Dzemeshkevich,6
+RUS,213951,Sabina Shaydullina,6
+RUS,223325,Polina Iatcenko,5
+RUS,214175,Natalia Belova,5
+RUS,203442,Aminat Kushkhova,5
+RUS,214994,Polina Novikova,5
+RUS,106053,Philip Davydenko,5
+RUS,222795,Alina Lebedeva,5
+RUS,221525,Ksenia Khlynova,5
+RUS,222785,Nadezda Khalturina,5
+RUS,238204,Zlata Yankovskaya,5
+RUS,202620,Yuliya Kalabina,5
+RUS,221591,Dinara Alloyarova,5
+RUS,211824,Anastasiya Rychagova,5
+RUS,215236,Maria Kononova,5
+RUS,215920,Polina Nazarchuk,5
+RUS,220407,Liubov Demidova,5
+RUS,221238,Elizaveta Dementyeva,5
+RUS,214658,Lusine Avanesyan,5
+RUS,221347,Stanislava Bobrovnikova,5
+RUS,220585,Anastasia Kuprina,5
+RUS,222977,Dana Shakirova,5
+RUS,220378,Azaliya Badegyeva,4
+RUS,206133,Yanina Darishina,4
+RUS,222065,Sofiia Likhacheva,4
+RUS,215464,Aleksandra Kuznetsova,4
+RUS,216114,Elizaveta Volodko,4
+RUS,222495,Kristina Volgapkina,4
+RUS,220280,Nasty Surkova,4
+RUS,221358,Diana Nekhorosheva,4
+RUS,106215,Mikhail Vaks,4
+RUS,220515,Kamilla Kokeladze,4
+RUS,211825,Anastasiya Saitova,4
+RUS,214339,Arina Petrova,4
+RUS,222779,Elizaveta Shebekina,4
+RUS,245135,Yan Bondarevskiy,4
+RUS,105533,Dmitry Surchenko,4
+RUS,221215,Alisa Rastegaeva,4
+RUS,201438,Ekaterina Bychkova,3
+RUS,105645,Alexander Lobkov,3
+RUS,214221,Ralina Kalimullina,3
+RUS,214259,Valeriya Denisenko,3
+RUS,111194,Evgeny Elistratov,3
+RUS,213977,Yulia Bryzgalova,3
+RUS,220656,Elizaveta Koklina,3
+RUS,214513,Yulia Sokolovskaya,3
+RUS,240999,Anna Zyryanova,3
+RUS,221515,Maria Andrienko,3
+RUS,215116,Melissa Ishuan Ifidzhen,3
+RUS,221246,Kristina Kudryavtseva,3
+RUS,224483,Aglaya Zaynieva,3
+RUS,203380,Julia Valetova,3
+RUS,221605,Polina Pavlova,2
+RUS,221726,Dasha Borodatova,2
+RUS,222568,Dariia Monakhova,2
+RUS,144890,Dimitriy Voronin,2
+RUS,239422,Edda Mamedova,2
+RUS,215129,Alexandra Dubrovina,2
+RUS,223070,Angelina Daniukova,2
+RUS,220398,Kristina Sorokolet,2
+RUS,213921,Aida Kalimullina,2
+RUS,223178,Aleksandra Melnikova,2
+RUS,208230,Alibek Kachmazov,2
+RUS,230883,Lidiia Rasskovskaia,2
+RUS,238206,Evelina Takhmazyan,2
+RUS,214192,Sofia Salimova,2
+RUS,122272,Kirill Komarov,2
+RUS,207649,Savriyan Danilov,2
+RUS,222793,Arina Atyushova,2
+RUS,223061,Maria Nikitina,2
+RUS,243424,Elina Zakharova,2
+RUS,220899,Polina Akimova,2
+RUS,239451,Anastasia Uspenskaia,2
+RUS,223670,Diana Shnaider,2
+RUS,220503,Ekaterina Kholopenko,2
+RUS,220584,Sofya Treshcheva,2
+RUS,221113,Anastasiya Kostromitina,2
+RUS,215024,Kristina Kislyak,2
+RUS,105545,Mikhail Fufygin,2
+RUS,222962,Sofia Matiushova,2
+RUS,219932,Polina Avdzhiyan,2
+RUS,200594,Kristian Lozan,2
+RUS,223058,Ekaterina Kabanova,1
+RUS,111443,Vladimir Polyakov,1
+RUS,223303,Darina Leonenko,1
+RUS,222743,Vasilisa Belonog,1
+RUS,207294,Roman Blokhin,1
+RUS,215803,Daria Shelomentseva,1
+RUS,211712,Polina Novoselova,1
+RUS,222786,Mariya Polishchuk,1
+RUS,132204,Matvey Khomentovskiy,1
+RUS,206281,Mayya Katsitadze,1
+RUS,223177,Inga Komleva,1
+RUS,223109,Kristina Voronina,1
+RUS,214536,Kamilla Galieva,1
+RUS,221774,Marina Magai,1
+RUS,223304,Victoria Matasova,1
+RUS,223063,Katerina Petrova,1
+RUS,243425,Anastasia Stepina,1
+RUS,219640,Maria Mikhaylova,1
+RUS,201371,Vera Dushevina,1
+RUS,223056,Anna Kabanova,1
+RUS,222319,Darya Gaifullina,1
+RUS,221313,Syuzen Afifi,1
+RUS,216184,Nina Olyanovskaya,1
+RUS,134834,Artem Strokan,1
+RUS,222557,Alina Trynkina,1
+RUS,213792,Sofia Smagina,1
+RUS,200130,Alexander Ovcharov,1
+RUS,222539,Mariam Karadzhaeva,1
+RUS,233742,Yaroslava Bartashevich,1
+RUS,215598,Olesya Nesterovich,1
+RUS,214289,Kseniia Bekker,1
+RUS,214094,Vera Aleshcheva,1
+RUS,220246,Daria Lukyanova,1
+RUS,221560,Anna Lytneva,1
+RUS,215646,Daria Rakitskaya,1
+RUS,241014,Elizaveta Gavrilova,1
+RUS,215235,Ulyana Shirokova,1
+RUS,126720,Boris Pokotilov,1
+RUS,222687,Margarita Ten,1
+RUS,222153,Alyona Anufrenkova,1
+RUS,220098,Shakhzoda Asimova,1
+RUS,221646,Daria Soldatova,1
+RUS,218328,Arina Kuznetsova,1
+RUS,221208,Alena Nikishina,1
+RUS,222778,Olga Lesnikova,1
+RUS,220612,Anna Khudoley,1
+RUS,105886,Anton Galkin,1
+RUS,231643,Anastasiya Feklistova,1
+RUS,104783,Mikhail Ledovskikh,1
+RUS,105824,Kirill Dmitriev,1
+RUS,221398,Daria Frayman,1
+RUS,241743,Valeriia Krokhotina,1
+RUS,223290,Violetta Borodina,1
+RUS,203536,Nadezda Gorbachkova,1
+SAM,210871,Steffi Carruthers,30
+SGP,221105,Hx Izabella Tan,4
+SGP,221824,Y kit Nicole Tan,1
+SGP,221106,Lynelle En Tong Lim,1
+SGP,222117,Michelle Yeo,1
+SGP,221813,Ashley Kei Yim,1
+SIN,210740,Stefanie Tan,34
+SIN,215858,Charmaine Shi Yi Seah,10
+SIN,215091,Sarah Pang,5
+SLO,214461,Tamara Zidansek,202
+SLO,201657,Nastja Kolar,172
+SLO,105641,Blaz Rola,165
+SLO,203435,Dalila Jakupovic,157
+SLO,105379,Aljaz Bedene,152
+SLO,211967,Nina Potocnik,145
+SLO,201555,Polona Hercog,142
+SLO,104882,Blaz Kavcic,140
+SLO,215219,Kaja Juvan,128
+SLO,214460,Manca Pislak,102
+SLO,220713,Nika Radisic,75
+SLO,220662,Veronika Erjavec,70
+SLO,211738,Pia Cuk,56
+SLO,222458,Pia Lovric,47
+SLO,221151,Tina Cvetkovic,46
+SLO,221139,Ziva Falkner,45
+SLO,104813,Grega Zemlja,43
+SLO,201656,Tadeja Majeric,33
+SLO,216038,Kristina Novak,19
+SLO,221140,Noka Juric,15
+SLO,203457,Polona Rebersak,13
+SLO,215967,Sasa Klanecek,13
+SLO,213744,Eva Zagorac,10
+SLO,223308,Ela Nala Milic,7
+SLO,106247,Nik Razborsek,6
+SLO,221261,Nika Zupancic,5
+SLO,220463,Anja Gal,4
+SLO,214147,Pia Brglez,4
+SLO,105587,Tom Kocevar Desman,4
+SLO,223337,Petja Drame,3
+SLO,223445,Meta Marenk,3
+SLO,214026,Natalija Sipek,2
+SLO,230885,Masa Viriant,2
+SLO,216008,Moni Potrc,2
+SLO,220527,Maja Makoric,2
+SLO,202088,Sven Lah,1
+SLO,144753,Aljaz Jakob Kaplja,1
+SLO,215760,Nina Kolar,1
+SLO,223442,Alja Belinger,1
+SLO,133766,Dorian Tomaz Janezic,1
+SLO,223085,Tara Katarina Milic,1
+SLO,126473,Aljaz Radinski,1
+SLO,222619,Anali Kocevar,1
+SLO,239426,Hana Becirovic Novak,1
+SLO,133773,Domen Gostincar,1
+SLO,223441,Tajda Zalokar,1
+SRB,104925,Novak Djokovic,289
+SRB,105936,Filip Krajinovic,178
+SRB,111513,Laslo Djere,168
+SRB,105583,Dusan Lajovic,156
+SRB,211411,Nina Stojanovic,148
+SRB,211407,Dejana Radanovic,146
+SRB,110748,Nikola Milojevic,143
+SRB,203429,Tamara Curovic,141
+SRB,202434,Aleksandra Krunic,136
+SRB,211412,Bojana Marinkovic,132
+SRB,210337,Natalija Kostic,131
+SRB,211736,Ivana Jorovic,128
+SRB,200175,Miomir Kecmanovic,125
+SRB,104678,Viktor Troicki,122
+SRB,105905,Danilo Petrovic,110
+SRB,215337,Olga Danilovic,106
+SRB,106353,Pedja Krstin,103
+SRB,206049,Jovana Jaksic,101
+SRB,203303,Ana Veselinovic,72
+SRB,220430,Mihaela Djakovic,62
+SRB,105181,Miljan Zekic,61
+SRB,204301,Barbara Bonic,54
+SRB,104386,Janko Tipsarevic,54
+SRB,216007,Draginja Vukovic,54
+SRB,214660,Katarina Kozarov,42
+SRB,220822,Andjela Jocovic,35
+SRB,220556,Tamara Malesevic,34
+SRB,215293,Jana Bojovic,34
+SRB,106311,Marko Tepavac,33
+SRB,201347,Jelena Jankovic,32
+SRB,220429,Elena Milovanovic,31
+SRB,221435,Doroteja Joksovic,27
+SRB,203349,Milana Spremo,25
+SRB,215393,Tijana Spasojevic,23
+SRB,105677,Nikola Cacic,23
+SRB,210781,Kristina Ostojic,22
+SRB,223343,Nikol Palecek,19
+SRB,216565,Nevena Sokovic,19
+SRB,201570,Vesna Dolonc,19
+SRB,221108,Elena Gemovic,18
+SRB,215905,Bojana Markovic,16
+SRB,220085,Sara Gvozdenovic,15
+SRB,201421,Ana Ivanovic,15
+SRB,206051,Marina Kachar,14
+SRB,106358,Miki Jankovic,11
+SRB,215296,Kristina Miletic,11
+SRB,222292,Jelena Kovac,10
+SRB,214601,Jelena Lukic,10
+SRB,105661,Ilija Vucic,9
+SRB,220063,Tamara Milosevic,9
+SRB,221175,Jovana Babic,7
+SRB,201587,Bojana Jovanovski,7
+SRB,105831,Marko Djokovic,6
+SRB,239392,Mia Ristic,6
+SRB,203488,Doroteja Eric,5
+SRB,239476,Natalija Senic,5
+SRB,215578,Andrijana Stoilkovic,5
+SRB,215294,Andjela Sebrek,5
+SRB,216335,Andjela Skrobonja,4
+SRB,239474,Andrea Obradovic,4
+SRB,212010,Vanja Klaric,4
+SRB,220800,Dejana Milenkovic,4
+SRB,220294,Tara Gancev,4
+SRB,213924,Tamara Tomic,3
+SRB,239384,Fatma Idrizovic,3
+SRB,202327,Marko Miladinovic,3
+SRB,214704,Jovana Vukovic,3
+SRB,233746,Andjela Lopicic,3
+SRB,209098,Hamad Medjedovic,3
+SRB,236957,Lola Radivojevic,3
+SRB,216563,Katarina Kostic,2
+SRB,206259,Katarina Adamovic,2
+SRB,239486,Nevena Kolarevic,2
+SRB,214519,Mila Masic,2
+SRB,222293,Andjela Vidovic,2
+SRB,214283,Mila Popivoda,2
+SRB,221934,Mija Ljubic,2
+SRB,238067,Anastasija Radojevic,2
+SRB,215297,Anastassia Pantelic,2
+SRB,206217,Andjela Novcic,2
+SRB,220661,Vera Markovic,1
+SRB,138688,Milan Drinic,1
+SRB,216087,Mia Mijatovic,1
+SRB,222678,Senka Deletic,1
+SRB,222543,Jelena Marjanovic,1
+SRB,104306,Ivan Bjelica,1
+SRB,214655,Aleksandra Stosic,1
+SRB,214703,Isidora Zivkovic,1
+SRB,206258,Dunja Stamenkovic,1
+SRB,105440,Arsenije Zlatanovic,1
+SRB,106046,Nebojsa Peric,1
+SRB,222833,Ema Turudija,1
+SRB,239490,Anastasija Arsic,1
+SRB,214747,Mila Mejic,1
+SRB,220660,Milica Vujovic,1
+SRB,222542,Iva Divac,1
+SRI,220453,Adithya Karunaratne,59
+SRI,214617,Nethmi Himashi Waduge,4
+SRI,212244,Amreetha Muttiah,3
+SRI,221852,Anika Seneviratne,2
+SRI,212294,Thisuri Molligoda,2
+SRI,134886,Sharmal Dissanayake,2
+SRI,214616,Medhira Samarasinghe,1
+SRI,221854,Savini Jayasuriya,1
+SRI,104631,Harshana Godamanna,1
+SUI,103819,Roger Federer,190
+SUI,105967,Henri Laaksonen,189
+SUI,202424,Conny Perrin,189
+SUI,203530,Viktorija Golubic,180
+SUI,213525,Jil Belen Teichmann,171
+SUI,213837,Ylena In Albon,166
+SUI,202505,Belinda Bencic,165
+SUI,104527,Stan Wawrinka,147
+SUI,215259,Leonie Kung,142
+SUI,214826,Susan Bandecchi,140
+SUI,201527,Stefanie Voegele,139
+SUI,206175,Tess Sugnaux,135
+SUI,215899,Simona Waltert,121
+SUI,206419,Karin Kennel,118
+SUI,214119,Rebeka Masarova,109
+SUI,203326,Lisa Sabino,106
+SUI,211557,Nina Stadler,101
+SUI,215111,Joanne Zuger,92
+SUI,215138,Lulu Radovcic,80
+SUI,201490,Timea Bacsinszky,80
+SUI,215697,Arlinda Rushiti,79
+SUI,200067,Patty Schnyder,75
+SUI,144817,Marc Andrea Huesler,74
+SUI,220489,Valentina Ryser,72
+SUI,214930,Jenny Duerst,62
+SUI,216045,Svenja Ochsner,62
+SUI,211821,Chiara Grimm,58
+SUI,201670,Amra Sadikovic,53
+SUI,103843,Marco Chiudinelli,53
+SUI,215472,Fiona Ganz,53
+SUI,215712,Nicole Gadient,52
+SUI,221254,Nadine Keller,48
+SUI,106310,Alexander Ritschard,45
+SUI,220593,Kristina Milenkovic,43
+SUI,202631,Lara Michel,42
+SUI,105161,Yann Marti,40
+SUI,220769,Bojana Klincov,38
+SUI,221062,Marie Mettraux,38
+SUI,215021,Naima Karamoko,37
+SUI,206144,Xenia Knoll,35
+SUI,221386,Sebastianna Scilipoti,35
+SUI,105928,Luca Margaroli,34
+SUI,210108,Sandy Marti,33
+SUI,214980,Jessica Crivelletto,24
+SUI,104847,Adrien Bossel,23
+SUI,215796,Corina Mader,22
+SUI,201472,Romina Oprandi,20
+SUI,105757,Sandro Ehrat,18
+SUI,215589,Pauline Wuarin,18
+SUI,134472,Antoine Bellier,13
+SUI,214372,Daniela Vukovic,13
+SUI,215881,Aline Thommen,13
+SUI,211884,Chiara Frapolli,12
+SUI,208502,Dominic Stephan Stricker,11
+SUI,221153,Sophie Luescher,11
+SUI,233738,Lea Magun,11
+SUI,214455,Andrina Peer,10
+SUI,213526,Sara Ottomano,10
+SUI,216173,Katerina Tsygourova,8
+SUI,126627,Johan Nikles,7
+SUI,221159,Alina Granwehr,5
+SUI,106391,Adrian Bodmer,5
+SUI,215473,Sina Zuger,4
+SUI,214971,Kim Fontana,4
+SUI,221161,Melody Hefti,3
+SUI,232447,Celine Naef,3
+SUI,214827,Tamara Arnold,3
+SUI,132573,Luca Castelnuovo,3
+SUI,206418,Imane Maelle Kocher,3
+SUI,105369,Riccardo Maiga,2
+SUI,207605,Jakub Paul,2
+SUI,233735,Julie Sappl,2
+SUI,132575,Raphael Baltensperger,2
+SUI,215302,Chiara Merico,2
+SUI,209857,Leandro Riedi,2
+SUI,223064,Natalia Fehr,2
+SUI,125842,Adam Moundir,1
+SUI,221156,Michele Temperli,1
+SUI,221320,Sophia Unger,1
+SUI,144908,Arturo Schmidt,1
+SUI,200329,Remy Bertola,1
+SUI,223435,Milla Sequeira,1
+SUI,211282,Samantha Koelliker,1
+SUI,214824,Medina Sahinagic,1
+SUI,144919,Yann Wojcik,1
+SUI,233734,Arianna Nepomuceno,1
+SUI,222160,Sara Paunovic,1
+SUI,215559,Laura Tinello,1
+SVK,214149,Viktoria Kuzmova,205
+SVK,106075,Jozef Kovalik,182
+SVK,105413,Andrej Martin,177
+SVK,105613,Norbert Gombos,168
+SVK,211685,Rebecca Sramkova,153
+SVK,105041,Lukas Lacko,149
+SVK,205875,Chantal Skamlova,139
+SVK,203533,Anna Karolina Schmiedlova,138
+SVK,106110,Filip Horansky,127
+SVK,105373,Martin Klizan,127
+SVK,202450,Jana Cepelova,126
+SVK,214295,Tereza Mihalikova,126
+SVK,201568,Kristina Kucova,114
+SVK,201495,Dominika Cibulkova,114
+SVK,202636,Zuzana Zlochova,93
+SVK,144684,Alex Molcan,91
+SVK,215077,Viktoria Morvayova,89
+SVK,201517,Magdalena Rybarikova,87
+SVK,202922,Michaela Honcova,84
+SVK,203428,Vivien Juhaszova,73
+SVK,201649,Lenka Jurikova,60
+SVK,214750,Timea Jaruskova,59
+SVK,127760,Lukas Klein,57
+SVK,221382,Katarina Kuzmova,54
+SVK,221309,Sofia Milatova,50
+SVK,214123,Kristina Schmiedlova,45
+SVK,221150,Eszter Meri,41
+SVK,214716,Jana Jablonovska,41
+SVK,220160,Romana Cisovska,37
+SVK,215505,Laura Svatikova,35
+SVK,213879,Barbara Kotelesova,32
+SVK,211310,Ingrid Vojcinakova,32
+SVK,213594,Sandra Jamrichova,28
+SVK,216033,Alica Rusova,28
+SVK,201290,Daniela Hantuchova,28
+SVK,211323,Natalia Vajdova,26
+SVK,215607,Laura Maluniakova,18
+SVK,222637,Anika Jaskova,16
+SVK,234482,Yvonna Zuffova,11
+SVK,221154,Klara Ondrejcekova,11
+SVK,216084,Viktoria Surova,8
+SVK,213016,Petra Uberalova,8
+SVK,222705,Michaela Kadleckova,8
+SVK,232443,Sara Suchankova,7
+SVK,222092,Radka Zelnickova,7
+SVK,103938,Igor Zelenay,6
+SVK,233743,Nikola Daubnerova,6
+SVK,235154,Mia Chudejova,6
+SVK,220291,Lenka Stara,5
+SVK,222620,Martina Marusinova,5
+SVK,222544,Barbora Cibakova,5
+SVK,200403,Patrik Nema,5
+SVK,126979,Martin Blasko,4
+SVK,223327,Lucia Krivosudska,4
+SVK,106307,Patrik Fabian,4
+SVK,221342,Bianca Behulova,3
+SVK,202315,Tomas Liska,3
+SVK,233747,Nina Vargova,3
+SVK,214431,Barbora Palcatova,3
+SVK,220292,Kiara Petrovicka,3
+SVK,245109,Andrej Glvac,3
+SVK,210334,Simonka Parajova,3
+SVK,223016,Zuzana Pavelekova,2
+SVK,214852,Martina Husarova,2
+SVK,221464,Ema Bolebruchova,2
+SVK,239112,Lucia Pinkova,2
+SVK,241718,Vanda Vargova,2
+SVK,235161,Irina Balus,2
+SVK,214862,Martina Okalova,2
+SVK,223150,Ela Platenikova,1
+SVK,216278,Martina Fricova,1
+SVK,222937,Diana Mascenikova,1
+SVK,235160,Salma Drugdova,1
+SVK,223092,Klara Sameliak,1
+SVK,241022,Victoria Chramcova,1
+SVK,202938,Zuzana Luknarova,1
+SVK,222621,Emma Hubekova,1
+SVK,222126,Natalia Schwarcova,1
+SVK,213925,Natalia Zorgovska,1
+SVK,117363,Matej Maruscak,1
+SVK,236983,Natalia Slaba,1
+SVK,126540,Peter Vajda,1
+SVK,220293,Adriana Senkarova,1
+SVK,223154,Laura Beresova,1
+SVK,105043,Marek Semjan,1
+SVK,220270,Timea Pavlickova,1
+SVK,215025,Tamara Kupkova,1
+SVK,222922,Patricia Hlinkova,1
+SVK,221253,Petra Seresova,1
+SVK,221007,Nina Stankovska,1
+SWE,111200,Elias Ymer,174
+SWE,144707,Mikael Ymer,160
+SWE,202490,Rebecca Peterson,154
+SWE,211541,Jacqueline Cabaj Awad,145
+SWE,213714,Fanny Ostlund,134
+SWE,214405,Mirjam Bjorklund,116
+SWE,201596,Johanna Larsson,102
+SWE,214973,Linnea Malmqvist,84
+SWE,208939,Marina Yudanov,72
+SWE,206178,Susanne Celik,66
+SWE,211643,Kajsa Rinaldo Persson,53
+SWE,216385,Caijsa Wilda Hennemann,51
+SWE,210957,Cornelia Lister,51
+SWE,215926,Julita Saner,49
+SWE,105436,Markus Eriksson,49
+SWE,204379,Brenda Njuki,41
+SWE,214438,Ida Jarlskog,37
+SWE,105872,Christian Lindell,33
+SWE,221357,Maria Fernanda Morales,32
+SWE,206228,Anette Munozova,30
+SWE,219984,Melis Yasar,29
+SWE,204381,Louise Brunskog,28
+SWE,220762,Julia Lovqvist,25
+SWE,214324,Julia Rosenquist,22
+SWE,220321,Jacquline Nylander Altelius,19
+SWE,220331,Molly Helgesson,17
+SWE,222041,Maja Radenkovic,14
+SWE,201653,Ellen Allgurin,13
+SWE,221369,Lisa Zaar,12
+SWE,106035,Isak Arvidsson,12
+SWE,111197,Jonathan Mridha,12
+SWE,215175,Alexandra Viktorovitch,12
+SWE,223184,Vanessa Ersoz,12
+SWE,110596,Fred Simonsson,11
+SWE,106064,Lucas Renard,10
+SWE,105113,Patrik Rosenholm,10
+SWE,216384,Maria Petrovic,9
+SWE,144797,Carl Soderlund,9
+SWE,204255,Paulina Milosavljevic,9
+SWE,233740,Izabelle Persson,8
+SWE,105427,Milos Sekulic,7
+SWE,221410,Fanny Norin,7
+SWE,220322,Julia Keranovic,6
+SWE,222043,Victoria Carlsten,6
+SWE,215515,Katerina Filip,5
+SWE,221084,Olivia Malm,5
+SWE,221085,Sydney Berlin,4
+SWE,222842,Louise Wikander,4
+SWE,220767,Klara Milicevic,4
+SWE,122585,Andre Goransson,4
+SWE,213871,Emma Ek,3
+SWE,134767,Sam Taylor,3
+SWE,219971,Matilda Lenngren,3
+SWE,213693,Sandra Ortevall,3
+SWE,126753,Daniel Appelgren,3
+SWE,221712,Agnes Gustafsson,3
+SWE,200418,Karl Friberg,3
+SWE,214921,Adna Sofradzija,3
+SWE,110647,Filip Bergevi,2
+SWE,219865,Rebecca Ehn,2
+SWE,111201,Christoffer Solberg,2
+SWE,202339,Linus Frost,2
+SWE,221565,Wilma Bergqvist,2
+SWE,222236,Sara Dahlstrom,2
+SWE,126760,Christian Samuelsson,2
+SWE,214922,Rebecca Gustafson,2
+SWE,200419,Jonas Eriksson Ziverts,2
+SWE,220943,Johanna Strom,2
+SWE,212041,Paulina Wulcan,2
+SWE,221409,Elin Vilen,2
+SWE,215108,Sara Amiri,2
+SWE,220779,Martina Petrovic,1
+SWE,220376,Therese Ekdahl,1
+SWE,221033,Tina Vlajic,1
+SWE,220755,Karolina Tilander,1
+SWE,126758,Simon Freund,1
+SWE,202432,Hilda Melander,1
+SWE,222054,Arijana Korac,1
+SWE,111784,Gustav Hansson,1
+SWE,133177,Robin Thour,1
+SWE,221048,Nathalie Johansson,1
+SWE,205924,Malin Ulvefeldt,1
+SWE,103811,Andreas Siljestrom,1
+SWE,219947,Victoria Saldh,1
+SWE,221338,Smilla Kjaergaard,1
+SWE,200113,Eric Samuelsson,1
+SWE,222132,Marta Louise Soederberg,1
+THA,204223,Peangtarn Plipuech,122
+THA,202503,Luksika Kumkhum,120
+THA,214277,Bunyawi Thamchaiwat,94
+THA,201682,Nudnida Luangnam,92
+THA,211756,Patcharin Cheapchandej,66
+THA,216566,Mananchaya Sawangkaew,43
+THA,201679,Varatchaya Wongteanchai,41
+THA,213828,Chompoothip Jandakate,36
+THA,215186,Watsachol Sawasdee,34
+THA,106397,Wishaya Trongcharoenchaikul,33
+THA,213841,Tamachan Momkoonthod,32
+THA,201631,Nicha Lertpitaksinchai,29
+THA,201598,Noppawan Lertcheewakarn,29
+THA,220392,Punnin Kovapitukted,27
+THA,206154,Varunya Wongteanchai,22
+THA,220598,Aunchisa Chanta,22
+THA,206151,Kamonwan Buayam,21
+THA,220171,Supapitch Kuearum,16
+THA,204355,Katherine Westbury,13
+THA,213826,Plobrung Plipuech,12
+THA,111181,Pruchya Isarow,9
+THA,211974,Chanikarn Silakul,6
+THA,210892,Apichaya Runglerdkriangkrai,6
+THA,127143,Jirat Navasirisomboon,5
+THA,223005,Anchisa Chanta,5
+THA,215187,Yinglak Jittakoat,5
+THA,200080,Puriwat Chatpatcharoen,4
+THA,105579,Kittipong Wachiramanowong,4
+THA,220597,Thasaporn Naklo,3
+THA,216329,Lunda Kumhom,3
+THA,207139,Palaphoom Kovapitukted,3
+THA,103921,Sonchat Ratiwatana,2
+THA,220393,Mai Napatt Nirundorn,2
+THA,219681,Rada Manataweewat,2
+THA,222969,Vera Deepoem,1
+THA,103920,Sanchai Ratiwatana,1
+THA,206881,Chanon Phunsawat,1
+THA,127154,Suthinan Tanthaseraneewat,1
+THA,111183,Chayanon Kaewsuto,1
+THA,221277,Warisara Lee,1
+THA,223113,Yatawee Chimcham,1
+THA,121840,Chaleechan Tanasugarn,1
+THA,220176,Natcharee Teerachodjiranon,1
+THA,222413,Natasha Sengphrachanh,1
+THA,211973,Chatchaya Sakchatchawan,1
+THA,216290,Thitirat Kanaphuet,1
+THA,216291,Dolavee Tumthong,1
+TJK,221828,Anastasiya Tursunova,3
+TJK,219422,Takhmina Burkhanova,2
+TPE,105359,Jason Jung,164
+TPE,201444,Su Wei Hsieh,143
+TPE,210926,Pei Chi Lee,124
+TPE,202693,Ya Hsuan Lee,116
+TPE,220466,Joanna Garland,86
+TPE,201578,Kai Chen Chang,84
+TPE,126555,Tung Lin Wu,80
+TPE,104229,Yen Hsun Lu,80
+TPE,206111,Hua Chen Lee,74
+TPE,215314,En Shuo Liang,69
+TPE,105738,Tsung Hua Yang,67
+TPE,210931,Ching Wen Hsu,54
+TPE,202358,Chun Hsin Tseng,51
+TPE,104499,Jimmy Wang,27
+TPE,104251,Ti Chen,25
+TPE,220500,Ya Hsin Lee,20
+TPE,214589,I Hsuan Cho,19
+TPE,214587,Pei Hsuan Chen,17
+TPE,134120,Kuan Yi Lee,16
+TPE,215315,Yi Tsen Cho,15
+TPE,211694,Yu Ting Hsieh,12
+TPE,127187,Chien Hsun Lo,11
+TPE,202359,Chin Wei Chan,10
+TPE,200318,Yu Hsiou Hsu,7
+TPE,105448,Hsien Yin Peng,6
+TPE,105850,Cheng Peng Hsieh,6
+TPE,144726,Shao Fan Liu,5
+TPE,105006,Chu Huan Yi,5
+TPE,214588,Ya Yun Pai,5
+TPE,222390,Ya Yi Yang,3
+TPE,126556,Wei De Lin,3
+TPE,105490,Jui Chen Hung,3
+TPE,215579,Hsin Yuan Shih,3
+TPE,105946,Liang Chi Huang,3
+TPE,202052,Ray Ho,2
+TPE,201384,Chia Jung Chuang,2
+TPE,106396,Cheng Yu Yu,2
+TPE,215038,Pei Ju Chien,2
+TPE,214591,Fang Hsien Wu,2
+TPE,213751,En Pei Huang,2
+TPE,215319,Yang Lee,2
+TPE,203318,Shu Ying Hsieh,1
+TPE,134113,Cing Yang Meng,1
+TPE,222412,Ke Syuan Jhang,1
+TPE,221745,Kuan Yi Lee,1
+TPE,122262,Wen Chun Liang,1
+TPE,138640,Liang Yu Richard Lin,1
+TRI,212272,Breana Stampfli,11
+TRI,206091,Yolande Leacock,8
+TRI,212165,Anneliese Rose,2
+TUN,202460,Ons Jabeur,189
+TUN,104291,Malek Jaziri,141
+TUN,214032,Chiraz Bechri,74
+TUN,109734,Skander Mansouri,24
+TUN,144826,Aziz Dougaz,19
+TUN,221767,Wiem Boubaker,11
+TUN,215474,Ferdaous Bahri,11
+TUN,221777,Feryel Ben Hassen,9
+TUN,214450,Mouna Bouzgarrou,9
+TUN,121411,Moez Chargui,7
+TUN,221974,Sarah Lisa Aubertin,7
+TUN,223448,Chahd Berriri,5
+TUN,221402,Nour Gueblaoui,4
+TUN,221764,Amal Gati,3
+TUN,230130,Hiba Heni,3
+TUN,225860,Lina Hachem,3
+TUN,223446,Ghalia Guizani,2
+TUN,221615,Amel Sammari,2
+TUN,232893,Linda Ajimi,2
+TUN,238083,Nadine Abid,2
+TUN,228913,Roua Limem,1
+TUN,239129,Lina Soussi,1
+TUN,223022,Amira Bargaoui,1
+TUR,201664,Pemra Ozgen,154
+TUR,201666,Cagla Buyukakcay,137
+TUR,201701,Basak Eraydin,125
+TUR,213998,Ipek Oz,121
+TUR,203534,Melis Sezer,116
+TUR,117356,Cem Ilkel,113
+TUR,214507,Berfu Cengiz,113
+TUR,203567,Ipek Soylu,112
+TUR,215879,Ilay Yoruk,77
+TUR,123795,Altug Celikbilek,76
+TUR,220309,Zeynep Sonmez,57
+TUR,206227,Cemre Anil,45
+TUR,104947,Marsel Ilhan,33
+TUR,220356,Doga Turkmen,30
+TUR,222803,Ozlem Uslu,24
+TUR,144985,Ergi Kirkin,16
+TUR,220798,Semra Aksu,13
+TUR,220797,Miray Konar,11
+TUR,220751,Melis Ayda Uyar,9
+TUR,222893,Melisa Senli,8
+TUR,215575,Selin Ovunc,8
+TUR,221341,Asli Ozcan,7
+TUR,245146,Zeynep Sena Sarioglan,7
+TUR,202557,Hulya Esen,7
+TUR,211689,Deniz Paykoc,7
+TUR,220279,Tuana Tinaztepe,7
+TUR,220173,Betina Tokac,6
+TUR,221379,Ilayda Baykan,6
+TUR,214359,Doga Selen Takunyaci,6
+TUR,220297,Selina Atay,6
+TUR,223118,Alara Ayaz,6
+TUR,216569,Zeynep  Sena Sarioglan,6
+TUR,220588,Beyda Baykal,6
+TUR,222762,Aysegul Mert,6
+TUR,214924,Basak Akbas,5
+TUR,223283,Zeynep Su Yavuz,5
+TUR,215439,Azradeniz Comlek,4
+TUR,223207,Dora Olgungul,4
+TUR,222856,Defne Cirpanli,4
+TUR,219927,Gozde Turhan,4
+TUR,224488,Duru Soke,3
+TUR,223017,Billur Gonlusen,3
+TUR,122589,Sefa Suluoglu,2
+TUR,211962,Muge Topsel,2
+TUR,200565,Cengiz Aksu,2
+TUR,105551,Anil Yuksel,2
+TUR,223119,Selin Lidya Sepken,2
+TUR,125833,Mert Naci Turker,2
+TUR,211422,Esen Kokce,2
+TUR,124126,Sarp Agabigun,2
+TUR,205949,Dilara Yurtkuran,2
+TUR,233736,Zeynep Erbakan,2
+TUR,224487,Mihrisah Yapici,2
+TUR,214000,Inci Ogut,2
+TUR,223316,Pelin Colak,2
+TUR,222957,Eda Arli,1
+TUR,215342,Ebru Zeynep Yazgan,1
+TUR,239494,Elif Albayrak,1
+TUR,224486,Lara Onal,1
+TUR,207568,Baran Cengiz,1
+TUR,214923,Ipek Cevik,1
+TUR,233737,Defne Erbakan,1
+TUR,207129,Yanki Erel,1
+TUR,106416,Muhammet Haylaz,1
+TUR,222938,Eda Numanoglu,1
+TUR,215903,Ekin Ercetin,1
+TUR,225863,Zeynep Bademci,1
+TUR,216423,Zeynep Erman,1
+TUR,223086,Beyza Yaniklar,1
+TUR,203535,Sultan Gonen,1
+TUR,213579,Yasmyn Gulman,1
+TUR,222976,Senem Ocal,1
+TUR,228110,Elif Tuana Gunal,1
+TUR,231644,Zeynep Ilker,1
+TUR,223311,Lara Eroglu,1
+TUR,215076,Seven Oral,1
+UKR,202494,Elina Svitolina,232
+UKR,104660,Sergiy Stakhovsky,178
+UKR,202628,Maryna Zanevska,162
+UKR,211843,Anhelina Kalinina,160
+UKR,211063,Valeriya Strakhova,145
+UKR,203462,Kateryna Kozlova,140
+UKR,202488,Valentyna Ivakhnenko,132
+UKR,215035,Dayana Yastremska,128
+UKR,105011,Illya Marchenko,128
+UKR,215290,Katarina Zavatska,128
+UKR,205941,Ganna Poznikhirenko,123
+UKR,213941,Anastasia Zarytska,123
+UKR,214158,Anastasiya Shoshyna,121
+UKR,201615,Lesia Tsurenko,120
+UKR,216146,Marta Kostyuk,120
+UKR,215554,Maryna Chernyshova,113
+UKR,201435,Kateryna Bondarenko,104
+UKR,203549,Olga Ianchuk,95
+UKR,206069,Marianna Zakarlyuk,91
+UKR,220750,Daria Snigur,70
+UKR,202911,Anastasiya Vasylyeva,59
+UKR,206403,Alona Fomina,57
+UKR,221114,Dasha Lopatetskaya,55
+UKR,105238,Alexandr Dolgopolov,53
+UKR,215553,Viktoriia Dema,43
+UKR,216319,Anastasiya Poplavska,41
+UKR,104920,Denys Molchanov,40
+UKR,213582,Kateryna Sliusar,40
+UKR,211472,Oleksandra Korashvili,38
+UKR,206070,Sofiya Kovalets,36
+UKR,221371,Lyubov Kostenko,34
+UKR,203541,Elizaveta Ianchuk,33
+UKR,214758,Gyulnara Nazarova,32
+UKR,202558,Veronika Kapshay,31
+UKR,220258,Viktoriya Petrenko,31
+UKR,222506,Anastasiya Konstantinovna Soboleva,30
+UKR,126964,Vitaliy Sachko,29
+UKR,203516,Nadiya Kolb,28
+UKR,211763,Anastasiya Fedoryshyn,28
+UKR,202679,Yuliya Lysa,27
+UKR,203492,Alyona Sotnikova,26
+UKR,106169,Vladyslav Manafov,23
+UKR,220633,Mariia Bergen,22
+UKR,105085,Artem Smirnov,21
+UKR,206137,Oleksandra Piskun,18
+UKR,220020,Elizabet Hamaliy,17
+UKR,134068,Vadym Ursu,17
+UKR,215765,Oleksandra Andrieieva,16
+UKR,213537,Olga Fridman,15
+UKR,200550,Vladyslav Orlov,14
+UKR,122471,Danylo Kalenichenko,14
+UKR,203297,Nadiya Kichenok,14
+UKR,220749,Mariya Poduraeva,12
+UKR,105130,Vladimir Uzhylovsky,12
+UKR,230120,Elena Grekul,10
+UKR,202622,Lyudmyla Kichenok,9
+UKR,220746,Anna Martemyanova,9
+UKR,216148,Anna Laguza,9
+UKR,221380,Polina Gubina,9
+UKR,201456,Olga Savchuk,9
+UKR,216207,Diana Khodan,9
+UKR,221534,Anna Parkhomenko,9
+UKR,214341,Katya Malikova,9
+UKR,216273,Yulia Starodubtsewa,8
+UKR,211495,Helen Ploskina,8
+UKR,214744,Angelina Shakhraychuk,8
+UKR,208071,Oleksii Krutykh,7
+UKR,232871,Mariya Dolzhenko,7
+UKR,239449,Krystyna Pochtovyk,7
+UKR,221940,Khrystyna Vozniak,7
+UKR,201489,Mariya Koryttseva,7
+UKR,222505,Sonya Kovalenko,7
+UKR,216564,Viktoriya Gogol,6
+UKR,222886,Sabina Zeynalova,6
+UKR,222738,Karyna Kachur,6
+UKR,215894,Alexandra Pisareva,5
+UKR,222702,Anastasiya Skorupska,5
+UKR,201377,Yuliya Beygelzimer,5
+UKR,221370,Anita Sahdiieva,5
+UKR,124124,Filipp Kekercheni,4
+UKR,215959,Olga Terletska,4
+UKR,201309,Tatiana Perebiynis,4
+UKR,222003,Mariia Kostiuk,4
+UKR,222589,Anna Pinaieva,4
+UKR,201416,Alona Bondarenko,4
+UKR,214757,Anastasiya Klymenko,4
+UKR,215582,Kateryna Popova,4
+UKR,245078,Sofiia Paladi,3
+UKR,210771,Olha Romanyshyn,3
+UKR,215727,Daria Orichkevitch,3
+UKR,245076,Anastasiya Lopata,3
+UKR,241018,Aliesia Reva,3
+UKR,222581,Anna Laura Hinka,2
+UKR,222585,Valeriia Cherfus,2
+UKR,220731,Ielyzaveta Skorokhodova,2
+UKR,215585,Anastasiia Gevel,2
+UKR,222744,Oleksandra Kudelska,2
+UKR,222580,Mariia Hlahola,2
+UKR,222739,Anastasiya Zholdakova,2
+UKR,212038,Veronika Stotyka,2
+UKR,221660,Anna Syrova,2
+UKR,232891,Alina Nesmianovych,2
+UKR,239170,Alisa Baranovska,1
+UKR,245077,Yelyzaveta Kotliar,1
+UKR,237471,Mariia Nikitash,1
+UKR,105079,Ivan Sergeyev,1
+UKR,220586,Anna Novikova,1
+UKR,216270,Diana Belalova,1
+UKR,126327,Artem Vu,1
+UKR,222584,Alexandra Fedorenko,1
+UKR,241021,Darya Volkova,1
+UKR,238085,Lika Peresypkina,1
+UKR,222741,Lolita Gukasyan,1
+UKR,215640,Lidiia Dashchenko,1
+UKR,222740,Mariia Hurieva,1
+UKR,213996,Anabel Ossombi,1
+UKR,213624,Anna Bogoslavets,1
+UKR,215953,Aza Petrova,1
+UKR,210262,Anastasia Koroliova,1
+UKR,221606,Anastasia Vorobyova,1
+UKR,241023,Daria Diatlova,1
+UKR,245098,Sofiia Mykhailets,1
+UKR,220748,Alina Tsyurpalevych,1
+UKR,122321,Marat Deviatiarov,1
+UKR,220587,Valeriya Rozenkova,1
+UKR,212050,Nataliya Pogribnyak,1
+UKR,211739,Olena Kyrpot,1
+UNK,221697,Yu Chen,6
+UNK,221661,Eunji Oh,1
+UNK,208518,Hazem Naw,1
+URU,104655,Pablo Cuevas,155
+URU,105899,Martin Cuevas,62
+URU,215787,Florencia Rossi,11
+URU,104395,Marcel Felder,4
+URU,127570,Rodrigo Arus,3
+URU,221807,Fernanda Secinaro,2
+URU,214606,Margot Mercier,2
+URU,221816,Guillermina Grant,2
+URU,221783,Isabella Tiscornia,1
+URU,108709,Dario Acosta,1
+URU,208028,Francisco Llanes,1
+URU,200537,Nicolas Xiviller,1
+USA,126203,Taylor Fritz,194
+USA,213550,Sofia Kenin,192
+USA,106045,Denis Kudla,183
+USA,126207,Frances Tiafoe,179
+USA,106216,Bjorn Fratangelo,175
+USA,104545,John Isner,166
+USA,206108,Jennifer Brady,164
+USA,126205,Tommy Paul,162
+USA,202481,Chi Chi Scholl,157
+USA,201483,Madison Brengle,157
+USA,201478,Varvara Lepchenko,157
+USA,111456,Mackenzie McDonald,155
+USA,124014,Ernesto Escobedo,155
+USA,211095,Bernarda Pera,154
+USA,203389,Danielle Rose Collins,149
+USA,214007,Dasha Ivanova,148
+USA,105449,Steve Johnson,146
+USA,201539,Christina Mchale,146
+USA,202468,Jessica Pegula,145
+USA,211222,Jamie Loeb,145
+USA,203500,Sachia Vickery,143
+USA,111581,Michael Mmoh,142
+USA,124187,Reilly Opelka,141
+USA,105815,Tennys Sandgren,141
+USA,201616,Lauren Davis,141
+USA,201619,Madison Keys,139
+USA,201529,Kristie Ahn,137
+USA,106218,Marcos Giron,136
+USA,106283,Mitchell Krueger,136
+USA,201590,Alison Riske,136
+USA,202479,Grace Min,136
+USA,213767,Ayla Aksu,133
+USA,214452,Caroline Dolehide,131
+USA,213949,Hanna Chang,131
+USA,213672,Usue Maitane Arconada,130
+USA,202484,Nicole Gibbs,130
+USA,201534,Asia Muhammed,128
+USA,203501,Taylor Townsend,128
+USA,105023,Sam Querrey,127
+USA,214906,Claire Liu,125
+USA,111578,Stefan Kozlov,119
+USA,200033,Serena Williams,118
+USA,201585,Sloane Stephens,118
+USA,215371,Francesca Di Lorenzo,115
+USA,203513,Robin Anderson,115
+USA,106058,Jack Sock,113
+USA,213673,Ellie Halbauer,113
+USA,203398,Danielle Lao,112
+USA,215983,Ann Li,111
+USA,111511,Noah Rubin,111
+USA,105065,Tim Smyczek,109
+USA,202379,Chieh Yu Hsu,109
+USA,201603,Shelby Rogers,108
+USA,105992,Ryan Harrison,107
+USA,200748,Venus Williams,105
+USA,105385,Donald Young,104
+USA,105614,Bradley Klahn,104
+USA,214263,Catherine Cartan Bellis,101
+USA,111153,Christopher Eubanks,99
+USA,216153,Amanda Anisimova,97
+USA,213530,Allie Kiick,97
+USA,211765,Emina Bektas,94
+USA,214453,Sophie Chang,94
+USA,201535,Coco Vandeweghe,93
+USA,215037,Kayla Day,93
+USA,105512,Alexander Sarkissian,92
+USA,202495,Jennifer Elie,92
+USA,106261,Dennis Novikov,90
+USA,215064,Maria Mateas,88
+USA,211635,Louisa Chirico,88
+USA,111577,Jared Donaldson,87
+USA,111574,Jc Aragone,85
+USA,214297,Jessie Aney,83
+USA,211854,Katerina Stewart,82
+USA,211225,Quinn Gleason,81
+USA,105960,Evan King,80
+USA,111515,Thai Son Kwiatkowski,79
+USA,221103,Cori Gauff,78
+USA,202500,Maria Sanchez,78
+USA,200624,Sebastian Korda,78
+USA,214728,Ashley Kratzer,76
+USA,105871,Sekou Bangoura,75
+USA,213772,Amy Zhu,74
+USA,110536,Kevin King,72
+USA,206909,Brandon Nakashima,72
+USA,201604,Irina Falconi,72
+USA,216083,Caty Mcnally,71
+USA,200265,Ulises Blanch,68
+USA,221024,Hailey Baptiste,67
+USA,215992,Whitney Osuigwe,66
+USA,106328,Christian Harrison,65
+USA,220465,Katie Volynets,64
+USA,200670,J.J. Wolf,63
+USA,202414,Catherine Harrison,63
+USA,202195,Maxime Cressy,63
+USA,219917,Alycia Parks,63
+USA,222198,Emma Davis,61
+USA,202497,Victoria Duval,60
+USA,202614,Jacqueline Cako,59
+USA,215763,Sofia Sewing,59
+USA,203341,Sanaz Marand,59
+USA,211855,Jessica Ho,58
+USA,216097,Elizabeth Mandlik,56
+USA,105572,Austin Krajicek,55
+USA,203370,Tori Kinard,53
+USA,211103,Shelby Talcott,51
+USA,105654,Daniel Nguyen,51
+USA,214696,Jessica Failla,49
+USA,111582,Jared Hiltzik,49
+USA,201318,Bethanie Mattek Sands,48
+USA,111765,Evan Song,48
+USA,202426,Julia Boserup,47
+USA,202385,Jenson Brooksby,47
+USA,215470,Lorraine M Guillermo,46
+USA,106031,Raymond Sarmiento,46
+USA,213771,Rasheeda Mcadoo,46
+USA,219663,Lauren Proctor,45
+USA,205922,Chanelle Van Nguyen,44
+USA,210382,Sabrina Santamaria,42
+USA,214019,Raveena Kingsley,42
+USA,220548,Peyton Stearns,41
+USA,220371,Ellie Douglas,41
+USA,215794,Hurricane Tyra Black,40
+USA,206433,Nadia Echeverria Alam,39
+USA,201443,Alexa Glatch,38
+USA,205499,Pamela Montez,38
+USA,215769,Sarah Lee,38
+USA,215555,Roosh Wijesundera,38
+USA,201476,Lauren Albanese,38
+USA,106265,Michael Redlicki,38
+USA,201447,Vania King,35
+USA,211094,Julia Elbaba,35
+USA,222036,Zoe Howard,35
+USA,220721,Sophia Whittle,34
+USA,221120,Gianna Pielet,34
+USA,216076,Ashley Lahey,34
+USA,203315,Alexa Guarachi,34
+USA,215230,Katharine Fahey,33
+USA,123768,Collin Altamirano,33
+USA,210293,Joelle Kissell,33
+USA,214777,Taylor Ng,33
+USA,210717,Madeleine Kobelt,33
+USA,132482,Liam Caruana,33
+USA,126206,Alex Rybakov,32
+USA,214849,Maegan Manasse,32
+USA,221914,Jenna Defalco,31
+USA,126152,Ryan Shane,31
+USA,221100,Charlotte Chavatipon,31
+USA,214875,Kennedy Shaffer,30
+USA,213659,Alexa Graham,30
+USA,213861,Ronit Yurovsky,30
+USA,220005,Natasha Subhash,30
+USA,202496,Samantha Crawford,29
+USA,215062,Carson Branstine,28
+USA,203279,Nadja Gilchrist,28
+USA,216065,Elysia Bolton,28
+USA,211179,Amanda Rodgers,28
+USA,203583,Mary Closs,28
+USA,221413,Solymar Colling,28
+USA,206081,Caitlin Whoriskey,28
+USA,215613,Emma Navarro,28
+USA,220550,Dalayna Hewitt,28
+USA,201558,Lauren Embree,28
+USA,219310,Kelly Williford,27
+USA,214562,Ingrid Neel,27
+USA,216398,Kariann Pierre Louis,27
+USA,202448,Zoe Gwen Scandalis,27
+USA,221460,Elle Christensen,27
+USA,104330,Rajeev Ram,27
+USA,215840,Haley Giavara,25
+USA,221023,Victoria Hu,25
+USA,214080,Nicole Coopersmith,25
+USA,221909,Ashlyn Krueger,25
+USA,105281,Eric Quigley,25
+USA,221905,Robin Montgomery,24
+USA,220722,Elvina Kalieva,24
+USA,214265,Madison Westby,24
+USA,210146,Brynn Boren,24
+USA,222032,Gabriella Price,23
+USA,105447,Dennis Nevolo,23
+USA,111583,Martin Redlicki,23
+USA,210357,Mara Schmidt,23
+USA,222033,Vanessa Ong,23
+USA,211638,Madison Bourguignon,23
+USA,220456,Naomi Cheong,22
+USA,221512,Katrina Scott,22
+USA,201530,Gail Brodsky,22
+USA,214887,Stephanie Nemtsova,22
+USA,202318,Roy Smith,21
+USA,126177,Strong Kirchheimer,21
+USA,215993,Christina Rosca,21
+USA,214298,Andie K Daniell,21
+USA,222080,Hina Inoue,20
+USA,210860,Jessica Wacnik,20
+USA,222081,Eleana Yu,20
+USA,216092,Isabella Harvison,20
+USA,214262,Ena Shibahara,20
+USA,220440,Alexa Noel,20
+USA,104864,Alex Kuznetsov,19
+USA,111436,Nick Chappell,19
+USA,204415,Alexandra Riley,19
+USA,222262,Jamilah Snells,19
+USA,222402,Madison Appel,18
+USA,220891,Kylie Collins,18
+USA,220723,Jessica Livianu,18
+USA,222299,Adriana Reami,18
+USA,104548,Brian Baker,18
+USA,220561,Monica Robinson,18
+USA,202906,Kaitlyn Christian,18
+USA,222037,Rachel Gailis,18
+USA,221627,Kimmi Hance,17
+USA,215085,Zoe Hitt,17
+USA,213668,Alexandra Morozova,17
+USA,214539,Yuki Kristina Chiang,17
+USA,215226,Anna Ulyashchenko,17
+USA,127028,Tom Fawcett,16
+USA,201528,Melanie Oudin,16
+USA,214909,Jada Robinson,16
+USA,206499,Aleksandar Kovacevic,16
+USA,215000,Paige Cline,16
+USA,222837,Malaika Rapolu,15
+USA,204424,Hayley Carter,15
+USA,207182,Emilio Nava,15
+USA,215352,Victoria Emma,15
+USA,221241,Amber Washington,15
+USA,103665,Ryan Haviland,15
+USA,215921,Salma Ewing,15
+USA,221057,Nina Ugrelidze,15
+USA,221440,Allura Zamarripa,14
+USA,200516,Patrick Kypson,14
+USA,105336,Nicolas Meister,14
+USA,221146,Alyssa Tobita,14
+USA,215383,Eva Siskova,13
+USA,215847,Nikita Uberoi,13
+USA,220520,Mccartney Kessler,13
+USA,220014,Safiya Carrington,13
+USA,111570,Ronnie Schneider,13
+USA,222509,Misa Malkin,13
+USA,209771,Stephanie Kent,13
+USA,221291,Holly Verner,12
+USA,202447,Alexandra Mueller,12
+USA,213521,Megan Mccray,12
+USA,221240,Alexa Pitt,12
+USA,220673,Alona Smith,12
+USA,111156,Nathan Pasha,12
+USA,200225,Nathaniel Lammons,12
+USA,213898,Rhiann Newborn,12
+USA,110636,Clay Thompson,12
+USA,221143,Connie Ma,12
+USA,222403,Jwany Sherif,12
+USA,221202,Katja Wiersholm,11
+USA,106335,Alexios Halebian,11
+USA,221360,Adesuwa Osabuohien,11
+USA,215065,Kylie Mckenzie,11
+USA,220724,Alexandra Yepifanova,11
+USA,200228,Felix Corwin,11
+USA,221127,Tara Malik,11
+USA,220546,Tricia Mar,11
+USA,216164,Hind Abdelouahid,11
+USA,144652,William Blumberg,11
+USA,222159,Katya Townsend,11
+USA,214271,Jaeda Daniel,10
+USA,221915,Midori Castillo Meza,10
+USA,221433,Shatoo Mohamad,10
+USA,200219,John Mcnally,10
+USA,222095,Shria Atturu,10
+USA,122248,Peter Kobelt,10
+USA,127036,Aron Hiltzik,10
+USA,222034,Reese Brantmeier,10
+USA,214400,Rianna Valdes,10
+USA,222254,Keisha R Clousing,10
+USA,200589,Sam Riffice,9
+USA,211725,Nicole Frenkel,9
+USA,222227,Gracie Epps,9
+USA,200366,Olukayode Alafia Damina Ayeni,9
+USA,221441,Maribella Zamarripa,9
+USA,214261,Michaela Gordon,9
+USA,218226,Angela Kulikov,9
+USA,203550,Brianna Morgan,9
+USA,222511,Taylor Cataldi,9
+USA,222648,Krystal Blanch,9
+USA,221633,Sophie Williams,9
+USA,221221,Savannah Broadus,8
+USA,213665,Emerald Able,8
+USA,239186,Lexington Reed,8
+USA,221021,Jaleesa Leslie,8
+USA,204364,Josie Kuhlman,8
+USA,200083,Alexandra Stevenson,8
+USA,104070,Jesse Witten,8
+USA,202333,Keegan Smith,8
+USA,220675,Carmen Corley,8
+USA,220379,Anna Baranovski,8
+USA,221416,Audrey Ann Blakely,8
+USA,200230,Alexander Brown,7
+USA,200632,Evan Zhu,7
+USA,211452,Eva Raszkiewicz,7
+USA,221091,Hailey Wilcox,7
+USA,215612,Elizabeth Scotty,7
+USA,208260,Zachary Svajda,7
+USA,221104,Hibah Shaikh,7
+USA,215305,Desirae Krawczyk,7
+USA,222138,Alexis Keberle,7
+USA,222091,Dylan Cline,7
+USA,222223,Karina Miller,7
+USA,200587,Brandon Holt,7
+USA,110750,Eric Johnson,7
+USA,215251,Elyse Lavender,7
+USA,214296,Erica Oosterhout,7
+USA,111586,Deiton Baughman,7
+USA,220674,Ivana Corley,7
+USA,206353,Lauren Marker,7
+USA,215227,Abigail Desiatnikov,7
+USA,220665,Brittany Collens,7
+USA,221942,Kendra Bunch,6
+USA,222264,Zora Hudson,6
+USA,200610,Oliver Crawford,6
+USA,221220,Lea Ma,6
+USA,239491,Paris Corley,6
+USA,202171,Danny Thomas,6
+USA,222035,Jaedan Brown,6
+USA,203414,Nicole Melichar,6
+USA,220884,Sophia Hatton,6
+USA,203360,Lauren Herring,6
+USA,222256,Jeanette Mireles,6
+USA,213637,Tina Tehrani,6
+USA,138550,Jackson J Withrow,6
+USA,223093,Jillian Louise Roa,6
+USA,222201,Emma Lella,6
+USA,110740,John Lamble,6
+USA,215406,Teresia Londol,6
+USA,221421,Dasha Kourkina,6
+USA,221944,Jacqueline Payne,6
+USA,222157,Camille Townsend,6
+USA,106327,Harrison Adams,6
+USA,221906,Maxi Duncan,6
+USA,216109,Anna Zhang,6
+USA,105398,Adam El Mihdawy,6
+USA,122241,Winston Lin,6
+USA,222947,Maya Pitts,6
+USA,222404,Natalie Johnson,6
+USA,213899,Frances Altick,6
+USA,200415,Robert Galloway,6
+USA,220139,Sophie Abrams,5
+USA,215378,Jerricka Boone,5
+USA,221585,Lilian Poling,5
+USA,105509,Andrew Carter,5
+USA,201509,Ashley Weinhold,5
+USA,216155,Jada Hart,5
+USA,219848,Lauren Cooper,5
+USA,220490,Nikki Redelijk,5
+USA,214779,Sara Daavettila,5
+USA,132437,Logan Smith,5
+USA,222448,Muskan Mahajan,5
+USA,222096,Isabelle Kouzmanov,5
+USA,215384,Miranda Ramirez,5
+USA,220462,Sabina Dadaciu,5
+USA,215943,Alexa Ryngler,5
+USA,106103,Hunter Callahan,5
+USA,215790,Alexandra Sanford,5
+USA,208527,Zane Khan,5
+USA,220680,Fiona Crawley,5
+USA,106360,Connor Farren,5
+USA,222189,Anna Sinclair Rogers,5
+USA,221729,Anna Borovinskaya,5
+USA,214610,Aimee Tarun,4
+USA,221171,Kimmy A Guerin,4
+USA,223268,Samantha Imbo Nloga,4
+USA,205686,Keri Wong,4
+USA,200598,Isaiah Strode,4
+USA,214309,Kelly Chen,4
+USA,221239,Priyanka Shah,4
+USA,200220,Zeke Clark,4
+USA,214978,Akiko Okuda,4
+USA,223453,Brooklyn Olson,4
+USA,214873,Victoria Flores,4
+USA,200729,Lindsay Lee Waters,4
+USA,111569,Gage Brymer,4
+USA,221509,Ava Hrastar,4
+USA,111568,Michael Zhu,4
+USA,131999,Kyle Seelig,4
+USA,221507,Payton Andrews,4
+USA,221754,Rebecca Lynn,4
+USA,207181,Govind Nanda,4
+USA,205823,Anna Mamalat,4
+USA,110539,Wil Spencer,4
+USA,202139,Julian Zlobinsky,4
+USA,221624,Carson Tanguilig,4
+USA,200336,Trent Bryde,3
+USA,202248,Alex Lawson,3
+USA,214572,Felicity Maltby,3
+USA,220337,Chelsea Kung,3
+USA,221374,Danielle Willson,3
+USA,222187,Kenya Jones,3
+USA,220887,Elizabeth Coleman,3
+USA,213669,Aleah Marrow,3
+USA,201767,Sylvia Schenck,3
+USA,222260,Althea Hudson,3
+USA,222230,Constance Branstine,3
+USA,221478,Jessica Marmorstein,3
+USA,222732,Brooke Killingsworth,3
+USA,222188,Carly Briggs,3
+USA,202130,Emil Reinberg,3
+USA,105733,Rhyne Williams,3
+USA,222085,Amy Kaplan,3
+USA,222174,Julia Jordan,3
+USA,111752,Raleigh Smith,3
+USA,214710,Valerie Quiceno,3
+USA,215374,Chiara Lommer,3
+USA,207992,Cannon Kingsley,3
+USA,222341,Aditi Sinha,3
+USA,222955,Sarah Hamner,3
+USA,222255,Kailey Evans,3
+USA,216233,Mia Rabinowitz,3
+USA,211114,Epiphany B Turner,3
+USA,221912,Bryn Johnson,3
+USA,200532,Vasil Kirkov,3
+USA,219704,Gabrielle Smith,3
+USA,223168,Mary Stoiana,3
+USA,216217,Micheline Aubuchon,3
+USA,222038,Elaine Chervinsky,3
+USA,221115,Julia Ronney,3
+USA,222691,Emira Stafford,2
+USA,215278,Ines Karmen Vias,2
+USA,222039,Mackenzie Clark,2
+USA,110761,Patrick Daciek,2
+USA,210517,Kayla Rizzolo,2
+USA,211771,Julia Jones,2
+USA,222094,Kaheaokaleonahenahemaikalani Companion,2
+USA,238064,Clervie Ngounoue,2
+USA,222913,Marika Jones,2
+USA,221082,Lina Boylan,2
+USA,223074,Qavia Lopez,2
+USA,105290,Tyler Hochwalt,2
+USA,222608,Calissa Dellabarca,2
+USA,214798,Jane Wasserson,2
+USA,102093,Martin Damm,2
+USA,221789,Alexis Blokhina,2
+USA,216021,Nicole Mossmer,2
+USA,200171,Robert Kelly,2
+USA,239103,Mckenna Schaefbauer,2
+USA,121395,Connor Smith,2
+USA,215376,Melissa Kopinski,2
+USA,220312,Taylor Johnson,2
+USA,221399,Keira Jirasook,2
+USA,220725,Allie Gretkowski,2
+USA,222692,Hadley Doyle,2
+USA,138591,Gui Gomes,2
+USA,111809,Henry Craig,2
+USA,222149,Brianna Tulloch,2
+USA,208143,Garrett Johns,2
+USA,215981,Neri Cohen,2
+USA,206894,Hunter Tubert,2
+USA,232886,Sophia Natalya Baranov,2
+USA,200533,Pam Casale,2
+USA,222834,Skyler Marie Grace Grishuk,2
+USA,203328,Allie Will,2
+USA,111579,Henrik Wiersholm,2
+USA,216120,Dakota Fordham,2
+USA,222175,Kennedy Bridgforth,2
+USA,216424,Caroline Dunleavy,2
+USA,200217,Jacob Dunbar,2
+USA,211174,Kelsey Laurente,2
+USA,203357,Libby Muma,2
+USA,214783,Jayci Goldsmith,2
+USA,213863,Kristina N Smith,2
+USA,221067,Alessandra Crump,2
+USA,122240,Justin S Shane,2
+USA,222780,Elizabeth Stevens,1
+USA,220728,Meg Kowalski,1
+USA,206910,Daly Meinert,1
+USA,207202,Karl Poling,1
+USA,125829,Samuel Shropshire,1
+USA,222257,Zeba Jamal,1
+USA,214347,Terri Fleming,1
+USA,205917,Kyle Mcphillips,1
+USA,215228,Cameron Morra,1
+USA,216221,Anna Bright,1
+USA,222109,Leila Epstein,1
+USA,135010,David Nguyen,1
+USA,222261,Jami Marie Burt,1
+USA,220050,Madison Harrison,1
+USA,222817,Lara Schneider,1
+USA,222052,Ashanti Campfield,1
+USA,234502,Rutuja Chaphalkar,1
+USA,127024,Martin Joyce,1
+USA,106304,Mico Santiago,1
+USA,221601,Bridget Stammel,1
+USA,144687,Quinton Vega,1
+USA,222266,Scout Mathews,1
+USA,202173,Jeffrey Schorsch,1
+USA,104998,Michael Shabaz,1
+USA,220388,Sharmada Iyer,1
+USA,222331,Anastasia Tkachenko,1
+USA,216024,Paiton Wagner,1
+USA,202144,Jake Douglas,1
+USA,223389,Emily De Oliveira,1
+USA,132609,Nicholas Bybel,1
+USA,222172,Jennifer Gadalov,1
+USA,223146,Isabella Barrera Aguirre,1
+USA,210327,Morocco Hitt,1
+USA,132054,Nathan Ponwith,1
+USA,219471,Alexandra Belaya,1
+USA,216307,Ryan Peus,1
+USA,215931,Madeline Meredith,1
+USA,111509,Spencer Papa,1
+USA,222963,Brooke Thompson,1
+USA,106104,Dane Webb,1
+USA,209866,Grace Leake,1
+USA,216001,Sofia Booth,1
+USA,220381,Madison Gallegos,1
+USA,222733,Enya Ratkic,1
+USA,214067,Idia Amen,1
+USA,214709,Ashley Mackey,1
+USA,245123,Matt Halpin,1
+USA,221448,Audrey Boch Collins,1
+USA,216391,Helen Abigail Altick,1
+USA,216022,Kenadi Hance,1
+USA,126098,Collin Johns,1
+USA,221511,Ruth Marsh,1
+USA,132663,Patrick Kawka,1
+USA,221297,Emily Bi,1
+USA,215844,Jenna Friedel,1
+USA,233726,Amina Salibayeva,1
+USA,215458,Julia Fisch,1
+USA,216052,Shannon Hudson,1
+USA,220552,Cassie Mercer,1
+USA,222143,Kriti Williams,1
+USA,214910,Sara Kelly,1
+USA,216421,Kennedy Wicker,1
+USA,111567,Matthew Kandath,1
+USA,222910,Mirabelle Brettkelly,1
+USA,209080,Blaise Bicknell,1
+USA,126570,William Griffith,1
+USA,215793,Dilara Spicer,1
+USA,109632,Matt Seeberger,1
+USA,213562,Ty Ana Williams,1
+USA,138132,Shane Monroe,1
+USA,222909,Leyden Games,1
+USA,126567,Trevor Allen Johnson,1
+USA,222234,Anna Riedmiller,1
+USA,221790,Violeta Martinez,1
+USA,221752,Sonya Macavei,1
+USA,121938,Hunter Reese,1
+USA,220711,Cydnee Wilkinson,1
+USA,238088,Jacqueline Soloveychik,1
+USA,222446,Elan Mnatsakanov,1
+USA,221020,Madison Sieg,1
+USA,205992,Austin Hussey,1
+USA,215814,Nami Otsuka,1
+USA,132023,Jean Thirouin,1
+USA,222486,Myrna Olaya,1
+USA,222194,Zaina Nait Omar,1
+USA,222494,Sierra Stone,1
+USA,111208,Tim Kopinski,1
+USA,216264,Abigail Forbes,1
+USA,201898,Russell Benkaim,1
+USA,222985,Misha Berry,1
+USA,211936,Parris Todd,1
+USA,222964,Patience Monroe,1
+USA,202167,Tyler Lu,1
+USA,106269,Austin Smith,1
+USA,222200,Alana Wolfberg,1
+USA,200222,Nicholas S Hu,1
+USA,206859,Eward Covalschi,1
+USA,208649,Andrew Fenty,1
+USA,213563,Karina Kristina Vyrlan,1
+USA,122503,Jonathan Ho,1
+USA,210097,Ben Shelton,1
+USA,210719,Rachel Janssen,1
+USA,221093,Shelby Prince,1
+USA,214877,Makenna Jones,1
+USA,222280,Sara Jamal,1
+USA,215893,Meghan Kelley,1
+USA,211893,Kaitlyn Mccarthy,1
+USA,222782,Ella Faessler,1
+USA,216263,Chloe Beck,1
+UZB,201674,Sabina Sharipova,167
+UZB,202387,Vlada Ekshibarova,148
+UZB,104797,Denis Istomin,135
+UZB,201672,Nigina Abduraimova,106
+UZB,201454,Akgul Amanmuradova,57
+UZB,203469,Albina Khabibulina,37
+UZB,126939,Khumoun Sultanov,33
+UZB,214534,Komola Umarova,17
+UZB,122109,Sanjar Fayziev,17
+UZB,204397,Arina Folts,17
+UZB,104736,Farrukh Dustov,16
+UZB,217988,Larisa Bekmetova,10
+UZB,106381,Temur Ismailov,8
+UZB,219874,Sevil Yuldasheva,8
+UZB,127300,Jurabek Karimov,7
+UZB,200672,Sergey Fomin,7
+UZB,219872,Milana Maslenkova,7
+UZB,215950,Yasmina Karimjanova,4
+UZB,216261,Gulsina Khalimullina,4
+UZB,206414,Guzal Yusupova,4
+UZB,132299,Saidalo Saidkarimov,3
+UZB,126938,Sharobiddin Abzalov,3
+UZB,207295,Olimjon Nabiev,3
+UZB,223449,Iroda Makhamatjonova,3
+UZB,220099,Nasiba Espolova,3
+UZB,106204,Nigmat Shofayziev,3
+UZB,200148,Amal Sultanbekov,2
+UZB,207363,Aziz Dadabaev,2
+UZB,206395,Sarvinoz Saidhujaeva,2
+UZB,105816,Batyr Sapaev,2
+UZB,215871,Laylo Bahodyrova,2
+UZB,214344,Shakhnoza Khatamova,2
+UZB,126937,Odil Akramov,1
+UZB,109343,Pavel Tsoy,1
+UZB,215951,Valentina Shleyn,1
+UZB,200147,Shohruh Abdumalikov,1
+UZB,126263,Sanetulla Kutybaev,1
+UZB,120563,Abror Isakov,1
+UZB,104927,Sardor Pulatov,1
+UZB,214864,Yuliya Kim,1
+UZB,222029,Kristina Mayer,1
+UZB,220499,Muslima Akhunova,1
+UZB,220678,Olesya Kim,1
+UZB,204345,Polina Merenkova,1
+VEN,203521,Andrea Gamiz,166
+VEN,206387,Aymet Uzcategui,32
+VEN,106175,Ricardo Rodriguez,29
+VEN,105334,Luis David Martinez,27
+VEN,221002,Luniuska Delgado,7
+VEN,212202,Mariaryeni Gutierrez,4
+VEN,222298,Lorelyz Marruffo,4
+VEN,203584,Adriana Perez,3
+VEN,105961,David Souto,3
+VEN,105467,Jordi Munoz Abreu,3
+VEN,144799,Miguel Angel Este,1
+VIE,122533,Nam Hoang Ly,18
+VIE,106392,Thien Nguyen Hoang,1
+VIE,123971,Hoang Anh Khoa Tran,1
+ZIM,210526,Valeria Bhunu,69
+ZIM,105626,Takanyi Garanganga,31
+ZIM,111761,Benjamin Lock,24
+ZIM,214502,Nicole Dzenga,3
+ZIM,200250,Mehluli Don Ayanda Sibanda,2
+ZIM,214961,Kimberly Mpukusa,2
